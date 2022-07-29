@@ -1,13 +1,67 @@
 [
   {
+    "full_name": "Oak-Harbor-Kits/Contract-Templates",
+    "stargazers_count": 1228,
+    "open_issues_count": 0,
+    "forks_count": 186
+  },
+  {
+    "full_name": "m4tt72/terminal",
+    "stargazers_count": 461,
+    "open_issues_count": 4,
+    "forks_count": 71
+  },
+  {
+    "full_name": "alexandresanlim/Badges4-README.md-Profile",
+    "stargazers_count": 5355,
+    "open_issues_count": 1,
+    "forks_count": 1126
+  },
+  {
+    "full_name": "tvillarete/apple-music-js",
+    "stargazers_count": 1777,
+    "open_issues_count": 10,
+    "forks_count": 173
+  },
+  {
+    "full_name": "Budibase/budibase",
+    "stargazers_count": 14354,
+    "open_issues_count": 626,
+    "forks_count": 795
+  },
+  {
+    "full_name": "Exomus/awesome-threejs",
+    "stargazers_count": 95,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "ektogamat/camera-webgi",
+    "stargazers_count": 36,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "puppeteer/puppeteer",
+    "stargazers_count": 79169,
+    "open_issues_count": 348,
+    "forks_count": 8504
+  },
+  {
+    "full_name": "yangshun/tech-interview-handbook",
+    "stargazers_count": 75068,
+    "open_issues_count": 13,
+    "forks_count": 10145
+  },
+  {
     "full_name": "kylelobo/The-Documentation-Compendium",
-    "stargazers_count": 4567,
+    "stargazers_count": 4573,
     "open_issues_count": 19,
     "forks_count": 591
   },
   {
     "full_name": "Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng",
-    "stargazers_count": 42,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -15,25 +69,25 @@
     "full_name": "sandoche/Mobile-app-landingpage-template",
     "stargazers_count": 390,
     "open_issues_count": 6,
-    "forks_count": 116
+    "forks_count": 117
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2555,
+    "stargazers_count": 2556,
     "open_issues_count": 26,
     "forks_count": 247
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 30282,
-    "open_issues_count": 24,
-    "forks_count": 2645
+    "stargazers_count": 30409,
+    "open_issues_count": 26,
+    "forks_count": 2657
   },
   {
     "full_name": "denysdovhan/learnyouhtml",
     "stargazers_count": 129,
     "open_issues_count": 2,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "TylerPottsDev/js-slider",
@@ -55,15 +109,15 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 384,
-    "open_issues_count": 35,
+    "stargazers_count": 386,
+    "open_issues_count": 36,
     "forks_count": 39
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 42768,
+    "stargazers_count": 42795,
     "open_issues_count": 192,
-    "forks_count": 3513
+    "forks_count": 3514
   },
   {
     "full_name": "rayning0/FAANG_interview_prep",
@@ -73,43 +127,43 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 41902,
+    "stargazers_count": 42037,
     "open_issues_count": 93,
-    "forks_count": 5701
+    "forks_count": 5708
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 39877,
-    "open_issues_count": 13,
-    "forks_count": 5878
+    "stargazers_count": 39919,
+    "open_issues_count": 9,
+    "forks_count": 5888
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 3904,
+    "stargazers_count": 3926,
     "open_issues_count": 1,
-    "forks_count": 269
+    "forks_count": 274
   },
   {
     "full_name": "nbusseneau/hephaistos",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "amsXYZ/three-fluid-sim",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 5655,
-    "open_issues_count": 95,
+    "stargazers_count": 5665,
+    "open_issues_count": 94,
     "forks_count": 211
   },
   {
     "full_name": "basti564/Oculess",
-    "stargazers_count": 1478,
+    "stargazers_count": 1481,
     "open_issues_count": 15,
     "forks_count": 61
   },
@@ -117,66 +171,12 @@
     "full_name": "thejsway/thejsway",
     "stargazers_count": 7633,
     "open_issues_count": 6,
-    "forks_count": 757
+    "forks_count": 758
   },
   {
     "full_name": "degecko/linak-ctrl",
     "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "phosphor-icons/phosphor-home",
-    "stargazers_count": 1568,
-    "open_issues_count": 81,
-    "forks_count": 35
-  },
-  {
-    "full_name": "eludadev/chippy",
-    "stargazers_count": 24,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dotnet/docs",
-    "stargazers_count": 3445,
-    "open_issues_count": 965,
-    "forks_count": 5235
-  },
-  {
-    "full_name": "ytisf/theZoo",
-    "stargazers_count": 8719,
-    "open_issues_count": 59,
-    "forks_count": 2206
-  },
-  {
-    "full_name": "eugustavo/github-badges",
-    "stargazers_count": 123,
-    "open_issues_count": 17,
-    "forks_count": 7
-  },
-  {
-    "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 43854,
-    "open_issues_count": 286,
-    "forks_count": 10544
-  },
-  {
-    "full_name": "khalby786/REHeader",
-    "stargazers_count": 120,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "durgeshsamariya/awesome-github-profile-readme-templates",
-    "stargazers_count": 1871,
-    "open_issues_count": 23,
-    "forks_count": 4133
-  },
-  {
-    "full_name": "tipsy/profile-summary-for-github",
-    "stargazers_count": 19607,
-    "open_issues_count": 15,
-    "forks_count": 487
   }
 ]
