@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "desandro/imagesloaded",
+    "stargazers_count": 8725,
+    "open_issues_count": 10,
+    "forks_count": 1196
+  },
+  {
+    "full_name": "lbebber/HeatDistortionEffect",
+    "stargazers_count": 287,
+    "open_issues_count": 5,
+    "forks_count": 63
+  },
+  {
     "full_name": "riccardoscalco/Pykov",
     "stargazers_count": 424,
     "open_issues_count": 8,
@@ -7,21 +19,21 @@
   },
   {
     "full_name": "Oak-Harbor-Kits/Contract-Templates",
-    "stargazers_count": 1238,
+    "stargazers_count": 1241,
     "open_issues_count": 0,
     "forks_count": 188
   },
   {
     "full_name": "m4tt72/terminal",
-    "stargazers_count": 495,
+    "stargazers_count": 502,
     "open_issues_count": 4,
-    "forks_count": 81
+    "forks_count": 85
   },
   {
     "full_name": "alexandresanlim/Badges4-README.md-Profile",
-    "stargazers_count": 5487,
+    "stargazers_count": 5515,
     "open_issues_count": 2,
-    "forks_count": 1138
+    "forks_count": 1145
   },
   {
     "full_name": "tvillarete/apple-music-js",
@@ -31,67 +43,67 @@
   },
   {
     "full_name": "Budibase/budibase",
-    "stargazers_count": 14553,
-    "open_issues_count": 664,
-    "forks_count": 817
+    "stargazers_count": 14602,
+    "open_issues_count": 673,
+    "forks_count": 824
   },
   {
     "full_name": "0xAxiome/awesome-threejs",
-    "stargazers_count": 124,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "ektogamat/camera-webgi",
-    "stargazers_count": 81,
+    "stargazers_count": 87,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "puppeteer/puppeteer",
-    "stargazers_count": 79389,
-    "open_issues_count": 332,
-    "forks_count": 8518
+    "stargazers_count": 79448,
+    "open_issues_count": 336,
+    "forks_count": 8519
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 76029,
+    "stargazers_count": 76205,
     "open_issues_count": 14,
-    "forks_count": 10246
+    "forks_count": 10276
   },
   {
     "full_name": "kylelobo/The-Documentation-Compendium",
-    "stargazers_count": 4593,
+    "stargazers_count": 4600,
     "open_issues_count": 19,
-    "forks_count": 599
+    "forks_count": 600
   },
   {
     "full_name": "Nicell/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng",
-    "stargazers_count": 83,
+    "stargazers_count": 92,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "sandoche/Mobile-app-landingpage-template",
-    "stargazers_count": 396,
+    "stargazers_count": 397,
     "open_issues_count": 6,
     "forks_count": 119
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2567,
+    "stargazers_count": 2568,
     "open_issues_count": 26,
     "forks_count": 247
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 30647,
-    "open_issues_count": 29,
-    "forks_count": 2680
+    "stargazers_count": 30679,
+    "open_issues_count": 28,
+    "forks_count": 2683
   },
   {
     "full_name": "denysdovhan/learnyouhtml",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 2,
     "forks_count": 151
   },
@@ -115,39 +127,39 @@
   },
   {
     "full_name": "reuseman/flashcards-obsidian",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 36,
     "forks_count": 40
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 42895,
+    "stargazers_count": 42926,
     "open_issues_count": 193,
-    "forks_count": 3521
+    "forks_count": 3520
   },
   {
     "full_name": "rayning0/FAANG_interview_prep",
-    "stargazers_count": 68,
+    "stargazers_count": 72,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 42499,
+    "stargazers_count": 42599,
     "open_issues_count": 97,
-    "forks_count": 5727
+    "forks_count": 5736
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 40545,
+    "stargazers_count": 40650,
     "open_issues_count": 11,
-    "forks_count": 5971
+    "forks_count": 5988
   },
   {
     "full_name": "n3r4zzurr0/svg-spinners",
-    "stargazers_count": 3972,
+    "stargazers_count": 4034,
     "open_issues_count": 0,
-    "forks_count": 277
+    "forks_count": 291
   },
   {
     "full_name": "nbusseneau/hephaistos",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "amsXYZ/three-fluid-sim",
-    "stargazers_count": 83,
+    "stargazers_count": 86,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 5749,
-    "open_issues_count": 83,
+    "stargazers_count": 5764,
+    "open_issues_count": 79,
     "forks_count": 219
-  },
-  {
-    "full_name": "basti564/Oculess",
-    "stargazers_count": 1498,
-    "open_issues_count": 13,
-    "forks_count": 61
-  },
-  {
-    "full_name": "thejsway/thejsway",
-    "stargazers_count": 7651,
-    "open_issues_count": 6,
-    "forks_count": 761
   }
 ]
