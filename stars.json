@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "octoshrimpy/learn",
+    "stargazers_count": 33,
+    "open_issues_count": 12,
+    "forks_count": 8
+  },
+  {
     "full_name": "isonmad/discord.js",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 20733,
-    "open_issues_count": 101,
-    "forks_count": 3524
+    "stargazers_count": 20765,
+    "open_issues_count": 104,
+    "forks_count": 3523
   },
   {
     "full_name": "uetchy/namae",
@@ -19,164 +25,158 @@
   },
   {
     "full_name": "tidyverse/dplyr",
-    "stargazers_count": 4182,
-    "open_issues_count": 35,
+    "stargazers_count": 4185,
+    "open_issues_count": 36,
     "forks_count": 1453
   },
   {
     "full_name": "airbnb/css",
-    "stargazers_count": 6480,
+    "stargazers_count": 6485,
     "open_issues_count": 20,
-    "forks_count": 1400
+    "forks_count": 1401
   },
   {
     "full_name": "leon-ai/leon",
-    "stargazers_count": 9072,
-    "open_issues_count": 64,
-    "forks_count": 814
+    "stargazers_count": 10067,
+    "open_issues_count": 62,
+    "forks_count": 836
   },
   {
     "full_name": "Rob--W/dont-track-me-google",
-    "stargazers_count": 299,
+    "stargazers_count": 302,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 102009,
+    "stargazers_count": 102090,
     "open_issues_count": 0,
-    "forks_count": 10653
+    "forks_count": 10656
   },
   {
     "full_name": "freeCodeCamp/demo-projects",
     "stargazers_count": 73,
-    "open_issues_count": 7,
+    "open_issues_count": 4,
     "forks_count": 33
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 158530,
+    "stargazers_count": 158659,
     "open_issues_count": 132,
-    "forks_count": 31049
+    "forks_count": 31076
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 122709,
-    "open_issues_count": 8,
-    "forks_count": 16382
+    "stargazers_count": 123069,
+    "open_issues_count": 9,
+    "forks_count": 16415
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 246992,
-    "open_issues_count": 39,
-    "forks_count": 50483
+    "stargazers_count": 247284,
+    "open_issues_count": 41,
+    "forks_count": 50520
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 217456,
+    "stargazers_count": 218101,
     "open_issues_count": 42,
-    "forks_count": 24089
+    "forks_count": 24125
   },
   {
     "full_name": "sass/sass",
-    "stargazers_count": 14124,
-    "open_issues_count": 103,
+    "stargazers_count": 14129,
+    "open_issues_count": 102,
     "forks_count": 2006
   },
   {
     "full_name": "BenRoe/awesome-mechanical-keyboard",
-    "stargazers_count": 2176,
+    "stargazers_count": 2181,
     "open_issues_count": 17,
-    "forks_count": 172
+    "forks_count": 171
   },
   {
     "full_name": "hankchizljaw/modern-css-reset",
-    "stargazers_count": 2594,
+    "stargazers_count": 2599,
     "open_issues_count": 17,
-    "forks_count": 436
+    "forks_count": 437
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 27651,
-    "open_issues_count": 21,
-    "forks_count": 1996
+    "stargazers_count": 28021,
+    "open_issues_count": 22,
+    "forks_count": 2020
   },
   {
     "full_name": "metagrover/ES6-for-humans",
-    "stargazers_count": 5936,
+    "stargazers_count": 5942,
     "open_issues_count": 1,
-    "forks_count": 450
+    "forks_count": 455
   },
   {
     "full_name": "sapegin/jest-cheat-sheet",
-    "stargazers_count": 4701,
+    "stargazers_count": 4703,
     "open_issues_count": 0,
     "forks_count": 610
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 51513,
+    "stargazers_count": 51570,
     "open_issues_count": 26,
-    "forks_count": 7087
+    "forks_count": 7093
   },
   {
     "full_name": "sorrycc/awesome-javascript",
-    "stargazers_count": 28597,
-    "open_issues_count": 36,
-    "forks_count": 4038
+    "stargazers_count": 28680,
+    "open_issues_count": 37,
+    "forks_count": 4050
   },
   {
     "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
-    "stargazers_count": 1273,
+    "stargazers_count": 1276,
     "open_issues_count": 44,
-    "forks_count": 629
+    "forks_count": 630
   },
   {
     "full_name": "n0shake/Public-APIs",
-    "stargazers_count": 18895,
+    "stargazers_count": 18912,
     "open_issues_count": 1,
-    "forks_count": 1630
+    "forks_count": 1629
   },
   {
     "full_name": "snipcart/learn-vanilla-js",
-    "stargazers_count": 1331,
-    "open_issues_count": 3,
-    "forks_count": 220
+    "stargazers_count": 1333,
+    "open_issues_count": 4,
+    "forks_count": 221
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 4265,
-    "open_issues_count": 90,
-    "forks_count": 204
+    "stargazers_count": 4286,
+    "open_issues_count": 92,
+    "forks_count": 211
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 37524,
-    "open_issues_count": 234,
-    "forks_count": 5551
+    "stargazers_count": 37639,
+    "open_issues_count": 232,
+    "forks_count": 5569
   },
   {
     "full_name": "Pradumnasaraf/open-source-with-pradumna",
-    "stargazers_count": 277,
-    "open_issues_count": 6,
-    "forks_count": 44
+    "stargazers_count": 296,
+    "open_issues_count": 13,
+    "forks_count": 49
   },
   {
     "full_name": "sudheerj/reactjs-interview-questions",
-    "stargazers_count": 23465,
+    "stargazers_count": 23529,
     "open_issues_count": 5,
-    "forks_count": 5786
+    "forks_count": 5801
   },
   {
     "full_name": "yangshun/front-end-interview-handbook",
-    "stargazers_count": 35017,
-    "open_issues_count": 18,
-    "forks_count": 5143
-  },
-  {
-    "full_name": "rayning0/javascript-algorithms",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 35055,
+    "open_issues_count": 16,
+    "forks_count": 5146
   }
 ]
