@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "SVG-Edit/svgedit",
+    "stargazers_count": 5191,
+    "open_issues_count": 32,
+    "forks_count": 1333
+  },
+  {
+    "full_name": "open-source-labs/reactime",
+    "stargazers_count": 1678,
+    "open_issues_count": 27,
+    "forks_count": 142
+  },
+  {
     "full_name": "bradtraversy/node_crash_course",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "open_issues_count": 12,
     "forks_count": 259
   },
   {
     "full_name": "gkjohnson/three-bvh-csg",
-    "stargazers_count": 144,
-    "open_issues_count": 34,
+    "stargazers_count": 145,
+    "open_issues_count": 36,
     "forks_count": 12
   },
   {
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "honzaap/GithubCity",
-    "stargazers_count": 867,
+    "stargazers_count": 872,
     "open_issues_count": 1,
     "forks_count": 38
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 32205,
-    "open_issues_count": 778,
-    "forks_count": 2541
+    "stargazers_count": 32391,
+    "open_issues_count": 791,
+    "forks_count": 2560
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 12440,
-    "open_issues_count": 32,
-    "forks_count": 552
+    "stargazers_count": 13050,
+    "open_issues_count": 40,
+    "forks_count": 586
   },
   {
     "full_name": "facebook/react",
-    "stargazers_count": 194802,
-    "open_issues_count": 1096,
-    "forks_count": 40262
+    "stargazers_count": 194975,
+    "open_issues_count": 1105,
+    "forks_count": 40314
   },
   {
     "full_name": "nibble-4bits/codewars-solutions-scraper",
@@ -49,27 +61,27 @@
   },
   {
     "full_name": "oslabs-beta/BACE",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "pyxelr/my-anki-decks-of-flashcards",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "lklima/rn-flight-animation",
-    "stargazers_count": 197,
+    "stargazers_count": 210,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 21
   },
   {
     "full_name": "rwaldron/idiomatic.js",
-    "stargazers_count": 20917,
+    "stargazers_count": 20940,
     "open_issues_count": 53,
-    "forks_count": 3009
+    "forks_count": 3015
   },
   {
     "full_name": "octoshrimpy/learn",
@@ -85,98 +97,86 @@
   },
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 20834,
-    "open_issues_count": 98,
-    "forks_count": 3541
+    "stargazers_count": 20869,
+    "open_issues_count": 101,
+    "forks_count": 3545
   },
   {
     "full_name": "uetchy/namae",
-    "stargazers_count": 571,
+    "stargazers_count": 572,
     "open_issues_count": 8,
     "forks_count": 26
   },
   {
     "full_name": "tidyverse/dplyr",
-    "stargazers_count": 4197,
-    "open_issues_count": 26,
+    "stargazers_count": 4199,
+    "open_issues_count": 30,
     "forks_count": 1457
   },
   {
     "full_name": "airbnb/css",
-    "stargazers_count": 6502,
+    "stargazers_count": 6504,
     "open_issues_count": 21,
-    "forks_count": 1401
+    "forks_count": 1403
   },
   {
     "full_name": "leon-ai/leon",
-    "stargazers_count": 10939,
-    "open_issues_count": 64,
+    "stargazers_count": 11039,
+    "open_issues_count": 65,
     "forks_count": 855
   },
   {
     "full_name": "Rob--W/dont-track-me-google",
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 8,
     "forks_count": 20
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 102874,
+    "stargazers_count": 102985,
     "open_issues_count": 0,
-    "forks_count": 10707
+    "forks_count": 10729
   },
   {
     "full_name": "freeCodeCamp/demo-projects",
-    "stargazers_count": 73,
+    "stargazers_count": 72,
     "open_issues_count": 4,
     "forks_count": 34
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 159053,
+    "stargazers_count": 159171,
     "open_issues_count": 132,
-    "forks_count": 31151
+    "forks_count": 31177
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 123850,
-    "open_issues_count": 10,
-    "forks_count": 16496
+    "stargazers_count": 124028,
+    "open_issues_count": 9,
+    "forks_count": 16519
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 248836,
+    "stargazers_count": 249309,
     "open_issues_count": 40,
-    "forks_count": 50705
+    "forks_count": 50770
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 219480,
-    "open_issues_count": 47,
-    "forks_count": 24197
+    "stargazers_count": 220063,
+    "open_issues_count": 49,
+    "forks_count": 24230
   },
   {
     "full_name": "sass/sass",
-    "stargazers_count": 14147,
+    "stargazers_count": 14149,
     "open_issues_count": 99,
-    "forks_count": 2007
+    "forks_count": 2005
   },
   {
     "full_name": "BenRoe/awesome-mechanical-keyboard",
     "stargazers_count": 2202,
     "open_issues_count": 13,
     "forks_count": 173
-  },
-  {
-    "full_name": "hankchizljaw/modern-css-reset",
-    "stargazers_count": 2611,
-    "open_issues_count": 17,
-    "forks_count": 438
-  },
-  {
-    "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 28305,
-    "open_issues_count": 22,
-    "forks_count": 2042
   }
 ]
