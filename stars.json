@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "XDream8/revanced-creator",
+    "stargazers_count": 166,
+    "open_issues_count": 2,
+    "forks_count": 53
+  },
+  {
+    "full_name": "typicode/json-server",
+    "stargazers_count": 63935,
+    "open_issues_count": 649,
+    "forks_count": 6306
+  },
+  {
+    "full_name": "nicknochnack/Body-Language-Decoder",
+    "stargazers_count": 57,
+    "open_issues_count": 0,
+    "forks_count": 43
+  },
+  {
     "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3013,
+    "stargazers_count": 3014,
     "open_issues_count": 17,
     "forks_count": 513
   },
   {
     "full_name": "zero-to-mastery/start-here-guidelines",
-    "stargazers_count": 1854,
-    "open_issues_count": 31,
-    "forks_count": 13390
+    "stargazers_count": 1858,
+    "open_issues_count": 23,
+    "forks_count": 13422
   },
   {
     "full_name": "codrops/GridZoom",
-    "stargazers_count": 130,
+    "stargazers_count": 132,
     "open_issues_count": 1,
-    "forks_count": 36
+    "forks_count": 38
   },
   {
     "full_name": "bizarro/bizar.ro",
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2350,
-    "open_issues_count": 55,
-    "forks_count": 133
+    "stargazers_count": 2538,
+    "open_issues_count": 49,
+    "forks_count": 142
   },
   {
     "full_name": "zellwk/crud-demo",
@@ -55,8 +73,8 @@
   },
   {
     "full_name": "Azure/Azurite",
-    "stargazers_count": 1307,
-    "open_issues_count": 260,
+    "stargazers_count": 1312,
+    "open_issues_count": 262,
     "forks_count": 247
   },
   {
@@ -68,7 +86,7 @@
   {
     "full_name": "dhowe/AdNauseam",
     "stargazers_count": 3438,
-    "open_issues_count": 172,
+    "open_issues_count": 173,
     "forks_count": 180
   },
   {
@@ -79,7 +97,7 @@
   },
   {
     "full_name": "ugglr/Remote-Junior-Developer-jobs-directory",
-    "stargazers_count": 509,
+    "stargazers_count": 512,
     "open_issues_count": 7,
     "forks_count": 47
   },
@@ -91,63 +109,63 @@
   },
   {
     "full_name": "EthicalSource/ethicalsource.dev",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 15,
     "forks_count": 46
   },
   {
     "full_name": "AccessibleForAll/Resources",
-    "stargazers_count": 30,
-    "open_issues_count": 4,
+    "stargazers_count": 31,
+    "open_issues_count": 5,
     "forks_count": 7
   },
   {
     "full_name": "google/season-of-docs",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 4,
-    "forks_count": 532
+    "forks_count": 534
   },
   {
     "full_name": "ProgramEquity/amplify",
     "stargazers_count": 14,
-    "open_issues_count": 65,
-    "forks_count": 14
+    "open_issues_count": 69,
+    "forks_count": 15
   },
   {
     "full_name": "lydiahallie/javascript-react-patterns",
-    "stargazers_count": 363,
+    "stargazers_count": 371,
     "open_issues_count": 11,
-    "forks_count": 56
+    "forks_count": 58
   },
   {
     "full_name": "TheAlgorithms/JavaScript",
-    "stargazers_count": 23362,
-    "open_issues_count": 24,
-    "forks_count": 4043
+    "stargazers_count": 23476,
+    "open_issues_count": 26,
+    "forks_count": 4069
   },
   {
     "full_name": "JoePenna/Dreambooth-Stable-Diffusion",
-    "stargazers_count": 1437,
-    "open_issues_count": 30,
-    "forks_count": 229
+    "stargazers_count": 1498,
+    "open_issues_count": 34,
+    "forks_count": 239
   },
   {
     "full_name": "csdojo-defaang/active-repos-for-contributing",
-    "stargazers_count": 215,
+    "stargazers_count": 216,
     "open_issues_count": 5,
     "forks_count": 41
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 31186,
-    "open_issues_count": 296,
-    "forks_count": 4592
+    "stargazers_count": 31798,
+    "open_issues_count": 307,
+    "forks_count": 4749
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 15743,
-    "open_issues_count": 975,
-    "forks_count": 2662
+    "stargazers_count": 16867,
+    "open_issues_count": 1056,
+    "forks_count": 2873
   },
   {
     "full_name": "michalzalobny/creative-bay",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "formkit/auto-animate",
-    "stargazers_count": 5963,
+    "stargazers_count": 5992,
     "open_issues_count": 42,
-    "forks_count": 99
-  },
-  {
-    "full_name": "SVG-Edit/svgedit",
-    "stargazers_count": 5245,
-    "open_issues_count": 35,
-    "forks_count": 1347
-  },
-  {
-    "full_name": "open-source-labs/reactime",
-    "stargazers_count": 1689,
-    "open_issues_count": 29,
-    "forks_count": 146
-  },
-  {
-    "full_name": "bradtraversy/node_crash_course",
-    "stargazers_count": 363,
-    "open_issues_count": 12,
-    "forks_count": 262
+    "forks_count": 100
   }
 ]
