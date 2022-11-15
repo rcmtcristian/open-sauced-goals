@@ -1,14 +1,14 @@
 [
   {
     "full_name": "aheze/OpenFind",
-    "stargazers_count": 706,
+    "stargazers_count": 709,
     "open_issues_count": 1,
     "forks_count": 39
   },
   {
     "full_name": "jasonwilliams/anki",
     "stargazers_count": 187,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 22
   },
   {
@@ -19,51 +19,51 @@
   },
   {
     "full_name": "XDream8/revanced-creator",
-    "stargazers_count": 173,
+    "stargazers_count": 175,
     "open_issues_count": 1,
     "forks_count": 52
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64158,
+    "stargazers_count": 64209,
     "open_issues_count": 652,
-    "forks_count": 6331
+    "forks_count": 6336
   },
   {
     "full_name": "nicknochnack/Body-Language-Decoder",
     "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 44
+    "open_issues_count": 1,
+    "forks_count": 45
   },
   {
     "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3025,
+    "stargazers_count": 3028,
     "open_issues_count": 17,
     "forks_count": 512
   },
   {
     "full_name": "zero-to-mastery/start-here-guidelines",
-    "stargazers_count": 1875,
-    "open_issues_count": 26,
-    "forks_count": 13555
+    "stargazers_count": 1878,
+    "open_issues_count": 30,
+    "forks_count": 13580
   },
   {
     "full_name": "codrops/GridZoom",
     "stargazers_count": 133,
     "open_issues_count": 1,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "bizarro/bizar.ro",
     "stargazers_count": 167,
     "open_issues_count": 1,
-    "forks_count": 39
+    "forks_count": 41
   },
   {
     "full_name": "bizarro/bruno-arizio",
-    "stargazers_count": 353,
+    "stargazers_count": 355,
     "open_issues_count": 25,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "bizarro/lhbzr.github.io",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2773,
+    "stargazers_count": 2798,
     "open_issues_count": 53,
-    "forks_count": 151
+    "forks_count": 150
   },
   {
     "full_name": "zellwk/crud-demo",
     "stargazers_count": 142,
     "open_issues_count": 6,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "mishmanners/TalksandEvents",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "Azure/Azurite",
-    "stargazers_count": 1326,
+    "stargazers_count": 1330,
     "open_issues_count": 271,
     "forks_count": 247
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "dhowe/AdNauseam",
-    "stargazers_count": 3449,
-    "open_issues_count": 169,
-    "forks_count": 180
+    "stargazers_count": 3450,
+    "open_issues_count": 170,
+    "forks_count": 179
   },
   {
     "full_name": "labrocadabro/100devs-faq",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "ugglr/Remote-Junior-Developer-jobs-directory",
-    "stargazers_count": 515,
-    "open_issues_count": 3,
+    "stargazers_count": 514,
+    "open_issues_count": 4,
     "forks_count": 47
   },
   {
     "full_name": "Aveek-Saha/GitHub-Profile-Badges",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -146,37 +146,37 @@
   {
     "full_name": "ProgramEquity/amplify",
     "stargazers_count": 16,
-    "open_issues_count": 77,
+    "open_issues_count": 79,
     "forks_count": 16
   },
   {
     "full_name": "lydiahallie/javascript-react-patterns",
-    "stargazers_count": 401,
+    "stargazers_count": 411,
     "open_issues_count": 11,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "TheAlgorithms/JavaScript",
-    "stargazers_count": 23673,
-    "open_issues_count": 29,
+    "stargazers_count": 23700,
+    "open_issues_count": 28,
     "forks_count": 4103
   },
   {
     "full_name": "JoePenna/Dreambooth-Stable-Diffusion",
-    "stargazers_count": 2067,
-    "open_issues_count": 45,
-    "forks_count": 321
+    "stargazers_count": 2100,
+    "open_issues_count": 46,
+    "forks_count": 332
   },
   {
     "full_name": "csdojo-defaang/active-repos-for-contributing",
-    "stargazers_count": 223,
+    "stargazers_count": 232,
     "open_issues_count": 6,
-    "forks_count": 44
+    "forks_count": 43
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 34007,
-    "open_issues_count": 343,
-    "forks_count": 5189
+    "stargazers_count": 34321,
+    "open_issues_count": 352,
+    "forks_count": 5248
   }
 ]
