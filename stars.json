@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "lowlighter/metrics",
+    "stargazers_count": 8922,
+    "open_issues_count": 12,
+    "forks_count": 1034
+  },
+  {
     "full_name": "mkylama/disorder30",
-    "stargazers_count": 22,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "aheze/OpenFind",
-    "stargazers_count": 715,
+    "stargazers_count": 718,
     "open_issues_count": 1,
     "forks_count": 41
   },
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "khazifire/DripUI",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "XDream8/revanced-creator",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 1,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64313,
+    "stargazers_count": 64362,
     "open_issues_count": 651,
     "forks_count": 6353
   },
@@ -51,23 +57,23 @@
     "full_name": "nicknochnack/Body-Language-Decoder",
     "stargazers_count": 61,
     "open_issues_count": 1,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3030,
+    "stargazers_count": 3031,
     "open_issues_count": 17,
-    "forks_count": 511
+    "forks_count": 510
   },
   {
     "full_name": "zero-to-mastery/start-here-guidelines",
     "stargazers_count": 1878,
-    "open_issues_count": 47,
-    "forks_count": 13637
+    "open_issues_count": 57,
+    "forks_count": 13650
   },
   {
     "full_name": "codrops/GridZoom",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 1,
     "forks_count": 43
   },
@@ -80,7 +86,7 @@
   {
     "full_name": "bizarro/bruno-arizio",
     "stargazers_count": 356,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 61
   },
   {
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2836,
-    "open_issues_count": 53,
-    "forks_count": 153
+    "stargazers_count": 2861,
+    "open_issues_count": 54,
+    "forks_count": 154
   },
   {
     "full_name": "zellwk/crud-demo",
     "stargazers_count": 143,
     "open_issues_count": 6,
-    "forks_count": 140
+    "forks_count": 141
   },
   {
     "full_name": "mishmanners/TalksandEvents",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "Azure/Azurite",
-    "stargazers_count": 1336,
+    "stargazers_count": 1340,
     "open_issues_count": 274,
     "forks_count": 248
   },
@@ -121,7 +127,7 @@
   },
   {
     "full_name": "dhowe/AdNauseam",
-    "stargazers_count": 3454,
+    "stargazers_count": 3458,
     "open_issues_count": 172,
     "forks_count": 179
   },
@@ -129,17 +135,17 @@
     "full_name": "labrocadabro/100devs-faq",
     "stargazers_count": 49,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "ugglr/Remote-Developer-jobs-directory",
-    "stargazers_count": 516,
-    "open_issues_count": 3,
+    "stargazers_count": 517,
+    "open_issues_count": 1,
     "forks_count": 47
   },
   {
     "full_name": "Aveek-Saha/GitHub-Profile-Badges",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "google/season-of-docs",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 4,
     "forks_count": 537
   },
   {
     "full_name": "ProgramEquity/amplify",
     "stargazers_count": 16,
-    "open_issues_count": 78,
+    "open_issues_count": 79,
     "forks_count": 16
   },
   {
     "full_name": "lydiahallie/javascript-react-patterns",
-    "stargazers_count": 424,
+    "stargazers_count": 429,
     "open_issues_count": 11,
     "forks_count": 67
-  },
-  {
-    "full_name": "TheAlgorithms/JavaScript",
-    "stargazers_count": 23762,
-    "open_issues_count": 27,
-    "forks_count": 4113
   }
 ]
