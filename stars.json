@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "firstcontributions/first-contributions",
+    "stargazers_count": 30264,
+    "open_issues_count": 18,
+    "forks_count": 54355
+  },
+  {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8922,
-    "open_issues_count": 12,
-    "forks_count": 1034
+    "stargazers_count": 8949,
+    "open_issues_count": 15,
+    "forks_count": 1042
   },
   {
     "full_name": "mkylama/disorder30",
-    "stargazers_count": 25,
+    "stargazers_count": 29,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 0
   },
   {
     "full_name": "labrocadabro/100devs-hw-tracker",
     "stargazers_count": 42,
-    "open_issues_count": 1,
-    "forks_count": 15
+    "open_issues_count": 2,
+    "forks_count": 16
   },
   {
     "full_name": "JasonEtco/create-an-issue",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 14,
     "forks_count": 68
   },
   {
     "full_name": "aheze/OpenFind",
-    "stargazers_count": 718,
+    "stargazers_count": 724,
     "open_issues_count": 1,
     "forks_count": 41
   },
@@ -37,55 +43,55 @@
   },
   {
     "full_name": "khazifire/DripUI",
-    "stargazers_count": 22,
+    "stargazers_count": 24,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "XDream8/revanced-creator",
-    "stargazers_count": 179,
+    "stargazers_count": 180,
     "open_issues_count": 1,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64362,
-    "open_issues_count": 651,
-    "forks_count": 6353
+    "stargazers_count": 64423,
+    "open_issues_count": 650,
+    "forks_count": 6357
   },
   {
     "full_name": "nicknochnack/Body-Language-Decoder",
     "stargazers_count": 61,
     "open_issues_count": 1,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3031,
+    "stargazers_count": 3032,
     "open_issues_count": 17,
     "forks_count": 510
   },
   {
     "full_name": "zero-to-mastery/start-here-guidelines",
-    "stargazers_count": 1878,
-    "open_issues_count": 57,
-    "forks_count": 13650
+    "stargazers_count": 1882,
+    "open_issues_count": 66,
+    "forks_count": 13669
   },
   {
     "full_name": "codrops/GridZoom",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 1,
     "forks_count": 43
   },
   {
     "full_name": "bizarro/bizar.ro",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "bizarro/bruno-arizio",
-    "stargazers_count": 356,
+    "stargazers_count": 358,
     "open_issues_count": 27,
     "forks_count": 61
   },
@@ -97,25 +103,25 @@
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2861,
-    "open_issues_count": 54,
-    "forks_count": 154
+    "stargazers_count": 2892,
+    "open_issues_count": 55,
+    "forks_count": 153
   },
   {
     "full_name": "zellwk/crud-demo",
     "stargazers_count": 143,
     "open_issues_count": 6,
-    "forks_count": 141
+    "forks_count": 142
   },
   {
     "full_name": "mishmanners/TalksandEvents",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Azure/Azurite",
-    "stargazers_count": 1340,
+    "stargazers_count": 1343,
     "open_issues_count": 274,
     "forks_count": 248
   },
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "dhowe/AdNauseam",
-    "stargazers_count": 3458,
-    "open_issues_count": 172,
+    "stargazers_count": 3462,
+    "open_issues_count": 173,
     "forks_count": 179
   },
   {
@@ -170,13 +176,7 @@
   {
     "full_name": "ProgramEquity/amplify",
     "stargazers_count": 16,
-    "open_issues_count": 79,
+    "open_issues_count": 82,
     "forks_count": 16
-  },
-  {
-    "full_name": "lydiahallie/javascript-react-patterns",
-    "stargazers_count": 429,
-    "open_issues_count": 11,
-    "forks_count": 67
   }
 ]
