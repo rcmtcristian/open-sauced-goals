@@ -1,19 +1,19 @@
 [
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 30264,
-    "open_issues_count": 18,
-    "forks_count": 54355
+    "stargazers_count": 30315,
+    "open_issues_count": 135,
+    "forks_count": 54683
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 8949,
-    "open_issues_count": 15,
-    "forks_count": 1042
+    "stargazers_count": 8972,
+    "open_issues_count": 13,
+    "forks_count": 1044
   },
   {
     "full_name": "mkylama/disorder30",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "JasonEtco/create-an-issue",
-    "stargazers_count": 190,
-    "open_issues_count": 14,
-    "forks_count": 68
+    "stargazers_count": 192,
+    "open_issues_count": 10,
+    "forks_count": 69
   },
   {
     "full_name": "aheze/OpenFind",
-    "stargazers_count": 724,
+    "stargazers_count": 727,
     "open_issues_count": 1,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "jasonwilliams/anki",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "XDream8/revanced-creator",
-    "stargazers_count": 180,
+    "stargazers_count": 183,
     "open_issues_count": 1,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64423,
+    "stargazers_count": 64467,
     "open_issues_count": 650,
-    "forks_count": 6357
+    "forks_count": 6366
   },
   {
     "full_name": "nicknochnack/Body-Language-Decoder",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3032,
+    "stargazers_count": 3035,
     "open_issues_count": 17,
     "forks_count": 510
   },
   {
     "full_name": "zero-to-mastery/start-here-guidelines",
-    "stargazers_count": 1882,
-    "open_issues_count": 66,
-    "forks_count": 13669
+    "stargazers_count": 1888,
+    "open_issues_count": 77,
+    "forks_count": 13697
   },
   {
     "full_name": "codrops/GridZoom",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "lucide-icons/lucide",
-    "stargazers_count": 2892,
-    "open_issues_count": 55,
-    "forks_count": 153
+    "stargazers_count": 2907,
+    "open_issues_count": 56,
+    "forks_count": 154
   },
   {
     "full_name": "zellwk/crud-demo",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "Azure/Azurite",
-    "stargazers_count": 1343,
-    "open_issues_count": 274,
+    "stargazers_count": 1345,
+    "open_issues_count": 271,
     "forks_count": 248
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "dhowe/AdNauseam",
-    "stargazers_count": 3462,
-    "open_issues_count": 173,
+    "stargazers_count": 3463,
+    "open_issues_count": 177,
     "forks_count": 179
   },
   {
@@ -170,13 +170,13 @@
   {
     "full_name": "google/season-of-docs",
     "stargazers_count": 263,
-    "open_issues_count": 4,
-    "forks_count": 537
+    "open_issues_count": 3,
+    "forks_count": 536
   },
   {
     "full_name": "ProgramEquity/amplify",
     "stargazers_count": 16,
-    "open_issues_count": 82,
+    "open_issues_count": 86,
     "forks_count": 16
   }
 ]
