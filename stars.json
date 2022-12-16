@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "paramsiddharth/juet-internet-authenticator",
+    "stargazers_count": 4,
+    "open_issues_count": 6,
+    "forks_count": 0
+  },
+  {
+    "full_name": "kbventures/ecommerce",
+    "stargazers_count": 10,
+    "open_issues_count": 21,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Code-Over-Time/varcade_games",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 19
+  },
+  {
     "full_name": "m1guelpf/chatgpt-discord",
-    "stargazers_count": 61,
-    "open_issues_count": 2,
-    "forks_count": 8
+    "stargazers_count": 84,
+    "open_issues_count": 3,
+    "forks_count": 12
   },
   {
     "full_name": "ful1e5/banana-cursor",
@@ -43,14 +61,14 @@
   },
   {
     "full_name": "badges/shields",
-    "stargazers_count": 18534,
-    "open_issues_count": 341,
-    "forks_count": 5147
+    "stargazers_count": 18554,
+    "open_issues_count": 335,
+    "forks_count": 5154
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 4991,
-    "open_issues_count": 162,
+    "stargazers_count": 4996,
+    "open_issues_count": 161,
     "forks_count": 462
   },
   {
@@ -61,9 +79,9 @@
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 16876,
-    "open_issues_count": 305,
-    "forks_count": 1628
+    "stargazers_count": 16901,
+    "open_issues_count": 306,
+    "forks_count": 1627
   },
   {
     "full_name": "ScottSanford/good-news",
@@ -73,13 +91,13 @@
   },
   {
     "full_name": "InfiniTimeOrg/InfiniTime",
-    "stargazers_count": 1904,
+    "stargazers_count": 1911,
     "open_issues_count": 341,
-    "forks_count": 680
+    "forks_count": 684
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 20382,
+    "stargazers_count": 20405,
     "open_issues_count": 102,
     "forks_count": 1312
   },
@@ -91,21 +109,21 @@
   },
   {
     "full_name": "apple/ml-stable-diffusion",
-    "stargazers_count": 4098,
-    "open_issues_count": 55,
-    "forks_count": 144
+    "stargazers_count": 4231,
+    "open_issues_count": 51,
+    "forks_count": 160
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 30452,
-    "open_issues_count": 145,
-    "forks_count": 54908
+    "stargazers_count": 30520,
+    "open_issues_count": 217,
+    "forks_count": 54977
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 9053,
-    "open_issues_count": 13,
-    "forks_count": 1064
+    "stargazers_count": 9076,
+    "open_issues_count": 14,
+    "forks_count": 1069
   },
   {
     "full_name": "mkylama/disorder30",
@@ -115,15 +133,15 @@
   },
   {
     "full_name": "labrocadabro/100devs-hw-tracker",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 15
   },
   {
     "full_name": "JasonEtco/create-an-issue",
     "stargazers_count": 191,
-    "open_issues_count": 11,
-    "forks_count": 70
+    "open_issues_count": 9,
+    "forks_count": 71
   },
   {
     "full_name": "aheze/OpenFind",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "XDream8/revanced-creator",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 1,
-    "forks_count": 60
+    "forks_count": 62
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 64612,
-    "open_issues_count": 653,
-    "forks_count": 6381
+    "stargazers_count": 64650,
+    "open_issues_count": 651,
+    "forks_count": 6388
   },
   {
     "full_name": "nicknochnack/Body-Language-Decoder",
     "stargazers_count": 63,
     "open_issues_count": 1,
     "forks_count": 47
-  },
-  {
-    "full_name": "talyssonoc/node-api-boilerplate",
-    "stargazers_count": 3039,
-    "open_issues_count": 17,
-    "forks_count": 512
-  },
-  {
-    "full_name": "zero-to-mastery/start-here-guidelines",
-    "stargazers_count": 1916,
-    "open_issues_count": 60,
-    "forks_count": 13799
-  },
-  {
-    "full_name": "codrops/GridZoom",
-    "stargazers_count": 136,
-    "open_issues_count": 1,
-    "forks_count": 44
   }
 ]
