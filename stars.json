@@ -1,19 +1,31 @@
 [
   {
+    "full_name": "f/awesome-chatgpt-prompts",
+    "stargazers_count": 14082,
+    "open_issues_count": 89,
+    "forks_count": 1052
+  },
+  {
+    "full_name": "sallar/github-contributions-chart",
+    "stargazers_count": 4515,
+    "open_issues_count": 14,
+    "forks_count": 210
+  },
+  {
     "full_name": "tholman/github-corners",
-    "stargazers_count": 4746,
+    "stargazers_count": 4748,
     "open_issues_count": 15,
     "forks_count": 202
   },
   {
     "full_name": "mnmxmx/fluid-three",
-    "stargazers_count": 36,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "github/hubot-sans",
-    "stargazers_count": 1471,
+    "stargazers_count": 1477,
     "open_issues_count": 6,
     "forks_count": 19
   },
@@ -21,61 +33,61 @@
     "full_name": "defunkt/jquery-pjax",
     "stargazers_count": 16807,
     "open_issues_count": 95,
-    "forks_count": 2059
+    "forks_count": 2058
   },
   {
     "full_name": "ryanmcdermott/3rs-of-software-architecture",
-    "stargazers_count": 906,
+    "stargazers_count": 907,
     "open_issues_count": 1,
-    "forks_count": 123
+    "forks_count": 124
   },
   {
     "full_name": "israeltechchallenge/interview-questions-52-kerenren",
     "stargazers_count": 6,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 2
   },
   {
     "full_name": "AlfieJones/theme-toggles",
-    "stargazers_count": 239,
+    "stargazers_count": 242,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "pmndrs/gltfjsx",
-    "stargazers_count": 2736,
-    "open_issues_count": 46,
+    "stargazers_count": 2752,
+    "open_issues_count": 47,
     "forks_count": 161
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 25132,
-    "open_issues_count": 83,
-    "forks_count": 2604
+    "stargazers_count": 25212,
+    "open_issues_count": 85,
+    "forks_count": 2607
   },
   {
     "full_name": "Dr-TSNG/TwiFucker",
-    "stargazers_count": 420,
+    "stargazers_count": 427,
     "open_issues_count": 7,
     "forks_count": 19
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33968,
+    "stargazers_count": 33974,
     "open_issues_count": 27,
-    "forks_count": 8048
+    "forks_count": 8049
   },
   {
     "full_name": "amandaghassaei/gpu-io",
-    "stargazers_count": 769,
+    "stargazers_count": 774,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 142565,
-    "open_issues_count": 370,
-    "forks_count": 81208
+    "stargazers_count": 142762,
+    "open_issues_count": 371,
+    "forks_count": 81284
   },
   {
     "full_name": "paramsiddharth/juet-internet-authenticator",
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "m1guelpf/chatgpt-discord",
-    "stargazers_count": 163,
-    "open_issues_count": 9,
-    "forks_count": 24
+    "stargazers_count": 173,
+    "open_issues_count": 10,
+    "forks_count": 27
   },
   {
     "full_name": "ful1e5/banana-cursor",
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "JeanJouliaCode/wipeClean",
-    "stargazers_count": 975,
+    "stargazers_count": 974,
     "open_issues_count": 14,
-    "forks_count": 30
+    "forks_count": 29
   },
   {
     "full_name": "44jax44/Top-Anime-Shows",
@@ -122,14 +134,14 @@
   {
     "full_name": "fharper/coffeechat",
     "stargazers_count": 91,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "csdojo-defaang/defaang",
-    "stargazers_count": 489,
+    "stargazers_count": 491,
     "open_issues_count": 41,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "MaViSunshine/Web-Dev-Resources",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "badges/shields",
-    "stargazers_count": 18743,
-    "open_issues_count": 338,
-    "forks_count": 5203
+    "stargazers_count": 18788,
+    "open_issues_count": 340,
+    "forks_count": 5211
   },
   {
     "full_name": "danger/danger",
-    "stargazers_count": 5014,
-    "open_issues_count": 162,
+    "stargazers_count": 5021,
+    "open_issues_count": 161,
     "forks_count": 463
   },
   {
     "full_name": "lee-dohm/no-response",
     "stargazers_count": 23,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 8
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 17017,
-    "open_issues_count": 307,
-    "forks_count": 1633
+    "stargazers_count": 17034,
+    "open_issues_count": 293,
+    "forks_count": 1635
   },
   {
     "full_name": "ScottSanford/good-news",
     "stargazers_count": 3,
     "open_issues_count": 2,
     "forks_count": 0
-  },
-  {
-    "full_name": "InfiniTimeOrg/InfiniTime",
-    "stargazers_count": 1935,
-    "open_issues_count": 342,
-    "forks_count": 693
-  },
-  {
-    "full_name": "sdras/awesome-actions",
-    "stargazers_count": 20520,
-    "open_issues_count": 103,
-    "forks_count": 1319
   }
 ]
