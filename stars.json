@@ -1,111 +1,141 @@
 [
   {
-    "full_name": "tianshanghong/awesome-anki",
-    "stargazers_count": 1012,
+    "full_name": "dwyl/Javascript-the-Good-Parts-notes",
+    "stargazers_count": 1099,
+    "open_issues_count": 6,
+    "forks_count": 224
+  },
+  {
+    "full_name": "williambelle/github-contribution-color-graph",
+    "stargazers_count": 119,
+    "open_issues_count": 9,
+    "forks_count": 24
+  },
+  {
+    "full_name": "shadcn/ui",
+    "stargazers_count": 1586,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "alampros/react-confetti",
+    "stargazers_count": 1063,
+    "open_issues_count": 8,
+    "forks_count": 76
+  },
+  {
+    "full_name": "ai/nanoid",
+    "stargazers_count": 19854,
     "open_issues_count": 5,
-    "forks_count": 56
+    "forks_count": 726
+  },
+  {
+    "full_name": "tianshanghong/awesome-anki",
+    "stargazers_count": 1013,
+    "open_issues_count": 5,
+    "forks_count": 55
   },
   {
     "full_name": "Owez/yark",
-    "stargazers_count": 1502,
-    "open_issues_count": 18,
-    "forks_count": 33
+    "stargazers_count": 1522,
+    "open_issues_count": 15,
+    "forks_count": 36
   },
   {
     "full_name": "dexpota/kitty-themes",
-    "stargazers_count": 1772,
+    "stargazers_count": 1778,
     "open_issues_count": 32,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 7255,
-    "open_issues_count": 160,
-    "forks_count": 426
+    "stargazers_count": 7343,
+    "open_issues_count": 165,
+    "forks_count": 429
   },
   {
     "full_name": "Nutlope/restorePhotos",
-    "stargazers_count": 980,
-    "open_issues_count": 5,
-    "forks_count": 99
+    "stargazers_count": 1202,
+    "open_issues_count": 7,
+    "forks_count": 127
   },
   {
     "full_name": "pmndrs/drei",
-    "stargazers_count": 4461,
-    "open_issues_count": 167,
-    "forks_count": 378
+    "stargazers_count": 4481,
+    "open_issues_count": 168,
+    "forks_count": 380
   },
   {
     "full_name": "threlte/threlte",
-    "stargazers_count": 624,
-    "open_issues_count": 30,
+    "stargazers_count": 630,
+    "open_issues_count": 32,
     "forks_count": 37
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 28565,
+    "stargazers_count": 28578,
     "open_issues_count": 16,
-    "forks_count": 1007
+    "forks_count": 1006
   },
   {
     "full_name": "srvmdk/interview-questions",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "kentcdodds/react-fundamentals",
-    "stargazers_count": 4713,
+    "stargazers_count": 4722,
     "open_issues_count": 1,
-    "forks_count": 2854
+    "forks_count": 2865
   },
   {
     "full_name": "Caleb-Cohen/Together",
-    "stargazers_count": 61,
-    "open_issues_count": 16,
+    "stargazers_count": 63,
+    "open_issues_count": 19,
     "forks_count": 53
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 16686,
-    "open_issues_count": 122,
-    "forks_count": 1394
+    "stargazers_count": 17540,
+    "open_issues_count": 134,
+    "forks_count": 1541
   },
   {
     "full_name": "sallar/github-contributions-chart",
-    "stargazers_count": 4548,
+    "stargazers_count": 4552,
     "open_issues_count": 13,
     "forks_count": 211
   },
   {
     "full_name": "tholman/github-corners",
-    "stargazers_count": 4752,
+    "stargazers_count": 4753,
     "open_issues_count": 15,
-    "forks_count": 201
+    "forks_count": 200
   },
   {
     "full_name": "mnmxmx/fluid-three",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "github/hubot-sans",
-    "stargazers_count": 1500,
+    "stargazers_count": 1501,
     "open_issues_count": 6,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "defunkt/jquery-pjax",
-    "stargazers_count": 16800,
+    "stargazers_count": 16799,
     "open_issues_count": 95,
     "forks_count": 2056
   },
   {
     "full_name": "ryanmcdermott/3rs-of-software-architecture",
-    "stargazers_count": 913,
+    "stargazers_count": 915,
     "open_issues_count": 1,
-    "forks_count": 124
+    "forks_count": 123
   },
   {
     "full_name": "israeltechchallenge/interview-questions-52-kerenren",
@@ -121,62 +151,32 @@
   },
   {
     "full_name": "pmndrs/gltfjsx",
-    "stargazers_count": 2781,
+    "stargazers_count": 2802,
     "open_issues_count": 49,
     "forks_count": 162
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 25394,
-    "open_issues_count": 88,
-    "forks_count": 2619
+    "stargazers_count": 25458,
+    "open_issues_count": 89,
+    "forks_count": 2622
   },
   {
     "full_name": "Dr-TSNG/TwiFucker",
-    "stargazers_count": 471,
-    "open_issues_count": 12,
+    "stargazers_count": 496,
+    "open_issues_count": 14,
     "forks_count": 21
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 33982,
+    "stargazers_count": 33981,
     "open_issues_count": 27,
-    "forks_count": 8057
+    "forks_count": 8056
   },
   {
     "full_name": "amandaghassaei/gpu-io",
-    "stargazers_count": 816,
+    "stargazers_count": 893,
     "open_issues_count": 0,
-    "forks_count": 25
-  },
-  {
-    "full_name": "github/gitignore",
-    "stargazers_count": 143127,
-    "open_issues_count": 375,
-    "forks_count": 81607
-  },
-  {
-    "full_name": "paramsiddharth/juet-internet-authenticator",
-    "stargazers_count": 4,
-    "open_issues_count": 6,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kbventures/ecommerce",
-    "stargazers_count": 11,
-    "open_issues_count": 21,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Code-Over-Time/varcade_games",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
-    "forks_count": 19
-  },
-  {
-    "full_name": "m1guelpf/chatgpt-discord",
-    "stargazers_count": 191,
-    "open_issues_count": 11,
-    "forks_count": 36
+    "forks_count": 27
   }
 ]
