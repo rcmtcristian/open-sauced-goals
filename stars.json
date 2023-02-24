@@ -1,25 +1,37 @@
 [
   {
+    "full_name": "bdsqqq/try",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "mrdoob/three.js",
+    "stargazers_count": 89305,
+    "open_issues_count": 512,
+    "forks_count": 34019
+  },
+  {
     "full_name": "illixion/vscode-vibrancy-continued",
-    "stargazers_count": 166,
+    "stargazers_count": 183,
     "open_issues_count": 21,
     "forks_count": 16
   },
   {
     "full_name": "transitive-bullshit/bing-chat",
-    "stargazers_count": 437,
+    "stargazers_count": 457,
     "open_issues_count": 6,
-    "forks_count": 30
+    "forks_count": 32
   },
   {
     "full_name": "AndrewPrifer/CodropsCameraFlyThroughTutorial",
     "stargazers_count": 33,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "Btdigg-Org/dhtcrawler2",
-    "stargazers_count": 635,
+    "stargazers_count": 638,
     "open_issues_count": 0,
     "forks_count": 184
   },
@@ -32,42 +44,42 @@
   {
     "full_name": "codrops/UnrevealEffects",
     "stargazers_count": 44,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 16227,
-    "open_issues_count": 119,
-    "forks_count": 1473
+    "stargazers_count": 17047,
+    "open_issues_count": 133,
+    "forks_count": 1615
   },
   {
     "full_name": "codrops/TypeShuffleAnimation",
-    "stargazers_count": 127,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "pingcap/ossinsight",
-    "stargazers_count": 925,
-    "open_issues_count": 44,
-    "forks_count": 170
+    "stargazers_count": 941,
+    "open_issues_count": 37,
+    "forks_count": 175
   },
   {
     "full_name": "dangeredwolf/ModernDeck",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 53,
     "forks_count": 38
   },
   {
     "full_name": "chaiNNer-org/chaiNNer",
-    "stargazers_count": 1795,
+    "stargazers_count": 1820,
     "open_issues_count": 158,
     "forks_count": 104
   },
   {
     "full_name": "ossjs/release",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -79,13 +91,13 @@
   },
   {
     "full_name": "studio-freight/lenis",
-    "stargazers_count": 2363,
+    "stargazers_count": 2419,
     "open_issues_count": 9,
-    "forks_count": 111
+    "forks_count": 113
   },
   {
     "full_name": "doxas/twigl",
-    "stargazers_count": 514,
+    "stargazers_count": 518,
     "open_issues_count": 10,
     "forks_count": 35
   },
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "joshwcomeau/use-sound",
-    "stargazers_count": 2092,
+    "stargazers_count": 2103,
     "open_issues_count": 48,
     "forks_count": 81
   },
   {
     "full_name": "dwyl/Javascript-the-Good-Parts-notes",
-    "stargazers_count": 1111,
+    "stargazers_count": 1112,
     "open_issues_count": 6,
-    "forks_count": 225
+    "forks_count": 227
   },
   {
     "full_name": "williambelle/github-contribution-color-graph",
@@ -115,68 +127,56 @@
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 8335,
-    "open_issues_count": 44,
-    "forks_count": 294
+    "stargazers_count": 8392,
+    "open_issues_count": 46,
+    "forks_count": 299
   },
   {
     "full_name": "alampros/react-confetti",
-    "stargazers_count": 1084,
-    "open_issues_count": 9,
-    "forks_count": 77
+    "stargazers_count": 1087,
+    "open_issues_count": 10,
+    "forks_count": 78
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 20072,
+    "stargazers_count": 20101,
     "open_issues_count": 4,
-    "forks_count": 729
+    "forks_count": 732
   },
   {
     "full_name": "tianshanghong/awesome-anki",
-    "stargazers_count": 1043,
+    "stargazers_count": 1045,
     "open_issues_count": 6,
     "forks_count": 56
   },
   {
     "full_name": "Owez/yark",
-    "stargazers_count": 1643,
+    "stargazers_count": 1654,
     "open_issues_count": 19,
     "forks_count": 44
   },
   {
     "full_name": "dexpota/kitty-themes",
-    "stargazers_count": 1814,
+    "stargazers_count": 1819,
     "open_issues_count": 32,
     "forks_count": 163
   },
   {
     "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 7944,
-    "open_issues_count": 244,
-    "forks_count": 464
+    "stargazers_count": 7985,
+    "open_issues_count": 250,
+    "forks_count": 470
   },
   {
     "full_name": "Nutlope/restorePhotos",
-    "stargazers_count": 2248,
-    "open_issues_count": 4,
-    "forks_count": 234
+    "stargazers_count": 2294,
+    "open_issues_count": 5,
+    "forks_count": 241
   },
   {
     "full_name": "pmndrs/drei",
-    "stargazers_count": 4677,
-    "open_issues_count": 186,
-    "forks_count": 401
-  },
-  {
-    "full_name": "threlte/threlte",
-    "stargazers_count": 701,
-    "open_issues_count": 27,
-    "forks_count": 40
-  },
-  {
-    "full_name": "typicode/husky",
-    "stargazers_count": 28797,
-    "open_issues_count": 20,
-    "forks_count": 1008
+    "stargazers_count": 4700,
+    "open_issues_count": 187,
+    "forks_count": 403
   }
 ]
