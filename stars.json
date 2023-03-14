@@ -1,13 +1,43 @@
 [
   {
+    "full_name": "MilesCranmer/anki_science",
+    "stargazers_count": 107,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "satnaing/astro-paper",
+    "stargazers_count": 463,
+    "open_issues_count": 2,
+    "forks_count": 102
+  },
+  {
+    "full_name": "beyondcode/writeout.ai",
+    "stargazers_count": 922,
+    "open_issues_count": 4,
+    "forks_count": 74
+  },
+  {
+    "full_name": "ThePrimeagen/kata-machine",
+    "stargazers_count": 415,
+    "open_issues_count": 16,
+    "forks_count": 305
+  },
+  {
+    "full_name": "jantimon/html-webpack-plugin",
+    "stargazers_count": 10401,
+    "open_issues_count": 84,
+    "forks_count": 1344
+  },
+  {
     "full_name": "gakonst/ethers-rs",
-    "stargazers_count": 1586,
-    "open_issues_count": 105,
-    "forks_count": 437
+    "stargazers_count": 1601,
+    "open_issues_count": 106,
+    "forks_count": 439
   },
   {
     "full_name": "0xAxiome/awesome-threejs",
-    "stargazers_count": 365,
+    "stargazers_count": 375,
     "open_issues_count": 1,
     "forks_count": 18
   },
@@ -19,85 +49,85 @@
   },
   {
     "full_name": "withastro/blog-tutorial-demo",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "johnpolacek/TweenPages",
-    "stargazers_count": 120,
+    "stargazers_count": 122,
     "open_issues_count": 3,
     "forks_count": 23
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 9637,
+    "stargazers_count": 9673,
     "open_issues_count": 17,
-    "forks_count": 20487
+    "forks_count": 20535
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 6220,
+    "stargazers_count": 6229,
     "open_issues_count": 229,
-    "forks_count": 1057
+    "forks_count": 1060
   },
   {
     "full_name": "ashthornton/asscroll",
-    "stargazers_count": 926,
+    "stargazers_count": 927,
     "open_issues_count": 17,
     "forks_count": 28
   },
   {
     "full_name": "PacktPublishing/Learn-Three.js-Fourth-edition",
-    "stargazers_count": 48,
+    "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 14
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 213545,
+    "stargazers_count": 213949,
     "open_issues_count": 361,
-    "forks_count": 38098
+    "forks_count": 38153
   },
   {
     "full_name": "dataarts/dat.gui",
-    "stargazers_count": 6723,
+    "stargazers_count": 6725,
     "open_issues_count": 104,
     "forks_count": 1078
   },
   {
     "full_name": "bdsqqq/try",
-    "stargazers_count": 167,
+    "stargazers_count": 171,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 89682,
+    "stargazers_count": 89786,
     "open_issues_count": 498,
-    "forks_count": 34112
+    "forks_count": 34139
   },
   {
     "full_name": "illixion/vscode-vibrancy-continued",
-    "stargazers_count": 196,
+    "stargazers_count": 201,
     "open_issues_count": 22,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "transitive-bullshit/bing-chat",
-    "stargazers_count": 546,
-    "open_issues_count": 9,
-    "forks_count": 41
+    "stargazers_count": 565,
+    "open_issues_count": 10,
+    "forks_count": 45
   },
   {
     "full_name": "AndrewPrifer/CodropsCameraFlyThroughTutorial",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "Btdigg-Org/dhtcrawler2",
-    "stargazers_count": 653,
+    "stargazers_count": 657,
     "open_issues_count": 0,
     "forks_count": 185
   },
@@ -109,27 +139,27 @@
   },
   {
     "full_name": "codrops/UnrevealEffects",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 20759,
-    "open_issues_count": 181,
-    "forks_count": 2052
+    "stargazers_count": 21602,
+    "open_issues_count": 189,
+    "forks_count": 2121
   },
   {
     "full_name": "codrops/TypeShuffleAnimation",
-    "stargazers_count": 144,
+    "stargazers_count": 146,
     "open_issues_count": 0,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "pingcap/ossinsight",
-    "stargazers_count": 981,
+    "stargazers_count": 985,
     "open_issues_count": 41,
-    "forks_count": 185
+    "forks_count": 187
   },
   {
     "full_name": "dangeredwolf/ModernDeck",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "chaiNNer-org/chaiNNer",
-    "stargazers_count": 1901,
-    "open_issues_count": 155,
-    "forks_count": 111
+    "stargazers_count": 1932,
+    "open_issues_count": 161,
+    "forks_count": 115
   },
   {
     "full_name": "ossjs/release",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 0,
     "forks_count": 4
-  },
-  {
-    "full_name": "tommyplusdev/anki-minimalist-mode",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "studio-freight/lenis",
-    "stargazers_count": 2675,
-    "open_issues_count": 12,
-    "forks_count": 116
-  },
-  {
-    "full_name": "doxas/twigl",
-    "stargazers_count": 540,
-    "open_issues_count": 10,
-    "forks_count": 36
-  },
-  {
-    "full_name": "nemutas/lk-effect",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "joshwcomeau/use-sound",
-    "stargazers_count": 2120,
-    "open_issues_count": 49,
-    "forks_count": 80
   }
 ]
