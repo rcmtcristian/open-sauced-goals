@@ -1,49 +1,79 @@
 [
   {
+    "full_name": "newsapps/beeswithmachineguns",
+    "stargazers_count": 6297,
+    "open_issues_count": 73,
+    "forks_count": 663
+  },
+  {
+    "full_name": "Kristories/awesome-guidelines",
+    "stargazers_count": 8711,
+    "open_issues_count": 0,
+    "forks_count": 585
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 194886,
+    "open_issues_count": 265,
+    "forks_count": 18965
+  },
+  {
+    "full_name": "mtdvio/every-programmer-should-know",
+    "stargazers_count": 70116,
+    "open_issues_count": 43,
+    "forks_count": 6697
+  },
+  {
+    "full_name": "FrenchGithubUser/Hatt",
+    "stargazers_count": 122,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "colbyfayock/50-projects-for-react-and-the-static-web",
-    "stargazers_count": 774,
+    "stargazers_count": 781,
     "open_issues_count": 2,
-    "forks_count": 113
+    "forks_count": 115
   },
   {
     "full_name": "HeyCLI/heyCLI_client",
-    "stargazers_count": 169,
+    "stargazers_count": 180,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "t3dotgg/chirp",
-    "stargazers_count": 55,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 122,
+    "open_issues_count": 7,
+    "forks_count": 14
   },
   {
     "full_name": "cocktailpeanut/dalai",
-    "stargazers_count": 5744,
-    "open_issues_count": 170,
-    "forks_count": 561
+    "stargazers_count": 6988,
+    "open_issues_count": 213,
+    "forks_count": 758
   },
   {
     "full_name": "gencay/vscode-chatgpt",
-    "stargazers_count": 2514,
-    "open_issues_count": 3,
-    "forks_count": 654
+    "stargazers_count": 2731,
+    "open_issues_count": 1,
+    "forks_count": 676
   },
   {
     "full_name": "CareerCatalyst/Career-Catalyst",
     "stargazers_count": 2,
-    "open_issues_count": 27,
+    "open_issues_count": 25,
     "forks_count": 0
   },
   {
     "full_name": "gitname/react-gh-pages",
-    "stargazers_count": 4804,
-    "open_issues_count": 21,
-    "forks_count": 755
+    "stargazers_count": 4825,
+    "open_issues_count": 20,
+    "forks_count": 757
   },
   {
     "full_name": "reck1ess/next-realworld-example-app",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 18,
     "forks_count": 194
   },
@@ -55,9 +85,9 @@
   },
   {
     "full_name": "github/advisory-database",
-    "stargazers_count": 1333,
-    "open_issues_count": 50,
-    "forks_count": 191
+    "stargazers_count": 1335,
+    "open_issues_count": 60,
+    "forks_count": 192
   },
   {
     "full_name": "aws-samples/aws-codedeploy-github-actions-deployment",
@@ -67,15 +97,15 @@
   },
   {
     "full_name": "actions/starter-workflows",
-    "stargazers_count": 7278,
-    "open_issues_count": 18,
-    "forks_count": 5616
+    "stargazers_count": 7301,
+    "open_issues_count": 17,
+    "forks_count": 5622
   },
   {
     "full_name": "pmndrs/react-three-fiber",
-    "stargazers_count": 21925,
-    "open_issues_count": 52,
-    "forks_count": 1252
+    "stargazers_count": 21953,
+    "open_issues_count": 54,
+    "forks_count": 1255
   },
   {
     "full_name": "MilesCranmer/anki_science",
@@ -85,33 +115,33 @@
   },
   {
     "full_name": "satnaing/astro-paper",
-    "stargazers_count": 501,
-    "open_issues_count": 0,
-    "forks_count": 111
+    "stargazers_count": 511,
+    "open_issues_count": 2,
+    "forks_count": 112
   },
   {
     "full_name": "beyondcode/writeout.ai",
-    "stargazers_count": 1077,
-    "open_issues_count": 3,
-    "forks_count": 82
+    "stargazers_count": 1101,
+    "open_issues_count": 4,
+    "forks_count": 83
   },
   {
     "full_name": "ThePrimeagen/kata-machine",
-    "stargazers_count": 443,
+    "stargazers_count": 451,
     "open_issues_count": 18,
-    "forks_count": 327
+    "forks_count": 335
   },
   {
     "full_name": "jantimon/html-webpack-plugin",
-    "stargazers_count": 10410,
-    "open_issues_count": 85,
+    "stargazers_count": 10414,
+    "open_issues_count": 86,
     "forks_count": 1345
   },
   {
     "full_name": "gakonst/ethers-rs",
-    "stargazers_count": 1633,
-    "open_issues_count": 113,
-    "forks_count": 445
+    "stargazers_count": 1642,
+    "open_issues_count": 115,
+    "forks_count": 449
   },
   {
     "full_name": "0xAxiome/awesome-threejs",
@@ -121,15 +151,15 @@
   },
   {
     "full_name": "signalkuppe/eleventy-react",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "withastro/blog-tutorial-demo",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 1,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "johnpolacek/TweenPages",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "othneildrew/Best-README-Template",
-    "stargazers_count": 9780,
+    "stargazers_count": 9824,
     "open_issues_count": 17,
-    "forks_count": 20716
+    "forks_count": 20780
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 6278,
+    "stargazers_count": 6292,
     "open_issues_count": 229,
-    "forks_count": 1068
-  },
-  {
-    "full_name": "ashthornton/asscroll",
-    "stargazers_count": 928,
-    "open_issues_count": 17,
-    "forks_count": 28
-  },
-  {
-    "full_name": "PacktPublishing/Learn-Three.js-Fourth-edition",
-    "stargazers_count": 54,
-    "open_issues_count": 0,
-    "forks_count": 19
-  },
-  {
-    "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 214935,
-    "open_issues_count": 364,
-    "forks_count": 38289
-  },
-  {
-    "full_name": "dataarts/dat.gui",
-    "stargazers_count": 6750,
-    "open_issues_count": 104,
-    "forks_count": 1078
-  },
-  {
-    "full_name": "bdsqqq/try",
-    "stargazers_count": 177,
-    "open_issues_count": 3,
-    "forks_count": 8
+    "forks_count": 1070
   }
 ]
