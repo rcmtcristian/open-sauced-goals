@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "tonsky/FiraCode",
+    "stargazers_count": 69553,
+    "open_issues_count": 361,
+    "forks_count": 2975
+  },
+  {
+    "full_name": "adropofilm/sooma_ui",
+    "stargazers_count": 3,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
     "full_name": "yuanqing/charming",
     "stargazers_count": 1001,
     "open_issues_count": 5,
@@ -7,9 +19,9 @@
   },
   {
     "full_name": "santosharron/audio-visualizer-three-js",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "codrops/RotatedRevealers",
@@ -19,31 +31,31 @@
   },
   {
     "full_name": "di-sukharev/opencommit",
-    "stargazers_count": 2662,
-    "open_issues_count": 42,
-    "forks_count": 111
+    "stargazers_count": 2799,
+    "open_issues_count": 45,
+    "forks_count": 115
   },
   {
     "full_name": "madd86/awesome-system-design",
-    "stargazers_count": 6682,
-    "open_issues_count": 6,
-    "forks_count": 591
+    "stargazers_count": 6697,
+    "open_issues_count": 5,
+    "forks_count": 590
   },
   {
     "full_name": "mckaywrigley/ai-code-translator",
-    "stargazers_count": 2076,
-    "open_issues_count": 13,
-    "forks_count": 214
+    "stargazers_count": 2421,
+    "open_issues_count": 12,
+    "forks_count": 269
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 12846,
-    "open_issues_count": 18,
-    "forks_count": 397
+    "stargazers_count": 12894,
+    "open_issues_count": 5,
+    "forks_count": 402
   },
   {
     "full_name": "pmndrs/react-three-flex",
-    "stargazers_count": 1498,
+    "stargazers_count": 1500,
     "open_issues_count": 16,
     "forks_count": 34
   },
@@ -63,7 +75,7 @@
     "full_name": "pmndrs/threejs-journey",
     "stargazers_count": 593,
     "open_issues_count": 4,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "pmndrs/react-three-a11y",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "pmndrs/three-stdlib",
-    "stargazers_count": 488,
+    "stargazers_count": 490,
     "open_issues_count": 21,
     "forks_count": 66
   },
@@ -97,39 +109,39 @@
   },
   {
     "full_name": "pmndrs/its-fine",
-    "stargazers_count": 747,
+    "stargazers_count": 748,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "pmndrs/use-gesture",
-    "stargazers_count": 7600,
-    "open_issues_count": 16,
+    "stargazers_count": 7608,
+    "open_issues_count": 14,
     "forks_count": 287
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 29404,
+    "stargazers_count": 29522,
     "open_issues_count": 12,
-    "forks_count": 912
+    "forks_count": 916
   },
   {
     "full_name": "pmndrs/react-xr",
-    "stargazers_count": 1541,
+    "stargazers_count": 1546,
     "open_issues_count": 25,
     "forks_count": 103
   },
   {
     "full_name": "pmndrs/react-three-next",
-    "stargazers_count": 1273,
-    "open_issues_count": 13,
-    "forks_count": 169
+    "stargazers_count": 1282,
+    "open_issues_count": 14,
+    "forks_count": 172
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 25407,
-    "open_issues_count": 92,
-    "forks_count": 1122
+    "stargazers_count": 25432,
+    "open_issues_count": 80,
+    "forks_count": 1124
   },
   {
     "full_name": "pixotronics/webgi-vanilla-starter",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "threejs/three-devtools",
-    "stargazers_count": 576,
+    "stargazers_count": 577,
     "open_issues_count": 37,
     "forks_count": 78
   },
   {
     "full_name": "faker-js/faker",
-    "stargazers_count": 9103,
-    "open_issues_count": 142,
-    "forks_count": 713
+    "stargazers_count": 9126,
+    "open_issues_count": 144,
+    "forks_count": 715
   },
   {
     "full_name": "newsapps/beeswithmachineguns",
-    "stargazers_count": 6297,
+    "stargazers_count": 6299,
     "open_issues_count": 73,
     "forks_count": 663
   },
   {
     "full_name": "Kristories/awesome-guidelines",
-    "stargazers_count": 8748,
+    "stargazers_count": 8752,
     "open_issues_count": 0,
     "forks_count": 589
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 196616,
-    "open_issues_count": 267,
-    "forks_count": 19168
-  },
-  {
-    "full_name": "mtdvio/every-programmer-should-know",
-    "stargazers_count": 70224,
-    "open_issues_count": 44,
-    "forks_count": 6721
-  },
-  {
-    "full_name": "FrenchGithubUser/Hatt",
-    "stargazers_count": 152,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 197154,
+    "open_issues_count": 268,
+    "forks_count": 19216
   }
 ]
