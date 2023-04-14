@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "googlecreativelab/quickdraw-dataset",
+    "stargazers_count": 5396,
+    "open_issues_count": 27,
+    "forks_count": 841
+  },
+  {
+    "full_name": "yabwe/medium-editor",
+    "stargazers_count": 15780,
+    "open_issues_count": 358,
+    "forks_count": 1884
+  },
+  {
+    "full_name": "jkhaui/predictable",
+    "stargazers_count": 70,
+    "open_issues_count": 26,
+    "forks_count": 16
+  },
+  {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 69553,
+    "stargazers_count": 69605,
     "open_issues_count": 361,
     "forks_count": 2975
   },
@@ -13,7 +31,7 @@
   },
   {
     "full_name": "yuanqing/charming",
-    "stargazers_count": 1001,
+    "stargazers_count": 1002,
     "open_issues_count": 5,
     "forks_count": 62
   },
@@ -31,55 +49,55 @@
   },
   {
     "full_name": "di-sukharev/opencommit",
-    "stargazers_count": 2799,
-    "open_issues_count": 45,
-    "forks_count": 115
+    "stargazers_count": 2897,
+    "open_issues_count": 48,
+    "forks_count": 117
   },
   {
     "full_name": "madd86/awesome-system-design",
-    "stargazers_count": 6697,
+    "stargazers_count": 6709,
     "open_issues_count": 5,
     "forks_count": 590
   },
   {
     "full_name": "mckaywrigley/ai-code-translator",
-    "stargazers_count": 2421,
-    "open_issues_count": 12,
-    "forks_count": 269
+    "stargazers_count": 2683,
+    "open_issues_count": 13,
+    "forks_count": 301
   },
   {
     "full_name": "pmndrs/jotai",
-    "stargazers_count": 12894,
+    "stargazers_count": 12932,
     "open_issues_count": 5,
-    "forks_count": 402
+    "forks_count": 403
   },
   {
     "full_name": "pmndrs/react-three-flex",
-    "stargazers_count": 1500,
+    "stargazers_count": 1501,
     "open_issues_count": 16,
     "forks_count": 34
   },
   {
     "full_name": "pmndrs/lamina",
-    "stargazers_count": 897,
+    "stargazers_count": 898,
     "open_issues_count": 15,
     "forks_count": 33
   },
   {
     "full_name": "pmndrs/react-three-lightmap",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 2,
     "forks_count": 8
   },
   {
     "full_name": "pmndrs/threejs-journey",
-    "stargazers_count": 593,
+    "stargazers_count": 597,
     "open_issues_count": 4,
     "forks_count": 64
   },
   {
     "full_name": "pmndrs/react-three-a11y",
-    "stargazers_count": 419,
+    "stargazers_count": 421,
     "open_issues_count": 8,
     "forks_count": 11
   },
@@ -97,55 +115,55 @@
   },
   {
     "full_name": "pmndrs/three-stdlib",
-    "stargazers_count": 490,
+    "stargazers_count": 489,
     "open_issues_count": 21,
     "forks_count": 66
   },
   {
     "full_name": "pmndrs/react-three-editor",
-    "stargazers_count": 544,
+    "stargazers_count": 546,
     "open_issues_count": 15,
     "forks_count": 19
   },
   {
     "full_name": "pmndrs/its-fine",
-    "stargazers_count": 748,
+    "stargazers_count": 751,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "pmndrs/use-gesture",
-    "stargazers_count": 7608,
-    "open_issues_count": 14,
+    "stargazers_count": 7619,
+    "open_issues_count": 15,
     "forks_count": 287
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 29522,
-    "open_issues_count": 12,
-    "forks_count": 916
+    "stargazers_count": 29638,
+    "open_issues_count": 13,
+    "forks_count": 922
   },
   {
     "full_name": "pmndrs/react-xr",
-    "stargazers_count": 1546,
-    "open_issues_count": 25,
-    "forks_count": 103
+    "stargazers_count": 1547,
+    "open_issues_count": 26,
+    "forks_count": 104
   },
   {
     "full_name": "pmndrs/react-three-next",
-    "stargazers_count": 1282,
-    "open_issues_count": 14,
-    "forks_count": 172
+    "stargazers_count": 1376,
+    "open_issues_count": 12,
+    "forks_count": 177
   },
   {
     "full_name": "pmndrs/react-spring",
-    "stargazers_count": 25432,
-    "open_issues_count": 80,
+    "stargazers_count": 25461,
+    "open_issues_count": 81,
     "forks_count": 1124
   },
   {
     "full_name": "pixotronics/webgi-vanilla-starter",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 1,
     "forks_count": 53
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "faker-js/faker",
-    "stargazers_count": 9126,
-    "open_issues_count": 144,
-    "forks_count": 715
-  },
-  {
-    "full_name": "newsapps/beeswithmachineguns",
-    "stargazers_count": 6299,
-    "open_issues_count": 73,
-    "forks_count": 663
-  },
-  {
-    "full_name": "Kristories/awesome-guidelines",
-    "stargazers_count": 8752,
-    "open_issues_count": 0,
-    "forks_count": 589
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 197154,
-    "open_issues_count": 268,
-    "forks_count": 19216
+    "stargazers_count": 9158,
+    "open_issues_count": 142,
+    "forks_count": 714
   }
 ]
