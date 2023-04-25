@@ -1,18 +1,90 @@
 [
   {
+    "full_name": "coderfabri/vite-react-starter",
+    "stargazers_count": 45,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
+    "full_name": "carloscuesta/gitmoji-cli",
+    "stargazers_count": 4206,
+    "open_issues_count": 7,
+    "forks_count": 203
+  },
+  {
+    "full_name": "Drumpy/vrttv-boilerplate",
+    "stargazers_count": 39,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "vitejs/awesome-vite",
+    "stargazers_count": 9748,
+    "open_issues_count": 29,
+    "forks_count": 834
+  },
+  {
+    "full_name": "trufflesecurity/trufflehog",
+    "stargazers_count": 10992,
+    "open_issues_count": 125,
+    "forks_count": 1302
+  },
+  {
+    "full_name": "mayooear/gpt4-pdf-chatbot-langchain",
+    "stargazers_count": 8497,
+    "open_issues_count": 78,
+    "forks_count": 1559
+  },
+  {
+    "full_name": "jamilsinno/leetcode",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Sanqui/obsidian-persistent-graph",
+    "stargazers_count": 63,
+    "open_issues_count": 12,
+    "forks_count": 2
+  },
+  {
+    "full_name": "snezhig/obsidian-front-matter-title",
+    "stargazers_count": 131,
+    "open_issues_count": 13,
+    "forks_count": 8
+  },
+  {
+    "full_name": "phibr0/obsidian-charts",
+    "stargazers_count": 331,
+    "open_issues_count": 31,
+    "forks_count": 11
+  },
+  {
+    "full_name": "zsviczian/excalibrain",
+    "stargazers_count": 366,
+    "open_issues_count": 61,
+    "forks_count": 10
+  },
+  {
+    "full_name": "prbinu/touch2sudo",
+    "stargazers_count": 36,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "tengbao/vanta",
-    "stargazers_count": 4452,
-    "open_issues_count": 43,
-    "forks_count": 993
+    "stargazers_count": 4453,
+    "open_issues_count": 44,
+    "forks_count": 995
   },
   {
     "full_name": "pixijs/filters",
-    "stargazers_count": 753,
+    "stargazers_count": 755,
     "open_issues_count": 22,
     "forks_count": 148
   },
   {
-    "full_name": "ProgramEquity/actions-hackpod-2023-04-19",
+    "full_name": "ProgramEquity/cicd-aws-ecr-ecs",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
@@ -25,8 +97,8 @@
   },
   {
     "full_name": "KyleTryon/Node-TypeScript-Starter",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
+    "stargazers_count": 9,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
@@ -37,27 +109,27 @@
   },
   {
     "full_name": "codrops/codrops-sketches",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "cssinjs/jss",
-    "stargazers_count": 6934,
+    "stargazers_count": 6935,
     "open_issues_count": 208,
     "forks_count": 424
   },
   {
     "full_name": "vercel/static-fun",
-    "stargazers_count": 538,
+    "stargazers_count": 541,
     "open_issues_count": 2,
     "forks_count": 57
   },
   {
     "full_name": "steven-tey/weathergpt",
-    "stargazers_count": 115,
+    "stargazers_count": 123,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 14
   },
   {
     "full_name": "nemutas/three-template-with-astro",
@@ -79,15 +151,15 @@
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5409,
+    "stargazers_count": 5411,
     "open_issues_count": 27,
     "forks_count": 843
   },
   {
     "full_name": "yabwe/medium-editor",
-    "stargazers_count": 15788,
+    "stargazers_count": 15791,
     "open_issues_count": 358,
-    "forks_count": 1884
+    "forks_count": 1885
   },
   {
     "full_name": "jkhaui/predictable",
@@ -97,86 +169,14 @@
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 69702,
+    "stargazers_count": 69760,
     "open_issues_count": 361,
-    "forks_count": 2978
+    "forks_count": 2982
   },
   {
     "full_name": "adropofilm/sooma_ui",
     "stargazers_count": 3,
     "open_issues_count": 5,
     "forks_count": 0
-  },
-  {
-    "full_name": "yuanqing/charming",
-    "stargazers_count": 1003,
-    "open_issues_count": 5,
-    "forks_count": 62
-  },
-  {
-    "full_name": "santosharron/audio-visualizer-three-js",
-    "stargazers_count": 55,
-    "open_issues_count": 0,
-    "forks_count": 20
-  },
-  {
-    "full_name": "codrops/RotatedRevealers",
-    "stargazers_count": 142,
-    "open_issues_count": 1,
-    "forks_count": 39
-  },
-  {
-    "full_name": "di-sukharev/opencommit",
-    "stargazers_count": 3075,
-    "open_issues_count": 48,
-    "forks_count": 124
-  },
-  {
-    "full_name": "madd86/awesome-system-design",
-    "stargazers_count": 6728,
-    "open_issues_count": 5,
-    "forks_count": 593
-  },
-  {
-    "full_name": "mckaywrigley/ai-code-translator",
-    "stargazers_count": 2874,
-    "open_issues_count": 17,
-    "forks_count": 329
-  },
-  {
-    "full_name": "pmndrs/jotai",
-    "stargazers_count": 13030,
-    "open_issues_count": 7,
-    "forks_count": 407
-  },
-  {
-    "full_name": "pmndrs/react-three-flex",
-    "stargazers_count": 1506,
-    "open_issues_count": 16,
-    "forks_count": 35
-  },
-  {
-    "full_name": "pmndrs/lamina",
-    "stargazers_count": 898,
-    "open_issues_count": 15,
-    "forks_count": 33
-  },
-  {
-    "full_name": "pmndrs/react-three-lightmap",
-    "stargazers_count": 107,
-    "open_issues_count": 2,
-    "forks_count": 8
-  },
-  {
-    "full_name": "pmndrs/threejs-journey",
-    "stargazers_count": 601,
-    "open_issues_count": 4,
-    "forks_count": 64
-  },
-  {
-    "full_name": "pmndrs/react-three-a11y",
-    "stargazers_count": 424,
-    "open_issues_count": 8,
-    "forks_count": 12
   }
 ]
