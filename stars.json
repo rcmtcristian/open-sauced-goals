@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "sadmann7/netflx-web",
+    "stargazers_count": 368,
+    "open_issues_count": 2,
+    "forks_count": 49
+  },
+  {
+    "full_name": "conventional-changelog/commitlint",
+    "stargazers_count": 13636,
+    "open_issues_count": 142,
+    "forks_count": 831
+  },
+  {
+    "full_name": "splinetool/react-spline",
+    "stargazers_count": 652,
+    "open_issues_count": 14,
+    "forks_count": 27
+  },
+  {
     "full_name": "coderfabri/vite-react-starter",
     "stargazers_count": 45,
     "open_issues_count": 0,
@@ -7,9 +25,9 @@
   },
   {
     "full_name": "carloscuesta/gitmoji-cli",
-    "stargazers_count": 4206,
+    "stargazers_count": 4212,
     "open_issues_count": 7,
-    "forks_count": 203
+    "forks_count": 205
   },
   {
     "full_name": "Drumpy/vrttv-boilerplate",
@@ -19,21 +37,21 @@
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 9748,
-    "open_issues_count": 29,
-    "forks_count": 834
+    "stargazers_count": 9794,
+    "open_issues_count": 30,
+    "forks_count": 837
   },
   {
     "full_name": "trufflesecurity/trufflehog",
-    "stargazers_count": 10992,
-    "open_issues_count": 125,
-    "forks_count": 1302
+    "stargazers_count": 11085,
+    "open_issues_count": 127,
+    "forks_count": 1304
   },
   {
     "full_name": "mayooear/gpt4-pdf-chatbot-langchain",
-    "stargazers_count": 8497,
-    "open_issues_count": 78,
-    "forks_count": 1559
+    "stargazers_count": 9040,
+    "open_issues_count": 85,
+    "forks_count": 1659
   },
   {
     "full_name": "jamilsinno/leetcode",
@@ -50,20 +68,20 @@
   {
     "full_name": "snezhig/obsidian-front-matter-title",
     "stargazers_count": 131,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 8
   },
   {
     "full_name": "phibr0/obsidian-charts",
     "stargazers_count": 331,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 11
   },
   {
     "full_name": "zsviczian/excalibrain",
     "stargazers_count": 366,
     "open_issues_count": 61,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "prbinu/touch2sudo",
@@ -73,13 +91,13 @@
   },
   {
     "full_name": "tengbao/vanta",
-    "stargazers_count": 4453,
+    "stargazers_count": 4477,
     "open_issues_count": 44,
     "forks_count": 995
   },
   {
     "full_name": "pixijs/filters",
-    "stargazers_count": 755,
+    "stargazers_count": 756,
     "open_issues_count": 22,
     "forks_count": 148
   },
@@ -93,12 +111,12 @@
     "full_name": "abirismyname/actions-hackpod-template",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "KyleTryon/Node-TypeScript-Starter",
     "stargazers_count": 9,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -115,7 +133,7 @@
   },
   {
     "full_name": "cssinjs/jss",
-    "stargazers_count": 6935,
+    "stargazers_count": 6936,
     "open_issues_count": 208,
     "forks_count": 424
   },
@@ -127,7 +145,7 @@
   },
   {
     "full_name": "steven-tey/weathergpt",
-    "stargazers_count": 123,
+    "stargazers_count": 126,
     "open_issues_count": 0,
     "forks_count": 14
   },
@@ -139,7 +157,7 @@
   },
   {
     "full_name": "nemutas/helix",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5411,
+    "stargazers_count": 5417,
     "open_issues_count": 27,
-    "forks_count": 843
+    "forks_count": 844
   },
   {
     "full_name": "yabwe/medium-editor",
-    "stargazers_count": 15791,
+    "stargazers_count": 15794,
     "open_issues_count": 358,
-    "forks_count": 1885
-  },
-  {
-    "full_name": "jkhaui/predictable",
-    "stargazers_count": 70,
-    "open_issues_count": 26,
-    "forks_count": 16
-  },
-  {
-    "full_name": "tonsky/FiraCode",
-    "stargazers_count": 69760,
-    "open_issues_count": 361,
-    "forks_count": 2982
-  },
-  {
-    "full_name": "adropofilm/sooma_ui",
-    "stargazers_count": 3,
-    "open_issues_count": 5,
-    "forks_count": 0
+    "forks_count": 1886
   }
 ]
