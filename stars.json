@@ -1,21 +1,99 @@
 [
   {
+    "full_name": "MinhasKamal/DownGit",
+    "stargazers_count": 1465,
+    "open_issues_count": 36,
+    "forks_count": 365
+  },
+  {
+    "full_name": "rcaferati/react-awesome-button",
+    "stargazers_count": 1191,
+    "open_issues_count": 41,
+    "forks_count": 136
+  },
+  {
+    "full_name": "shadcn/taxonomy",
+    "stargazers_count": 10483,
+    "open_issues_count": 73,
+    "forks_count": 1132
+  },
+  {
+    "full_name": "feathericons/feather",
+    "stargazers_count": 23413,
+    "open_issues_count": 485,
+    "forks_count": 1209
+  },
+  {
+    "full_name": "azouaoui-med/react-pro-sidebar",
+    "stargazers_count": 1236,
+    "open_issues_count": 8,
+    "forks_count": 351
+  },
+  {
+    "full_name": "negomi/react-burger-menu",
+    "stargazers_count": 4887,
+    "open_issues_count": 9,
+    "forks_count": 587
+  },
+  {
+    "full_name": "jsmanifest/modern-sidebar",
+    "stargazers_count": 67,
+    "open_issues_count": 21,
+    "forks_count": 45
+  },
+  {
+    "full_name": "trananhtuat/animated-sidebar-indicator",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 45
+  },
+  {
+    "full_name": "codrops/GoogleNexusWebsiteMenu",
+    "stargazers_count": 323,
+    "open_issues_count": 6,
+    "forks_count": 108
+  },
+  {
+    "full_name": "codrops/MultiLevelPushMenu",
+    "stargazers_count": 738,
+    "open_issues_count": 33,
+    "forks_count": 203
+  },
+  {
+    "full_name": "codrops/OffCanvasMenuEffects",
+    "stargazers_count": 678,
+    "open_issues_count": 5,
+    "forks_count": 145
+  },
+  {
+    "full_name": "codrops/MultiLevelMenu",
+    "stargazers_count": 223,
+    "open_issues_count": 7,
+    "forks_count": 84
+  },
+  {
+    "full_name": "codrops/SidebarTransitions",
+    "stargazers_count": 1584,
+    "open_issues_count": 10,
+    "forks_count": 236
+  },
+  {
     "full_name": "clerkinc/clerk-react-starter",
     "stargazers_count": 10,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 55750,
-    "open_issues_count": 519,
-    "forks_count": 4939
+    "stargazers_count": 55870,
+    "open_issues_count": 523,
+    "forks_count": 4946
   },
   {
     "full_name": "supabase-community/nextjs-openai-doc-search",
-    "stargazers_count": 714,
-    "open_issues_count": 2,
-    "forks_count": 97
+    "stargazers_count": 747,
+    "open_issues_count": 3,
+    "forks_count": 104
   },
   {
     "full_name": "MinhasKamal/CreepyCodeCollection",
@@ -25,33 +103,33 @@
   },
   {
     "full_name": "vercel/vercel",
-    "stargazers_count": 10475,
-    "open_issues_count": 224,
-    "forks_count": 1782
+    "stargazers_count": 10510,
+    "open_issues_count": 227,
+    "forks_count": 1787
   },
   {
     "full_name": "Rich-Harris/sveltekit-on-the-edge",
-    "stargazers_count": 186,
+    "stargazers_count": 188,
     "open_issues_count": 2,
     "forks_count": 20
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 48326,
-    "open_issues_count": 450,
-    "forks_count": 3373
+    "stargazers_count": 48416,
+    "open_issues_count": 451,
+    "forks_count": 3383
   },
   {
     "full_name": "CharlieS1103/spicetify-extensions",
-    "stargazers_count": 287,
+    "stargazers_count": 291,
     "open_issues_count": 7,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "csansoon/ai-web-designer",
-    "stargazers_count": 113,
+    "stargazers_count": 115,
     "open_issues_count": 5,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "kvnxiao/sort-awesome-lists",
@@ -61,21 +139,21 @@
   },
   {
     "full_name": "codrops/OnScrollTypographyAnimations",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 0,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "maxi1134/Home-Assistant-Config",
-    "stargazers_count": 330,
-    "open_issues_count": 9,
+    "stargazers_count": 354,
+    "open_issues_count": 10,
     "forks_count": 20
   },
   {
     "full_name": "diimdeep/awesome-split-keyboards",
-    "stargazers_count": 3814,
+    "stargazers_count": 3819,
     "open_issues_count": 30,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "nhereveri/minimalPWA",
@@ -85,98 +163,20 @@
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 11242,
+    "stargazers_count": 11269,
     "open_issues_count": 95,
-    "forks_count": 425
+    "forks_count": 424
   },
   {
     "full_name": "novuhq/blog",
-    "stargazers_count": 524,
-    "open_issues_count": 5,
-    "forks_count": 409
+    "stargazers_count": 526,
+    "open_issues_count": 7,
+    "forks_count": 412
   },
   {
     "full_name": "nas5w/interview-guide",
-    "stargazers_count": 1907,
+    "stargazers_count": 1912,
     "open_issues_count": 5,
     "forks_count": 88
-  },
-  {
-    "full_name": "sadmann7/amzn-web",
-    "stargazers_count": 79,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "spite/Maf.js",
-    "stargazers_count": 78,
-    "open_issues_count": 0,
-    "forks_count": 12
-  },
-  {
-    "full_name": "dli/flow",
-    "stargazers_count": 879,
-    "open_issues_count": 1,
-    "forks_count": 113
-  },
-  {
-    "full_name": "spite/codevember-2017",
-    "stargazers_count": 136,
-    "open_issues_count": 0,
-    "forks_count": 21
-  },
-  {
-    "full_name": "calcom/cal.com",
-    "stargazers_count": 18435,
-    "open_issues_count": 897,
-    "forks_count": 2444
-  },
-  {
-    "full_name": "sadmann7/netflx-web",
-    "stargazers_count": 448,
-    "open_issues_count": 2,
-    "forks_count": 59
-  },
-  {
-    "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 13657,
-    "open_issues_count": 142,
-    "forks_count": 831
-  },
-  {
-    "full_name": "splinetool/react-spline",
-    "stargazers_count": 658,
-    "open_issues_count": 14,
-    "forks_count": 27
-  },
-  {
-    "full_name": "coderfabri/vite-react-starter",
-    "stargazers_count": 44,
-    "open_issues_count": 0,
-    "forks_count": 17
-  },
-  {
-    "full_name": "carloscuesta/gitmoji-cli",
-    "stargazers_count": 4213,
-    "open_issues_count": 7,
-    "forks_count": 205
-  },
-  {
-    "full_name": "Drumpy/vrttv-boilerplate",
-    "stargazers_count": 39,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 9957,
-    "open_issues_count": 31,
-    "forks_count": 842
-  },
-  {
-    "full_name": "trufflesecurity/trufflehog",
-    "stargazers_count": 11128,
-    "open_issues_count": 135,
-    "forks_count": 1306
   }
 ]
