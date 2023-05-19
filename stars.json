@@ -1,14 +1,26 @@
 [
   {
+    "full_name": "Jaaneek/t3-supabase-app-router",
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "t3-oss/create-t3-app",
+    "stargazers_count": 17568,
+    "open_issues_count": 34,
+    "forks_count": 754
+  },
+  {
     "full_name": "microsoft/guidance",
-    "stargazers_count": 666,
-    "open_issues_count": 3,
-    "forks_count": 15
+    "stargazers_count": 5542,
+    "open_issues_count": 20,
+    "forks_count": 301
   },
   {
     "full_name": "GRA0007/crab.fit",
     "stargazers_count": 90,
-    "open_issues_count": 20,
+    "open_issues_count": 18,
     "forks_count": 13
   },
   {
@@ -21,41 +33,41 @@
     "full_name": "Sayrix/Ticket-Bot",
     "stargazers_count": 321,
     "open_issues_count": 3,
-    "forks_count": 179
+    "forks_count": 178
   },
   {
     "full_name": "discord-tickets/bot",
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 33,
-    "forks_count": 384
+    "forks_count": 386
   },
   {
     "full_name": "umutxyp/MusicBot",
-    "stargazers_count": 748,
+    "stargazers_count": 751,
     "open_issues_count": 6,
-    "forks_count": 875
+    "forks_count": 876
   },
   {
     "full_name": "Clytage/rawon",
-    "stargazers_count": 1349,
+    "stargazers_count": 1352,
     "open_issues_count": 10,
-    "forks_count": 1664
+    "forks_count": 1667
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 25517,
-    "open_issues_count": 106,
-    "forks_count": 878
+    "stargazers_count": 25625,
+    "open_issues_count": 113,
+    "forks_count": 883
   },
   {
     "full_name": "0beqz/realism-effects",
-    "stargazers_count": 792,
+    "stargazers_count": 800,
     "open_issues_count": 9,
     "forks_count": 32
   },
   {
     "full_name": "utsuboco/r3f-perf",
-    "stargazers_count": 410,
+    "stargazers_count": 414,
     "open_issues_count": 7,
     "forks_count": 15
   },
@@ -67,116 +79,104 @@
   },
   {
     "full_name": "tefkah/zotero-night",
-    "stargazers_count": 1294,
-    "open_issues_count": 71,
+    "stargazers_count": 1304,
+    "open_issues_count": 72,
     "forks_count": 24
   },
   {
     "full_name": "saharan/OimoPhysics",
-    "stargazers_count": 714,
+    "stargazers_count": 717,
     "open_issues_count": 15,
     "forks_count": 56
   },
   {
     "full_name": "githubnext/blocks",
-    "stargazers_count": 234,
-    "open_issues_count": 20,
+    "stargazers_count": 235,
+    "open_issues_count": 21,
     "forks_count": 39
   },
   {
     "full_name": "alienkitty/space.js",
-    "stargazers_count": 160,
+    "stargazers_count": 165,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 38291,
+    "stargazers_count": 38325,
     "open_issues_count": 116,
     "forks_count": 5092
   },
   {
     "full_name": "tiimgreen/github-cheat-sheet",
-    "stargazers_count": 40919,
+    "stargazers_count": 40960,
     "open_issues_count": 29,
-    "forks_count": 5279
+    "forks_count": 5281
   },
   {
     "full_name": "vsouza/awesome-ios",
-    "stargazers_count": 42818,
-    "open_issues_count": 4,
-    "forks_count": 6771
+    "stargazers_count": 42859,
+    "open_issues_count": 5,
+    "forks_count": 6778
   },
   {
     "full_name": "binhnguyennus/awesome-scalability",
-    "stargazers_count": 45105,
-    "open_issues_count": 15,
-    "forks_count": 5036
+    "stargazers_count": 45143,
+    "open_issues_count": 14,
+    "forks_count": 5039
   },
   {
     "full_name": "wasabeef/awesome-android-ui",
-    "stargazers_count": 46324,
+    "stargazers_count": 46357,
     "open_issues_count": 24,
-    "forks_count": 10298
+    "forks_count": 10303
   },
   {
     "full_name": "prakhar1989/awesome-courses",
-    "stargazers_count": 47143,
+    "stargazers_count": 47203,
     "open_issues_count": 46,
-    "forks_count": 7990
+    "forks_count": 7996
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 51091,
+    "stargazers_count": 51134,
     "open_issues_count": 22,
-    "forks_count": 5652
+    "forks_count": 5654
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 55247,
-    "open_issues_count": 22,
-    "forks_count": 7569
+    "stargazers_count": 55290,
+    "open_issues_count": 23,
+    "forks_count": 7580
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 55451,
+    "stargazers_count": 55531,
     "open_issues_count": 3,
     "forks_count": 6719
   },
   {
     "full_name": "Hack-with-Github/Awesome-Hacking",
-    "stargazers_count": 64897,
+    "stargazers_count": 65024,
     "open_issues_count": 24,
-    "forks_count": 8508
+    "forks_count": 8516
   },
   {
     "full_name": "521xueweihan/HelloGitHub",
-    "stargazers_count": 68796,
+    "stargazers_count": 68935,
     "open_issues_count": 103,
-    "forks_count": 8980
+    "forks_count": 8984
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 72112,
+    "stargazers_count": 72362,
     "open_issues_count": 4,
-    "forks_count": 5162
+    "forks_count": 5196
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 101463,
-    "open_issues_count": 140,
-    "forks_count": 10943
-  },
-  {
-    "full_name": "sindresorhus/awesome-chatgpt",
-    "stargazers_count": 1540,
-    "open_issues_count": 5,
-    "forks_count": 65
-  },
-  {
-    "full_name": "sindresorhus/Gifski",
-    "stargazers_count": 6797,
-    "open_issues_count": 28,
-    "forks_count": 271
+    "stargazers_count": 101633,
+    "open_issues_count": 144,
+    "forks_count": 10956
   }
 ]
