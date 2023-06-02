@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "pilcrowOnPaper/lucia",
+    "stargazers_count": 2094,
+    "open_issues_count": 32,
+    "forks_count": 177
+  },
+  {
+    "full_name": "bradtraversy/vanillawebprojects",
+    "stargazers_count": 14596,
+    "open_issues_count": 45,
+    "forks_count": 4211
+  },
+  {
     "full_name": "akella/RotatingShapes",
     "stargazers_count": 46,
     "open_issues_count": 0,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "vincanger/coverlettergpt",
-    "stargazers_count": 555,
+    "stargazers_count": 557,
     "open_issues_count": 4,
     "forks_count": 56
   },
@@ -19,21 +31,21 @@
   },
   {
     "full_name": "nickm980/smallville",
-    "stargazers_count": 351,
-    "open_issues_count": 17,
+    "stargazers_count": 364,
+    "open_issues_count": 16,
     "forks_count": 14
   },
   {
     "full_name": "ricklamers/gpt-code-ui",
-    "stargazers_count": 1623,
+    "stargazers_count": 1688,
     "open_issues_count": 1,
-    "forks_count": 162
+    "forks_count": 170
   },
   {
     "full_name": "intel/intel-one-mono",
-    "stargazers_count": 1420,
+    "stargazers_count": 1633,
     "open_issues_count": 7,
-    "forks_count": 12
+    "forks_count": 14
   },
   {
     "full_name": "bryanberger/figma-discord-random-avatar",
@@ -43,31 +55,31 @@
   },
   {
     "full_name": "Matusson/UCloth",
-    "stargazers_count": 47,
+    "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "aurimasg/blaze",
-    "stargazers_count": 62,
-    "open_issues_count": 2,
+    "stargazers_count": 68,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "amzn/style-dictionary",
-    "stargazers_count": 3226,
-    "open_issues_count": 193,
+    "stargazers_count": 3233,
+    "open_issues_count": 190,
     "forks_count": 482
   },
   {
     "full_name": "studio-freight/aniso",
-    "stargazers_count": 62,
+    "stargazers_count": 63,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "Rainbell129/Obsidian-Homepage",
-    "stargazers_count": 884,
+    "stargazers_count": 890,
     "open_issues_count": 4,
     "forks_count": 86
   },
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "scottbez1/smartknob",
-    "stargazers_count": 13524,
-    "open_issues_count": 34,
-    "forks_count": 806
+    "stargazers_count": 13550,
+    "open_issues_count": 35,
+    "forks_count": 810
   },
   {
     "full_name": "jgchristopher/obsidian-clipper",
@@ -103,14 +115,14 @@
   },
   {
     "full_name": "martinlaxenaire/curtainsjs",
-    "stargazers_count": 1471,
-    "open_issues_count": 7,
-    "forks_count": 100
+    "stargazers_count": 1472,
+    "open_issues_count": 8,
+    "forks_count": 101
   },
   {
     "full_name": "ektogamat/R3F-Ultimate-Lens-Flare",
-    "stargazers_count": 89,
-    "open_issues_count": 1,
+    "stargazers_count": 101,
+    "open_issues_count": 0,
     "forks_count": 11
   },
   {
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "open-spaced-repetition/fsrs4anki",
-    "stargazers_count": 756,
-    "open_issues_count": 20,
-    "forks_count": 84
+    "stargazers_count": 767,
+    "open_issues_count": 23,
+    "forks_count": 86
   },
   {
     "full_name": "18alantom/synth",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "18alantom/strawberry",
-    "stargazers_count": 404,
-    "open_issues_count": 4,
-    "forks_count": 10
+    "stargazers_count": 458,
+    "open_issues_count": 5,
+    "forks_count": 13
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 21144,
+    "stargazers_count": 21340,
     "open_issues_count": 138,
-    "forks_count": 2531
+    "forks_count": 2569
   },
   {
     "full_name": "karpathy/convnetjs",
     "stargazers_count": 10586,
     "open_issues_count": 75,
-    "forks_count": 2057
+    "forks_count": 2058
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 8261,
-    "open_issues_count": 18,
-    "forks_count": 611
+    "stargazers_count": 8556,
+    "open_issues_count": 25,
+    "forks_count": 656
   },
   {
     "full_name": "mstfsnc/twitter-video-downloader-extension",
     "stargazers_count": 78,
     "open_issues_count": 8,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "trey-wallis/obsidian-notion-like-tables",
-    "stargazers_count": 374,
-    "open_issues_count": 39,
-    "forks_count": 22
-  },
-  {
-    "full_name": "Jaaneek/t3-supabase-app-router",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 17791,
-    "open_issues_count": 34,
-    "forks_count": 763
+    "stargazers_count": 381,
+    "open_issues_count": 36,
+    "forks_count": 24
   }
 ]
