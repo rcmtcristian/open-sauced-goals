@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "ryanburgess/engineer-manager",
+    "stargazers_count": 8329,
+    "open_issues_count": 3,
+    "forks_count": 526
+  },
+  {
+    "full_name": "chronark/chronark.com",
+    "stargazers_count": 217,
+    "open_issues_count": 2,
+    "forks_count": 62
+  },
+  {
+    "full_name": "PromtEngineer/localGPT",
+    "stargazers_count": 6989,
+    "open_issues_count": 68,
+    "forks_count": 581
+  },
+  {
+    "full_name": "charliegerard/interactive-frame-tfjs",
+    "stargazers_count": 82,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "janeczku/calibre-web",
+    "stargazers_count": 9233,
+    "open_issues_count": 389,
+    "forks_count": 1084
+  },
+  {
+    "full_name": "casualsnek/onthespot",
+    "stargazers_count": 290,
+    "open_issues_count": 29,
+    "forks_count": 30
+  },
+  {
+    "full_name": "Not-Quite-RARBG/main",
+    "stargazers_count": 510,
+    "open_issues_count": 13,
+    "forks_count": 19
+  },
+  {
+    "full_name": "TechSquidTV/UltimateHomeServer",
+    "stargazers_count": 291,
+    "open_issues_count": 7,
+    "forks_count": 8
+  },
+  {
+    "full_name": "Nutlope/roomGPT",
+    "stargazers_count": 7667,
+    "open_issues_count": 2,
+    "forks_count": 787
+  },
+  {
+    "full_name": "m1guelpf/armchair",
+    "stargazers_count": 280,
+    "open_issues_count": 2,
+    "forks_count": 14
+  },
+  {
+    "full_name": "tinyplex/tinybase",
+    "stargazers_count": 2049,
+    "open_issues_count": 8,
+    "forks_count": 36
+  },
+  {
+    "full_name": "haskell-beginners-2022/course-plan",
+    "stargazers_count": 975,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "langium/langium",
+    "stargazers_count": 407,
+    "open_issues_count": 63,
+    "forks_count": 39
+  },
+  {
+    "full_name": "ccrma/chuck",
+    "stargazers_count": 617,
+    "open_issues_count": 141,
+    "forks_count": 108
+  },
+  {
+    "full_name": "grail-ui/grail-ui",
+    "stargazers_count": 273,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
+    "full_name": "HoudiniGraphql/houdini",
+    "stargazers_count": 698,
+    "open_issues_count": 24,
+    "forks_count": 69
+  },
+  {
+    "full_name": "formkit/formkit",
+    "stargazers_count": 2892,
+    "open_issues_count": 67,
+    "forks_count": 114
+  },
+  {
+    "full_name": "highlight/highlight",
+    "stargazers_count": 3936,
+    "open_issues_count": 382,
+    "forks_count": 94
+  },
+  {
+    "full_name": "openchatai/OpenChat",
+    "stargazers_count": 1089,
+    "open_issues_count": 15,
+    "forks_count": 102
+  },
+  {
+    "full_name": "gabeklein/expressive-mvc",
+    "stargazers_count": 79,
+    "open_issues_count": 3,
+    "forks_count": 5
+  },
+  {
+    "full_name": "remorses/genql",
+    "stargazers_count": 673,
+    "open_issues_count": 9,
+    "forks_count": 20
+  },
+  {
+    "full_name": "payloadcms/payload",
+    "stargazers_count": 10600,
+    "open_issues_count": 44,
+    "forks_count": 546
+  },
+  {
+    "full_name": "basementstudio/scrollytelling",
+    "stargazers_count": 520,
+    "open_issues_count": 3,
+    "forks_count": 10
+  },
+  {
+    "full_name": "sindresorhus/ky",
+    "stargazers_count": 9920,
+    "open_issues_count": 51,
+    "forks_count": 320
+  },
+  {
+    "full_name": "needle-tools/needle-engine-samples",
+    "stargazers_count": 42,
+    "open_issues_count": 3,
+    "forks_count": 7
+  },
+  {
+    "full_name": "juliusmarminge/acme-corp",
+    "stargazers_count": 370,
+    "open_issues_count": 14,
+    "forks_count": 19
+  },
+  {
+    "full_name": "lucgagan/completions",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "pilcrowOnPaper/lucia",
-    "stargazers_count": 2094,
+    "stargazers_count": 2124,
     "open_issues_count": 32,
-    "forks_count": 177
+    "forks_count": 180
   },
   {
     "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 14596,
-    "open_issues_count": 45,
-    "forks_count": 4211
+    "stargazers_count": 14616,
+    "open_issues_count": 47,
+    "forks_count": 4215
   },
   {
     "full_name": "akella/RotatingShapes",
     "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 12
-  },
-  {
-    "full_name": "vincanger/coverlettergpt",
-    "stargazers_count": 557,
-    "open_issues_count": 4,
-    "forks_count": 56
-  },
-  {
-    "full_name": "aleksey-rezvov/obsidian-local-images",
-    "stargazers_count": 205,
-    "open_issues_count": 43,
-    "forks_count": 36
-  },
-  {
-    "full_name": "nickm980/smallville",
-    "stargazers_count": 364,
-    "open_issues_count": 16,
-    "forks_count": 14
-  },
-  {
-    "full_name": "ricklamers/gpt-code-ui",
-    "stargazers_count": 1688,
-    "open_issues_count": 1,
-    "forks_count": 170
-  },
-  {
-    "full_name": "intel/intel-one-mono",
-    "stargazers_count": 1633,
-    "open_issues_count": 7,
-    "forks_count": 14
-  },
-  {
-    "full_name": "bryanberger/figma-discord-random-avatar",
-    "stargazers_count": 12,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Matusson/UCloth",
-    "stargazers_count": 50,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "aurimasg/blaze",
-    "stargazers_count": 68,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "amzn/style-dictionary",
-    "stargazers_count": 3233,
-    "open_issues_count": 190,
-    "forks_count": 482
-  },
-  {
-    "full_name": "studio-freight/aniso",
-    "stargazers_count": 63,
-    "open_issues_count": 2,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Rainbell129/Obsidian-Homepage",
-    "stargazers_count": 890,
-    "open_issues_count": 4,
-    "forks_count": 86
-  },
-  {
-    "full_name": "asciimoo/drawille",
-    "stargazers_count": 3044,
-    "open_issues_count": 17,
-    "forks_count": 136
-  },
-  {
-    "full_name": "scottbez1/smartknob",
-    "stargazers_count": 13550,
-    "open_issues_count": 35,
-    "forks_count": 810
-  },
-  {
-    "full_name": "jgchristopher/obsidian-clipper",
-    "stargazers_count": 73,
-    "open_issues_count": 5,
-    "forks_count": 2
-  },
-  {
-    "full_name": "martinlaxenaire/scroll-observer",
-    "stargazers_count": 42,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "martinlaxenaire/react-curtains",
-    "stargazers_count": 92,
-    "open_issues_count": 6,
-    "forks_count": 6
-  },
-  {
-    "full_name": "martinlaxenaire/curtainsjs",
-    "stargazers_count": 1472,
-    "open_issues_count": 8,
-    "forks_count": 101
-  },
-  {
-    "full_name": "ektogamat/R3F-Ultimate-Lens-Flare",
-    "stargazers_count": 101,
-    "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "basementstudio/basement-laboratory",
-    "stargazers_count": 89,
-    "open_issues_count": 5,
-    "forks_count": 0
-  },
-  {
-    "full_name": "open-spaced-repetition/fsrs4anki",
-    "stargazers_count": 767,
-    "open_issues_count": 23,
-    "forks_count": 86
-  },
-  {
-    "full_name": "18alantom/synth",
-    "stargazers_count": 143,
-    "open_issues_count": 1,
-    "forks_count": 26
-  },
-  {
-    "full_name": "18alantom/strawberry",
-    "stargazers_count": 458,
-    "open_issues_count": 5,
-    "forks_count": 13
-  },
-  {
-    "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 21340,
-    "open_issues_count": 138,
-    "forks_count": 2569
-  },
-  {
-    "full_name": "karpathy/convnetjs",
-    "stargazers_count": 10586,
-    "open_issues_count": 75,
-    "forks_count": 2058
-  },
-  {
-    "full_name": "smol-ai/developer",
-    "stargazers_count": 8556,
-    "open_issues_count": 25,
-    "forks_count": 656
-  },
-  {
-    "full_name": "mstfsnc/twitter-video-downloader-extension",
-    "stargazers_count": 78,
-    "open_issues_count": 8,
-    "forks_count": 16
-  },
-  {
-    "full_name": "trey-wallis/obsidian-notion-like-tables",
-    "stargazers_count": 381,
-    "open_issues_count": 36,
-    "forks_count": 24
   }
 ]
