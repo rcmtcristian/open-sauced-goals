@@ -1,21 +1,63 @@
 [
   {
+    "full_name": "steven-tey/dub",
+    "stargazers_count": 8520,
+    "open_issues_count": 32,
+    "forks_count": 564
+  },
+  {
+    "full_name": "tailwindlabs/tailwindcss.com",
+    "stargazers_count": 2555,
+    "open_issues_count": 5,
+    "forks_count": 1384
+  },
+  {
+    "full_name": "chronark/highstorm",
+    "stargazers_count": 847,
+    "open_issues_count": 5,
+    "forks_count": 67
+  },
+  {
+    "full_name": "resendlabs/react-email",
+    "stargazers_count": 6951,
+    "open_issues_count": 42,
+    "forks_count": 283
+  },
+  {
+    "full_name": "pingdotgg/sample_hooks",
+    "stargazers_count": 10,
+    "open_issues_count": 4,
+    "forks_count": 2
+  },
+  {
+    "full_name": "rcmtcristian/musicworld",
+    "stargazers_count": 1,
+    "open_issues_count": 15,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ciaochaos/qrbtf",
+    "stargazers_count": 3174,
+    "open_issues_count": 20,
+    "forks_count": 292
+  },
+  {
     "full_name": "ryanburgess/engineer-manager",
-    "stargazers_count": 8329,
+    "stargazers_count": 9662,
     "open_issues_count": 3,
-    "forks_count": 526
+    "forks_count": 579
   },
   {
     "full_name": "chronark/chronark.com",
-    "stargazers_count": 217,
-    "open_issues_count": 2,
-    "forks_count": 62
+    "stargazers_count": 223,
+    "open_issues_count": 3,
+    "forks_count": 68
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 6989,
-    "open_issues_count": 68,
-    "forks_count": 581
+    "stargazers_count": 7807,
+    "open_issues_count": 75,
+    "forks_count": 639
   },
   {
     "full_name": "charliegerard/interactive-frame-tfjs",
@@ -25,93 +67,93 @@
   },
   {
     "full_name": "janeczku/calibre-web",
-    "stargazers_count": 9233,
-    "open_issues_count": 389,
-    "forks_count": 1084
+    "stargazers_count": 9257,
+    "open_issues_count": 390,
+    "forks_count": 1085
   },
   {
     "full_name": "casualsnek/onthespot",
-    "stargazers_count": 290,
+    "stargazers_count": 292,
     "open_issues_count": 29,
     "forks_count": 30
   },
   {
     "full_name": "Not-Quite-RARBG/main",
-    "stargazers_count": 510,
-    "open_issues_count": 13,
+    "stargazers_count": 555,
+    "open_issues_count": 15,
     "forks_count": 19
   },
   {
     "full_name": "TechSquidTV/UltimateHomeServer",
-    "stargazers_count": 291,
+    "stargazers_count": 294,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 7667,
+    "stargazers_count": 7717,
     "open_issues_count": 2,
-    "forks_count": 787
+    "forks_count": 791
   },
   {
     "full_name": "m1guelpf/armchair",
-    "stargazers_count": 280,
+    "stargazers_count": 294,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "tinyplex/tinybase",
-    "stargazers_count": 2049,
+    "stargazers_count": 2067,
     "open_issues_count": 8,
     "forks_count": 36
   },
   {
     "full_name": "haskell-beginners-2022/course-plan",
-    "stargazers_count": 975,
+    "stargazers_count": 980,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "langium/langium",
-    "stargazers_count": 407,
-    "open_issues_count": 63,
+    "stargazers_count": 409,
+    "open_issues_count": 65,
     "forks_count": 39
   },
   {
     "full_name": "ccrma/chuck",
-    "stargazers_count": 617,
-    "open_issues_count": 141,
+    "stargazers_count": 618,
+    "open_issues_count": 142,
     "forks_count": 108
   },
   {
     "full_name": "grail-ui/grail-ui",
-    "stargazers_count": 273,
-    "open_issues_count": 2,
-    "forks_count": 5
+    "stargazers_count": 278,
+    "open_issues_count": 3,
+    "forks_count": 6
   },
   {
     "full_name": "HoudiniGraphql/houdini",
-    "stargazers_count": 698,
-    "open_issues_count": 24,
-    "forks_count": 69
+    "stargazers_count": 699,
+    "open_issues_count": 26,
+    "forks_count": 70
   },
   {
     "full_name": "formkit/formkit",
-    "stargazers_count": 2892,
-    "open_issues_count": 67,
+    "stargazers_count": 2963,
+    "open_issues_count": 65,
     "forks_count": 114
   },
   {
     "full_name": "highlight/highlight",
-    "stargazers_count": 3936,
-    "open_issues_count": 382,
-    "forks_count": 94
+    "stargazers_count": 3966,
+    "open_issues_count": 385,
+    "forks_count": 98
   },
   {
     "full_name": "openchatai/OpenChat",
-    "stargazers_count": 1089,
-    "open_issues_count": 15,
-    "forks_count": 102
+    "stargazers_count": 2633,
+    "open_issues_count": 22,
+    "forks_count": 213
   },
   {
     "full_name": "gabeklein/expressive-mvc",
@@ -122,61 +164,19 @@
   {
     "full_name": "remorses/genql",
     "stargazers_count": 673,
-    "open_issues_count": 9,
-    "forks_count": 20
-  },
-  {
-    "full_name": "payloadcms/payload",
-    "stargazers_count": 10600,
-    "open_issues_count": 44,
-    "forks_count": 546
-  },
-  {
-    "full_name": "basementstudio/scrollytelling",
-    "stargazers_count": 520,
-    "open_issues_count": 3,
-    "forks_count": 10
-  },
-  {
-    "full_name": "sindresorhus/ky",
-    "stargazers_count": 9920,
-    "open_issues_count": 51,
-    "forks_count": 320
-  },
-  {
-    "full_name": "needle-tools/needle-engine-samples",
-    "stargazers_count": 42,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "juliusmarminge/acme-corp",
-    "stargazers_count": 370,
-    "open_issues_count": 14,
+    "open_issues_count": 8,
     "forks_count": 19
   },
   {
-    "full_name": "lucgagan/completions",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "full_name": "payloadcms/payload",
+    "stargazers_count": 10624,
+    "open_issues_count": 40,
+    "forks_count": 548
   },
   {
-    "full_name": "pilcrowOnPaper/lucia",
-    "stargazers_count": 2124,
-    "open_issues_count": 32,
-    "forks_count": 180
-  },
-  {
-    "full_name": "bradtraversy/vanillawebprojects",
-    "stargazers_count": 14616,
-    "open_issues_count": 47,
-    "forks_count": 4215
-  },
-  {
-    "full_name": "akella/RotatingShapes",
-    "stargazers_count": 46,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "full_name": "basementstudio/scrollytelling",
+    "stargazers_count": 529,
+    "open_issues_count": 3,
+    "forks_count": 11
   }
 ]
