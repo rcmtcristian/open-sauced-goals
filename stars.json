@@ -1,15 +1,39 @@
 [
   {
+    "full_name": "BetterDiscord/BetterDiscord",
+    "stargazers_count": 6837,
+    "open_issues_count": 52,
+    "forks_count": 962
+  },
+  {
+    "full_name": "colinlienard/gitlight",
+    "stargazers_count": 291,
+    "open_issues_count": 7,
+    "forks_count": 8
+  },
+  {
+    "full_name": "HondaChan14/Anki-Bot",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Ninjas-Code-official/Marketplace-Food-Delivery-Solution",
+    "stargazers_count": 81,
+    "open_issues_count": 0,
+    "forks_count": 29
+  },
+  {
     "full_name": "unocss/unocss",
-    "stargazers_count": 12412,
-    "open_issues_count": 101,
-    "forks_count": 582
+    "stargazers_count": 12446,
+    "open_issues_count": 104,
+    "forks_count": 587
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 15650,
-    "open_issues_count": 24,
-    "forks_count": 2569
+    "stargazers_count": 15896,
+    "open_issues_count": 29,
+    "forks_count": 2590
   },
   {
     "full_name": "h-jennings/portfolio-v3",
@@ -19,9 +43,9 @@
   },
   {
     "full_name": "junni-inc/next.junni.co.jp",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 0,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "oculus-samples/Unity-FirstHand",
@@ -45,19 +69,19 @@
     "full_name": "MaximeHeckel/linear-vaporwave-three.js",
     "stargazers_count": 38,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "open-template-hub/company-profile-ui-template",
     "stargazers_count": 18,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 3314,
-    "open_issues_count": 11,
-    "forks_count": 557
+    "stargazers_count": 3499,
+    "open_issues_count": 9,
+    "forks_count": 580
   },
   {
     "full_name": "loginov-rocks/three-sky",
@@ -85,27 +109,27 @@
   },
   {
     "full_name": "benlikescode/geohub",
-    "stargazers_count": 48,
-    "open_issues_count": 10,
-    "forks_count": 0
+    "stargazers_count": 50,
+    "open_issues_count": 9,
+    "forks_count": 1
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 1881,
-    "open_issues_count": 26,
-    "forks_count": 222
+    "stargazers_count": 1942,
+    "open_issues_count": 29,
+    "forks_count": 232
   },
   {
     "full_name": "gdquest-demos/3D-Characters-Repository",
-    "stargazers_count": 184,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "reactive-python/reactpy",
-    "stargazers_count": 6404,
-    "open_issues_count": 105,
-    "forks_count": 261
+    "stargazers_count": 6428,
+    "open_issues_count": 106,
+    "forks_count": 264
   },
   {
     "full_name": "rcmtcristian/youtube-to-chatbot",
@@ -115,68 +139,44 @@
   },
   {
     "full_name": "emmethalm/youtube-to-chatbot",
-    "stargazers_count": 256,
+    "stargazers_count": 262,
     "open_issues_count": 4,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "Unity-Technologies/ml-agents",
-    "stargazers_count": 15055,
-    "open_issues_count": 176,
-    "forks_count": 3896
+    "stargazers_count": 15075,
+    "open_issues_count": 177,
+    "forks_count": 3903
   },
   {
     "full_name": "vuejs/vue-cli",
-    "stargazers_count": 29676,
-    "open_issues_count": 1055,
-    "forks_count": 6464
+    "stargazers_count": 29681,
+    "open_issues_count": 1057,
+    "forks_count": 6465
   },
   {
     "full_name": "christianselig/apollo-backend",
-    "stargazers_count": 3224,
+    "stargazers_count": 3232,
     "open_issues_count": 13,
-    "forks_count": 565
+    "forks_count": 564
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 9342,
-    "open_issues_count": 29,
-    "forks_count": 663
+    "stargazers_count": 9381,
+    "open_issues_count": 31,
+    "forks_count": 673
   },
   {
     "full_name": "tailwindlabs/tailwindcss.com",
-    "stargazers_count": 2658,
+    "stargazers_count": 2664,
     "open_issues_count": 9,
-    "forks_count": 1436
+    "forks_count": 1443
   },
   {
     "full_name": "chronark/highstorm",
-    "stargazers_count": 1130,
+    "stargazers_count": 1135,
     "open_issues_count": 5,
-    "forks_count": 93
-  },
-  {
-    "full_name": "resendlabs/react-email",
-    "stargazers_count": 8248,
-    "open_issues_count": 70,
-    "forks_count": 335
-  },
-  {
-    "full_name": "pingdotgg/sample_hooks",
-    "stargazers_count": 10,
-    "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "rcmtcristian/musicworld",
-    "stargazers_count": 1,
-    "open_issues_count": 16,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ciaochaos/qrbtf",
-    "stargazers_count": 4923,
-    "open_issues_count": 23,
-    "forks_count": 394
+    "forks_count": 94
   }
 ]
