@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "mickael-menu/zk-nvim",
+    "stargazers_count": 336,
+    "open_issues_count": 1,
+    "forks_count": 24
+  },
+  {
+    "full_name": "nvim-neorg/neorg",
+    "stargazers_count": 4148,
+    "open_issues_count": 96,
+    "forks_count": 138
+  },
+  {
+    "full_name": "denolehov/obsidian-git",
+    "stargazers_count": 3996,
+    "open_issues_count": 67,
+    "forks_count": 173
+  },
+  {
+    "full_name": "matiasngf/pepito-tracker",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "296kB/Project-Branches",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "trobonox/kanri",
+    "stargazers_count": 256,
+    "open_issues_count": 12,
+    "forks_count": 20
+  },
+  {
     "full_name": "cirosantilli/node-express-sequelize-nextjs-realworld-example-app",
     "stargazers_count": 73,
     "open_issues_count": 11,
@@ -7,8 +43,8 @@
   },
   {
     "full_name": "danielroe/roe.dev",
-    "stargazers_count": 115,
-    "open_issues_count": 4,
+    "stargazers_count": 118,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
@@ -25,7 +61,7 @@
   },
   {
     "full_name": "blenderskool/blaze",
-    "stargazers_count": 1954,
+    "stargazers_count": 1955,
     "open_issues_count": 10,
     "forks_count": 249
   },
@@ -37,14 +73,14 @@
   },
   {
     "full_name": "BetterDiscord/BetterDiscord",
-    "stargazers_count": 6848,
-    "open_issues_count": 52,
+    "stargazers_count": 6852,
+    "open_issues_count": 55,
     "forks_count": 962
   },
   {
     "full_name": "colinlienard/gitlight",
-    "stargazers_count": 410,
-    "open_issues_count": 8,
+    "stargazers_count": 418,
+    "open_issues_count": 10,
     "forks_count": 15
   },
   {
@@ -54,22 +90,22 @@
     "forks_count": 0
   },
   {
-    "full_name": "Ninjas-Code-official/Marketplace-Food-Delivery-Solution",
-    "stargazers_count": 82,
+    "full_name": "Ninjas-Code-official/Enatega-Multivendor-Food-Delivery-Solution",
+    "stargazers_count": 85,
     "open_issues_count": 0,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 12506,
-    "open_issues_count": 106,
-    "forks_count": 589
+    "stargazers_count": 12558,
+    "open_issues_count": 109,
+    "forks_count": 595
   },
   {
     "full_name": "microsoft/AI-For-Beginners",
-    "stargazers_count": 16061,
-    "open_issues_count": 25,
-    "forks_count": 2619
+    "stargazers_count": 16148,
+    "open_issues_count": 26,
+    "forks_count": 2646
   },
   {
     "full_name": "h-jennings/portfolio-v3",
@@ -85,9 +121,9 @@
   },
   {
     "full_name": "oculus-samples/Unity-FirstHand",
-    "stargazers_count": 162,
+    "stargazers_count": 163,
     "open_issues_count": 4,
-    "forks_count": 38
+    "forks_count": 37
   },
   {
     "full_name": "honzaap/SolarSystem",
@@ -115,9 +151,9 @@
   },
   {
     "full_name": "sadmann7/skateshop",
-    "stargazers_count": 3573,
-    "open_issues_count": 10,
-    "forks_count": 590
+    "stargazers_count": 3624,
+    "open_issues_count": 15,
+    "forks_count": 609
   },
   {
     "full_name": "loginov-rocks/three-sky",
@@ -127,7 +163,7 @@
   },
   {
     "full_name": "ThePrimeagen/CHADstack",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 4,
     "forks_count": 6
   },
@@ -142,41 +178,5 @@
     "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 7
-  },
-  {
-    "full_name": "benlikescode/geohub",
-    "stargazers_count": 53,
-    "open_issues_count": 8,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 2002,
-    "open_issues_count": 27,
-    "forks_count": 237
-  },
-  {
-    "full_name": "gdquest-demos/3D-Characters-Repository",
-    "stargazers_count": 186,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "reactive-python/reactpy",
-    "stargazers_count": 6450,
-    "open_issues_count": 109,
-    "forks_count": 266
-  },
-  {
-    "full_name": "rcmtcristian/youtube-to-chatbot",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "emmethalm/youtube-to-chatbot",
-    "stargazers_count": 265,
-    "open_issues_count": 4,
-    "forks_count": 64
   }
 ]
