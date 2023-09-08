@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "adhocteam/pushup",
+    "stargazers_count": 803,
+    "open_issues_count": 45,
+    "forks_count": 25
+  },
+  {
+    "full_name": "mikestefanello/pagoda",
+    "stargazers_count": 920,
+    "open_issues_count": 4,
+    "forks_count": 69
+  },
+  {
+    "full_name": "rajasegar/awesome-htmx",
+    "stargazers_count": 910,
+    "open_issues_count": 2,
+    "forks_count": 61
+  },
+  {
+    "full_name": "bigskysoftware/htmx",
+    "stargazers_count": 20302,
+    "open_issues_count": 271,
+    "forks_count": 701
+  },
+  {
+    "full_name": "wesbos/awesome-uses",
+    "stargazers_count": 4340,
+    "open_issues_count": 28,
+    "forks_count": 1252
+  },
+  {
+    "full_name": "nickytonline/a11y-twitter",
+    "stargazers_count": 20,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "insin/control-panel-for-twitter",
+    "stargazers_count": 1356,
+    "open_issues_count": 85,
+    "forks_count": 45
+  },
+  {
+    "full_name": "refined-github/refined-github",
+    "stargazers_count": 21665,
+    "open_issues_count": 124,
+    "forks_count": 1481
+  },
+  {
     "full_name": "AdollaApp/Adolla",
     "stargazers_count": 199,
     "open_issues_count": 7,
@@ -13,9 +61,9 @@
   },
   {
     "full_name": "imgly/background-removal-js",
-    "stargazers_count": 3878,
+    "stargazers_count": 3898,
     "open_issues_count": 17,
-    "forks_count": 234
+    "forks_count": 239
   },
   {
     "full_name": "heyitsarpit/react-hooks-library",
@@ -25,51 +73,51 @@
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 6860,
+    "stargazers_count": 6875,
     "open_issues_count": 56,
     "forks_count": 187
   },
   {
     "full_name": "matschik/component-party.dev",
-    "stargazers_count": 1068,
+    "stargazers_count": 1070,
     "open_issues_count": 14,
     "forks_count": 119
   },
   {
     "full_name": "ibelick/background-snippets",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "antfu/vscode-file-nesting-config",
-    "stargazers_count": 1929,
+    "stargazers_count": 1952,
     "open_issues_count": 14,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "antfu/eslint-config",
-    "stargazers_count": 1723,
+    "stargazers_count": 1729,
     "open_issues_count": 17,
     "forks_count": 278
   },
   {
     "full_name": "antfu/taze",
-    "stargazers_count": 1621,
+    "stargazers_count": 1624,
     "open_issues_count": 17,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "lokalise/i18n-ally",
-    "stargazers_count": 3063,
-    "open_issues_count": 191,
-    "forks_count": 237
+    "stargazers_count": 3071,
+    "open_issues_count": 193,
+    "forks_count": 238
   },
   {
     "full_name": "antfu/vscode-browse-lite",
     "stargazers_count": 439,
     "open_issues_count": 26,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "antfu/export-size",
@@ -85,15 +133,15 @@
   },
   {
     "full_name": "unjs/uqr",
-    "stargazers_count": 172,
+    "stargazers_count": 175,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 27925,
-    "open_issues_count": 44,
-    "forks_count": 1082
+    "stargazers_count": 27972,
+    "open_issues_count": 28,
+    "forks_count": 1083
   },
   {
     "full_name": "antfu/p5i",
@@ -105,7 +153,7 @@
     "full_name": "antfu/vscode-smart-clicks",
     "stargazers_count": 579,
     "open_issues_count": 12,
-    "forks_count": 10
+    "forks_count": 9
   },
   {
     "full_name": "antfu/retypewriter",
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "antfu/ni",
-    "stargazers_count": 4726,
+    "stargazers_count": 4748,
     "open_issues_count": 8,
     "forks_count": 163
   },
   {
     "full_name": "goldfire/howler.js",
-    "stargazers_count": 22025,
+    "stargazers_count": 22036,
     "open_issues_count": 358,
-    "forks_count": 2200
-  },
-  {
-    "full_name": "spite/FloatingShinyKnot",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 6
-  },
-  {
-    "full_name": "dulajkavinda/commandK",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Lissy93/web-check",
-    "stargazers_count": 5552,
-    "open_issues_count": 4,
-    "forks_count": 377
-  },
-  {
-    "full_name": "o-t-w/mishmashmoji",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "eigilnikolajsen/commit-mono",
-    "stargazers_count": 147,
-    "open_issues_count": 7,
-    "forks_count": 1
-  },
-  {
-    "full_name": "needle-tools/usd-viewer",
-    "stargazers_count": 14,
-    "open_issues_count": 10,
-    "forks_count": 1
-  },
-  {
-    "full_name": "aFarkas/lazysizes",
-    "stargazers_count": 17000,
-    "open_issues_count": 202,
-    "forks_count": 1780
-  },
-  {
-    "full_name": "newfrgmnt/nodl",
-    "stargazers_count": 1421,
-    "open_issues_count": 4,
-    "forks_count": 29
+    "forks_count": 2202
   }
 ]
