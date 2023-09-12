@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "codrops/OnScrollColumnsRows",
+    "stargazers_count": 58,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "Jordan-Gilliam/ai-template",
+    "stargazers_count": 326,
+    "open_issues_count": 5,
+    "forks_count": 52
+  },
+  {
     "full_name": "adhocteam/pushup",
     "stargazers_count": 803,
     "open_issues_count": 45,
@@ -13,21 +25,21 @@
   },
   {
     "full_name": "rajasegar/awesome-htmx",
-    "stargazers_count": 910,
+    "stargazers_count": 923,
     "open_issues_count": 2,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 20302,
-    "open_issues_count": 271,
-    "forks_count": 701
+    "stargazers_count": 20579,
+    "open_issues_count": 278,
+    "forks_count": 719
   },
   {
     "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4340,
-    "open_issues_count": 28,
-    "forks_count": 1252
+    "stargazers_count": 4343,
+    "open_issues_count": 29,
+    "forks_count": 1253
   },
   {
     "full_name": "nickytonline/a11y-twitter",
@@ -37,19 +49,19 @@
   },
   {
     "full_name": "insin/control-panel-for-twitter",
-    "stargazers_count": 1356,
-    "open_issues_count": 85,
+    "stargazers_count": 1360,
+    "open_issues_count": 83,
     "forks_count": 45
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 21665,
+    "stargazers_count": 21682,
     "open_issues_count": 124,
-    "forks_count": 1481
+    "forks_count": 1484
   },
   {
     "full_name": "AdollaApp/Adolla",
-    "stargazers_count": 199,
+    "stargazers_count": 198,
     "open_issues_count": 7,
     "forks_count": 36
   },
@@ -61,9 +73,9 @@
   },
   {
     "full_name": "imgly/background-removal-js",
-    "stargazers_count": 3898,
+    "stargazers_count": 3913,
     "open_issues_count": 17,
-    "forks_count": 239
+    "forks_count": 241
   },
   {
     "full_name": "heyitsarpit/react-hooks-library",
@@ -73,49 +85,49 @@
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 6875,
+    "stargazers_count": 6901,
     "open_issues_count": 56,
-    "forks_count": 187
+    "forks_count": 188
   },
   {
     "full_name": "matschik/component-party.dev",
-    "stargazers_count": 1070,
+    "stargazers_count": 1081,
     "open_issues_count": 14,
     "forks_count": 119
   },
   {
     "full_name": "ibelick/background-snippets",
-    "stargazers_count": 41,
+    "stargazers_count": 46,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "antfu/vscode-file-nesting-config",
-    "stargazers_count": 1952,
-    "open_issues_count": 14,
-    "forks_count": 110
+    "stargazers_count": 1962,
+    "open_issues_count": 13,
+    "forks_count": 113
   },
   {
     "full_name": "antfu/eslint-config",
-    "stargazers_count": 1729,
+    "stargazers_count": 1745,
     "open_issues_count": 17,
-    "forks_count": 278
+    "forks_count": 281
   },
   {
     "full_name": "antfu/taze",
-    "stargazers_count": 1624,
+    "stargazers_count": 1626,
     "open_issues_count": 17,
     "forks_count": 50
   },
   {
     "full_name": "lokalise/i18n-ally",
-    "stargazers_count": 3071,
-    "open_issues_count": 193,
+    "stargazers_count": 3073,
+    "open_issues_count": 196,
     "forks_count": 238
   },
   {
     "full_name": "antfu/vscode-browse-lite",
-    "stargazers_count": 439,
+    "stargazers_count": 442,
     "open_issues_count": 26,
     "forks_count": 27
   },
@@ -127,21 +139,21 @@
   },
   {
     "full_name": "antfu/broz",
-    "stargazers_count": 753,
+    "stargazers_count": 754,
     "open_issues_count": 6,
     "forks_count": 24
   },
   {
     "full_name": "unjs/uqr",
-    "stargazers_count": 175,
-    "open_issues_count": 1,
+    "stargazers_count": 179,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 27972,
-    "open_issues_count": 28,
-    "forks_count": 1083
+    "stargazers_count": 28021,
+    "open_issues_count": 30,
+    "forks_count": 1086
   },
   {
     "full_name": "antfu/p5i",
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "antfu/vscode-smart-clicks",
-    "stargazers_count": 579,
+    "stargazers_count": 581,
     "open_issues_count": 12,
     "forks_count": 9
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "antfu/sponsorkit",
-    "stargazers_count": 516,
+    "stargazers_count": 517,
     "open_issues_count": 6,
     "forks_count": 30
-  },
-  {
-    "full_name": "antfu/ni",
-    "stargazers_count": 4748,
-    "open_issues_count": 8,
-    "forks_count": 163
-  },
-  {
-    "full_name": "goldfire/howler.js",
-    "stargazers_count": 22036,
-    "open_issues_count": 358,
-    "forks_count": 2202
   }
 ]
