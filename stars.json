@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "iterative/example-get-started",
+    "stargazers_count": 160,
+    "open_issues_count": 2,
+    "forks_count": 174
+  },
+  {
+    "full_name": "calibreapp/image-actions",
+    "stargazers_count": 1341,
+    "open_issues_count": 29,
+    "forks_count": 71
+  },
+  {
+    "full_name": "alcor/emoji-supply",
+    "stargazers_count": 331,
+    "open_issues_count": 2,
+    "forks_count": 23
+  },
+  {
+    "full_name": "mapmapteam/mapmap",
+    "stargazers_count": 386,
+    "open_issues_count": 290,
+    "forks_count": 58
+  },
+  {
     "full_name": "micnncim/action-lgtm-reaction",
     "stargazers_count": 75,
     "open_issues_count": 3,
@@ -13,25 +37,25 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4296,
-    "open_issues_count": 350,
-    "forks_count": 1590
+    "stargazers_count": 4297,
+    "open_issues_count": 351,
+    "forks_count": 1591
   },
   {
     "full_name": "xsalazar/emoji-kitchen",
-    "stargazers_count": 893,
+    "stargazers_count": 897,
     "open_issues_count": 5,
-    "forks_count": 45
+    "forks_count": 47
   },
   {
     "full_name": "Reocin/obsidian-markdown-formatting-assistant-plugin",
     "stargazers_count": 216,
     "open_issues_count": 41,
-    "forks_count": 22
+    "forks_count": 21
   },
   {
     "full_name": "jasonlong/isometric-contributions",
-    "stargazers_count": 3389,
+    "stargazers_count": 3390,
     "open_issues_count": 0,
     "forks_count": 174
   },
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 4312,
+    "stargazers_count": 4331,
     "open_issues_count": 6,
     "forks_count": 404
   },
@@ -61,7 +85,7 @@
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5253,
+    "stargazers_count": 5255,
     "open_issues_count": 21,
     "forks_count": 129
   },
@@ -74,7 +98,7 @@
   {
     "full_name": "snowballDevs/kandoo",
     "stargazers_count": 2,
-    "open_issues_count": 15,
+    "open_issues_count": 9,
     "forks_count": 6
   },
   {
@@ -91,13 +115,13 @@
   },
   {
     "full_name": "monkeytypegame/monkeytype",
-    "stargazers_count": 11706,
-    "open_issues_count": 33,
-    "forks_count": 1743
+    "stargazers_count": 11729,
+    "open_issues_count": 39,
+    "forks_count": 1750
   },
   {
     "full_name": "David-Lor/ThisPersonDoesNotExistAPI",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 1,
     "forks_count": 19
   },
@@ -115,9 +139,9 @@
   },
   {
     "full_name": "codrops/OnScrollColumnsRows",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 12
   },
   {
     "full_name": "Jordan-Gilliam/ai-template",
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "adhocteam/pushup",
-    "stargazers_count": 807,
+    "stargazers_count": 808,
     "open_issues_count": 45,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "mikestefanello/pagoda",
-    "stargazers_count": 938,
+    "stargazers_count": 941,
     "open_issues_count": 6,
     "forks_count": 73
   },
   {
     "full_name": "rajasegar/awesome-htmx",
-    "stargazers_count": 978,
+    "stargazers_count": 985,
     "open_issues_count": 2,
     "forks_count": 67
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 21655,
-    "open_issues_count": 284,
-    "forks_count": 767
+    "stargazers_count": 21781,
+    "open_issues_count": 287,
+    "forks_count": 774
   },
   {
     "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4354,
+    "stargazers_count": 4356,
     "open_issues_count": 26,
-    "forks_count": 1263
-  },
-  {
-    "full_name": "nickytonline/a11y-twitter",
-    "stargazers_count": 20,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "insin/control-panel-for-twitter",
-    "stargazers_count": 1384,
-    "open_issues_count": 83,
-    "forks_count": 48
-  },
-  {
-    "full_name": "refined-github/refined-github",
-    "stargazers_count": 21789,
-    "open_issues_count": 122,
-    "forks_count": 1491
-  },
-  {
-    "full_name": "AdollaApp/Adolla",
-    "stargazers_count": 199,
-    "open_issues_count": 7,
-    "forks_count": 37
+    "forks_count": 1265
   }
 ]
