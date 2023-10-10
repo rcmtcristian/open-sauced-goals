@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ruairidhwm/action-cats",
+    "stargazers_count": 70,
+    "open_issues_count": 7,
+    "forks_count": 15
+  },
+  {
     "full_name": "iterative/example-get-started",
     "stargazers_count": 160,
     "open_issues_count": 2,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "mapmapteam/mapmap",
-    "stargazers_count": 386,
+    "stargazers_count": 388,
     "open_issues_count": 290,
     "forks_count": 58
   },
@@ -37,25 +43,25 @@
   },
   {
     "full_name": "actions/toolkit",
-    "stargazers_count": 4297,
-    "open_issues_count": 351,
-    "forks_count": 1591
+    "stargazers_count": 4300,
+    "open_issues_count": 353,
+    "forks_count": 1594
   },
   {
     "full_name": "xsalazar/emoji-kitchen",
-    "stargazers_count": 897,
-    "open_issues_count": 5,
-    "forks_count": 47
+    "stargazers_count": 912,
+    "open_issues_count": 2,
+    "forks_count": 49
   },
   {
     "full_name": "Reocin/obsidian-markdown-formatting-assistant-plugin",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 41,
     "forks_count": 21
   },
   {
     "full_name": "jasonlong/isometric-contributions",
-    "stargazers_count": 3390,
+    "stargazers_count": 3392,
     "open_issues_count": 0,
     "forks_count": 174
   },
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "simeydotme/pokemon-cards-css",
-    "stargazers_count": 4331,
+    "stargazers_count": 4381,
     "open_issues_count": 6,
-    "forks_count": 404
+    "forks_count": 406
   },
   {
     "full_name": "wa0x6e/cal-heatmap",
-    "stargazers_count": 2388,
-    "open_issues_count": 31,
+    "stargazers_count": 2390,
+    "open_issues_count": 34,
     "forks_count": 272
   },
   {
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "themerdev/themer",
-    "stargazers_count": 5255,
+    "stargazers_count": 5261,
     "open_issues_count": 21,
     "forks_count": 129
   },
@@ -98,7 +104,7 @@
   {
     "full_name": "snowballDevs/kandoo",
     "stargazers_count": 2,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "forks_count": 6
   },
   {
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "shalldie/vscode-background",
-    "stargazers_count": 1150,
+    "stargazers_count": 1152,
     "open_issues_count": 11,
     "forks_count": 129
   },
   {
     "full_name": "monkeytypegame/monkeytype",
-    "stargazers_count": 11729,
-    "open_issues_count": 39,
-    "forks_count": 1750
+    "stargazers_count": 11764,
+    "open_issues_count": 36,
+    "forks_count": 1759
   },
   {
     "full_name": "David-Lor/ThisPersonDoesNotExistAPI",
@@ -139,13 +145,13 @@
   },
   {
     "full_name": "codrops/OnScrollColumnsRows",
-    "stargazers_count": 65,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "Jordan-Gilliam/ai-template",
-    "stargazers_count": 359,
+    "stargazers_count": 362,
     "open_issues_count": 5,
     "forks_count": 54
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "mikestefanello/pagoda",
-    "stargazers_count": 941,
+    "stargazers_count": 945,
     "open_issues_count": 6,
     "forks_count": 73
   },
   {
     "full_name": "rajasegar/awesome-htmx",
-    "stargazers_count": 985,
+    "stargazers_count": 997,
     "open_issues_count": 2,
-    "forks_count": 67
+    "forks_count": 66
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 21781,
-    "open_issues_count": 287,
-    "forks_count": 774
-  },
-  {
-    "full_name": "wesbos/awesome-uses",
-    "stargazers_count": 4356,
-    "open_issues_count": 26,
-    "forks_count": 1265
+    "stargazers_count": 21950,
+    "open_issues_count": 283,
+    "forks_count": 779
   }
 ]
