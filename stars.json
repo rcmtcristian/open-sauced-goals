@@ -1,13 +1,67 @@
 [
   {
+    "full_name": "jasudev/AxisContribution",
+    "stargazers_count": 84,
+    "open_issues_count": 2,
+    "forks_count": 14
+  },
+  {
+    "full_name": "ecmadao/hacknical",
+    "stargazers_count": 1514,
+    "open_issues_count": 24,
+    "forks_count": 128
+  },
+  {
+    "full_name": "menubar-apps/StreakBar",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ramblingadam/magic-task-timer",
+    "stargazers_count": 11,
+    "open_issues_count": 10,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ramblingadam/networky-public",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nagadomi/nunif",
+    "stargazers_count": 630,
+    "open_issues_count": 5,
+    "forks_count": 64
+  },
+  {
+    "full_name": "rcmtcristian/github-color-changing-extention-firefox",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "rcmtcristian/gitemote",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "0nn0/terminal-mac-cheatsheet",
+    "stargazers_count": 6775,
+    "open_issues_count": 4,
+    "forks_count": 1874
+  },
+  {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1381,
+    "stargazers_count": 1390,
     "open_issues_count": 4,
     "forks_count": 55
   },
   {
     "full_name": "yoshi389111/github-profile-3d-contrib",
-    "stargazers_count": 747,
+    "stargazers_count": 751,
     "open_issues_count": 5,
     "forks_count": 111
   },
@@ -19,9 +73,9 @@
   },
   {
     "full_name": "michalzalobny/creativeprojects",
-    "stargazers_count": 280,
+    "stargazers_count": 281,
     "open_issues_count": 1,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "michalzalobny/react-just-parallax",
@@ -31,9 +85,9 @@
   },
   {
     "full_name": "alphardex/kokomi.js",
-    "stargazers_count": 218,
+    "stargazers_count": 221,
     "open_issues_count": 1,
-    "forks_count": 27
+    "forks_count": 26
   },
   {
     "full_name": "alphardex/aqua.css",
@@ -43,45 +97,45 @@
   },
   {
     "full_name": "rollup/rollup",
-    "stargazers_count": 24031,
-    "open_issues_count": 488,
-    "forks_count": 1413
+    "stargazers_count": 24045,
+    "open_issues_count": 493,
+    "forks_count": 1416
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 24004,
-    "open_issues_count": 623,
-    "forks_count": 4330
+    "stargazers_count": 24064,
+    "open_issues_count": 626,
+    "forks_count": 4338
   },
   {
     "full_name": "StylishThemes/GitHub-Dark",
-    "stargazers_count": 9587,
+    "stargazers_count": 9591,
     "open_issues_count": 49,
     "forks_count": 688
   },
   {
     "full_name": "missive/emoji-mart",
-    "stargazers_count": 7647,
+    "stargazers_count": 7656,
     "open_issues_count": 112,
-    "forks_count": 768
+    "forks_count": 771
   },
   {
     "full_name": "software-mansion/react-native-reanimated",
-    "stargazers_count": 7793,
-    "open_issues_count": 294,
-    "forks_count": 1192
+    "stargazers_count": 7812,
+    "open_issues_count": 292,
+    "forks_count": 1193
   },
   {
     "full_name": "mrousavy/react-native-vision-camera",
-    "stargazers_count": 5170,
+    "stargazers_count": 5192,
     "open_issues_count": 84,
-    "forks_count": 794
+    "forks_count": 793
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 42612,
+    "stargazers_count": 42633,
     "open_issues_count": 2,
-    "forks_count": 3941
+    "forks_count": 3945
   },
   {
     "full_name": "Pithaya/spicetify-apps-dist",
@@ -97,21 +151,21 @@
   },
   {
     "full_name": "PWhiddy/PokemonRedExperiments",
-    "stargazers_count": 4853,
+    "stargazers_count": 5041,
     "open_issues_count": 40,
-    "forks_count": 357
+    "forks_count": 381
   },
   {
     "full_name": "folke/lazy.nvim",
-    "stargazers_count": 7796,
-    "open_issues_count": 8,
-    "forks_count": 187
+    "stargazers_count": 7849,
+    "open_issues_count": 4,
+    "forks_count": 189
   },
   {
     "full_name": "ThePrimeagen/harpoon",
-    "stargazers_count": 3563,
-    "open_issues_count": 127,
-    "forks_count": 227
+    "stargazers_count": 3578,
+    "open_issues_count": 128,
+    "forks_count": 226
   },
   {
     "full_name": "dyweb/colorful-contribution",
@@ -124,59 +178,5 @@
     "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Sobranier/github-chart",
-    "stargazers_count": 74,
-    "open_issues_count": 6,
-    "forks_count": 15
-  },
-  {
-    "full_name": "CharlesChiuGit/nvimdots.lua",
-    "stargazers_count": 96,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 5091,
-    "open_issues_count": 95,
-    "forks_count": 98
-  },
-  {
-    "full_name": "glazerdesktop/GlazeWM",
-    "stargazers_count": 2317,
-    "open_issues_count": 94,
-    "forks_count": 60
-  },
-  {
-    "full_name": "swirlai/swirl-search",
-    "stargazers_count": 853,
-    "open_issues_count": 35,
-    "forks_count": 72
-  },
-  {
-    "full_name": "TheRealJoelmatic/RemoveAdblockThing",
-    "stargazers_count": 2423,
-    "open_issues_count": 37,
-    "forks_count": 82
-  },
-  {
-    "full_name": "nvim-treesitter/nvim-treesitter",
-    "stargazers_count": 7945,
-    "open_issues_count": 267,
-    "forks_count": 681
-  },
-  {
-    "full_name": "neovim/neovim",
-    "stargazers_count": 70350,
-    "open_issues_count": 1669,
-    "forks_count": 4938
-  },
-  {
-    "full_name": "iamcco/markdown-preview.nvim",
-    "stargazers_count": 5305,
-    "open_issues_count": 176,
-    "forks_count": 241
   }
 ]
