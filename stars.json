@@ -1,55 +1,85 @@
 [
   {
+    "full_name": "amatya-aditya/obsidian-image-slider",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "actions/labeler",
+    "stargazers_count": 1591,
+    "open_issues_count": 35,
+    "forks_count": 496
+  },
+  {
+    "full_name": "nikolovlazar/egghead-personal-blog-astro",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "webgpu/webgpu-debugger",
+    "stargazers_count": 51,
+    "open_issues_count": 20,
+    "forks_count": 6
+  },
+  {
+    "full_name": "hagezi/dns-blocklists",
+    "stargazers_count": 2176,
+    "open_issues_count": 2,
+    "forks_count": 79
+  },
+  {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50461,
-    "open_issues_count": 132,
-    "forks_count": 3852
+    "stargazers_count": 50502,
+    "open_issues_count": 134,
+    "forks_count": 3850
   },
   {
     "full_name": "hinterdupfinger/obsidian-ollama",
-    "stargazers_count": 167,
-    "open_issues_count": 9,
-    "forks_count": 10
+    "stargazers_count": 191,
+    "open_issues_count": 13,
+    "forks_count": 11
   },
   {
     "full_name": "vendetta-mod/Vendetta",
-    "stargazers_count": 977,
-    "open_issues_count": 55,
+    "stargazers_count": 990,
+    "open_issues_count": 58,
     "forks_count": 35
   },
   {
     "full_name": "vangelov/devresume",
-    "stargazers_count": 115,
+    "stargazers_count": 122,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 12134,
-    "open_issues_count": 11,
-    "forks_count": 547
+    "stargazers_count": 12156,
+    "open_issues_count": 10,
+    "forks_count": 546
   },
   {
     "full_name": "goolord/alpha-nvim",
     "stargazers_count": 1331,
     "open_issues_count": 26,
-    "forks_count": 85
+    "forks_count": 86
   },
   {
     "full_name": "NUKnightLab/sql-mysteries",
-    "stargazers_count": 1474,
+    "stargazers_count": 1478,
     "open_issues_count": 16,
     "forks_count": 174
   },
   {
     "full_name": "jasudev/AxisContribution",
-    "stargazers_count": 84,
+    "stargazers_count": 86,
     "open_issues_count": 2,
     "forks_count": 15
   },
   {
     "full_name": "ecmadao/hacknical",
-    "stargazers_count": 1512,
+    "stargazers_count": 1513,
     "open_issues_count": 24,
     "forks_count": 128
   },
@@ -73,9 +103,9 @@
   },
   {
     "full_name": "nagadomi/nunif",
-    "stargazers_count": 663,
-    "open_issues_count": 8,
-    "forks_count": 66
+    "stargazers_count": 670,
+    "open_issues_count": 7,
+    "forks_count": 70
   },
   {
     "full_name": "rcmtcristian/github-color-changing-extention-firefox",
@@ -86,24 +116,24 @@
   {
     "full_name": "rcmtcristian/gitemote",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "0nn0/terminal-mac-cheatsheet",
-    "stargazers_count": 6790,
+    "stargazers_count": 6792,
     "open_issues_count": 4,
     "forks_count": 1879
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1394,
+    "stargazers_count": 1395,
     "open_issues_count": 4,
     "forks_count": 54
   },
   {
     "full_name": "yoshi389111/github-profile-3d-contrib",
-    "stargazers_count": 759,
+    "stargazers_count": 761,
     "open_issues_count": 6,
     "forks_count": 109
   },
@@ -115,7 +145,7 @@
   },
   {
     "full_name": "michalzalobny/creativeprojects",
-    "stargazers_count": 286,
+    "stargazers_count": 287,
     "open_issues_count": 1,
     "forks_count": 39
   },
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "rollup/rollup",
-    "stargazers_count": 24083,
-    "open_issues_count": 488,
-    "forks_count": 1418
+    "stargazers_count": 24095,
+    "open_issues_count": 490,
+    "forks_count": 1423
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 24258,
+    "stargazers_count": 24318,
     "open_issues_count": 609,
-    "forks_count": 4366
-  },
-  {
-    "full_name": "StylishThemes/GitHub-Dark",
-    "stargazers_count": 9592,
-    "open_issues_count": 49,
-    "forks_count": 687
-  },
-  {
-    "full_name": "missive/emoji-mart",
-    "stargazers_count": 7679,
-    "open_issues_count": 112,
-    "forks_count": 774
-  },
-  {
-    "full_name": "software-mansion/react-native-reanimated",
-    "stargazers_count": 7835,
-    "open_issues_count": 288,
-    "forks_count": 1195
-  },
-  {
-    "full_name": "mrousavy/react-native-vision-camera",
-    "stargazers_count": 5277,
-    "open_issues_count": 97,
-    "forks_count": 808
-  },
-  {
-    "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 42746,
-    "open_issues_count": 1,
-    "forks_count": 3963
+    "forks_count": 4370
   }
 ]
