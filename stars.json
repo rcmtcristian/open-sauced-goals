@@ -1,79 +1,97 @@
 [
   {
+    "full_name": "Melkeydev/go-blueprint",
+    "stargazers_count": 633,
+    "open_issues_count": 42,
+    "forks_count": 52
+  },
+  {
+    "full_name": "FrancesCoronel/hire-me",
+    "stargazers_count": 267,
+    "open_issues_count": 1,
+    "forks_count": 78
+  },
+  {
+    "full_name": "ShootingKing-AM/Obsidian_to_Anki",
+    "stargazers_count": 15,
+    "open_issues_count": 16,
+    "forks_count": 2
+  },
+  {
     "full_name": "amatya-aditya/obsidian-image-slider",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
+    "stargazers_count": 20,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "actions/labeler",
-    "stargazers_count": 1591,
-    "open_issues_count": 35,
+    "stargazers_count": 1596,
+    "open_issues_count": 36,
     "forks_count": 496
   },
   {
     "full_name": "nikolovlazar/egghead-personal-blog-astro",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "webgpu/webgpu-debugger",
-    "stargazers_count": 51,
+    "stargazers_count": 53,
     "open_issues_count": 20,
     "forks_count": 6
   },
   {
     "full_name": "hagezi/dns-blocklists",
-    "stargazers_count": 2176,
-    "open_issues_count": 2,
+    "stargazers_count": 2209,
+    "open_issues_count": 0,
     "forks_count": 79
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50502,
-    "open_issues_count": 134,
-    "forks_count": 3850
+    "stargazers_count": 50548,
+    "open_issues_count": 135,
+    "forks_count": 3851
   },
   {
     "full_name": "hinterdupfinger/obsidian-ollama",
-    "stargazers_count": 191,
-    "open_issues_count": 13,
-    "forks_count": 11
+    "stargazers_count": 217,
+    "open_issues_count": 14,
+    "forks_count": 12
   },
   {
     "full_name": "vendetta-mod/Vendetta",
-    "stargazers_count": 990,
-    "open_issues_count": 58,
-    "forks_count": 35
+    "stargazers_count": 1018,
+    "open_issues_count": 64,
+    "forks_count": 38
   },
   {
     "full_name": "vangelov/devresume",
-    "stargazers_count": 122,
+    "stargazers_count": 128,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 12156,
-    "open_issues_count": 10,
-    "forks_count": 546
+    "stargazers_count": 12197,
+    "open_issues_count": 12,
+    "forks_count": 549
   },
   {
     "full_name": "goolord/alpha-nvim",
-    "stargazers_count": 1331,
+    "stargazers_count": 1338,
     "open_issues_count": 26,
     "forks_count": 86
   },
   {
     "full_name": "NUKnightLab/sql-mysteries",
-    "stargazers_count": 1478,
+    "stargazers_count": 1481,
     "open_issues_count": 16,
     "forks_count": 174
   },
   {
     "full_name": "jasudev/AxisContribution",
-    "stargazers_count": 86,
+    "stargazers_count": 87,
     "open_issues_count": 2,
     "forks_count": 15
   },
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "nagadomi/nunif",
-    "stargazers_count": 670,
+    "stargazers_count": 677,
     "open_issues_count": 7,
-    "forks_count": 70
+    "forks_count": 72
   },
   {
     "full_name": "rcmtcristian/github-color-changing-extention-firefox",
@@ -121,25 +139,25 @@
   },
   {
     "full_name": "0nn0/terminal-mac-cheatsheet",
-    "stargazers_count": 6792,
+    "stargazers_count": 6794,
     "open_issues_count": 4,
     "forks_count": 1879
   },
   {
     "full_name": "nusu/avvvatars",
-    "stargazers_count": 1395,
+    "stargazers_count": 1396,
     "open_issues_count": 4,
-    "forks_count": 54
+    "forks_count": 53
   },
   {
     "full_name": "yoshi389111/github-profile-3d-contrib",
-    "stargazers_count": 761,
-    "open_issues_count": 6,
-    "forks_count": 109
+    "stargazers_count": 764,
+    "open_issues_count": 8,
+    "forks_count": 110
   },
   {
     "full_name": "sho1374k/Toys-No.031_WebGLSchool-Task08-InfinityGallery",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -153,30 +171,12 @@
     "full_name": "michalzalobny/react-just-parallax",
     "stargazers_count": 414,
     "open_issues_count": 1,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "alphardex/kokomi.js",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 1,
     "forks_count": 27
-  },
-  {
-    "full_name": "alphardex/aqua.css",
-    "stargazers_count": 289,
-    "open_issues_count": 4,
-    "forks_count": 29
-  },
-  {
-    "full_name": "rollup/rollup",
-    "stargazers_count": 24095,
-    "open_issues_count": 490,
-    "forks_count": 1423
-  },
-  {
-    "full_name": "expo/expo",
-    "stargazers_count": 24318,
-    "open_issues_count": 609,
-    "forks_count": 4370
   }
 ]
