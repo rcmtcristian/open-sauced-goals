@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "bgstaal/multipleWindow3dScene",
+    "stargazers_count": 1612,
+    "open_issues_count": 3,
+    "forks_count": 203
+  },
+  {
+    "full_name": "magcius/noclip.website",
+    "stargazers_count": 2973,
+    "open_issues_count": 50,
+    "forks_count": 234
+  },
+  {
+    "full_name": "rcmtcristian/envisage",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 8173,
-    "open_issues_count": 87,
-    "forks_count": 413
+    "stargazers_count": 8188,
+    "open_issues_count": 82,
+    "forks_count": 414
   },
   {
     "full_name": "roovo/obsidian-card-board",
@@ -13,25 +31,25 @@
   },
   {
     "full_name": "missing-semester/missing-semester",
-    "stargazers_count": 4435,
+    "stargazers_count": 4439,
     "open_issues_count": 8,
-    "forks_count": 1013
+    "forks_count": 1016
   },
   {
     "full_name": "huggingface/deep-rl-class",
-    "stargazers_count": 3296,
-    "open_issues_count": 10,
-    "forks_count": 486
+    "stargazers_count": 3311,
+    "open_issues_count": 9,
+    "forks_count": 487
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 14684,
+    "stargazers_count": 14692,
     "open_issues_count": 12,
     "forks_count": 804
   },
   {
     "full_name": "roberto-butti/some-drops-of-javascript",
-    "stargazers_count": 116,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 31
   },
@@ -44,7 +62,7 @@
   {
     "full_name": "ramblingadam/memoria-game",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -55,25 +73,25 @@
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 8736,
-    "open_issues_count": 113,
-    "forks_count": 127
+    "stargazers_count": 9072,
+    "open_issues_count": 118,
+    "forks_count": 131
   },
   {
     "full_name": "h2non/bimg",
-    "stargazers_count": 2413,
+    "stargazers_count": 2415,
     "open_issues_count": 165,
     "forks_count": 341
   },
   {
     "full_name": "jritsema/go-htmx-tailwind-example",
-    "stargazers_count": 46,
+    "stargazers_count": 49,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "gowebly/gowebly",
-    "stargazers_count": 190,
+    "stargazers_count": 202,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -85,21 +103,21 @@
   },
   {
     "full_name": "jdudmesh/go-htmx-template",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "dylanebert/gsplat.js",
-    "stargazers_count": 686,
-    "open_issues_count": 8,
-    "forks_count": 30
+    "stargazers_count": 721,
+    "open_issues_count": 9,
+    "forks_count": 31
   },
   {
     "full_name": "Melkeydev/go-blueprint",
-    "stargazers_count": 774,
-    "open_issues_count": 27,
-    "forks_count": 69
+    "stargazers_count": 849,
+    "open_issues_count": 26,
+    "forks_count": 77
   },
   {
     "full_name": "FrancesCoronel/hire-me",
@@ -121,62 +139,44 @@
   },
   {
     "full_name": "actions/labeler",
-    "stargazers_count": 1606,
+    "stargazers_count": 1608,
     "open_issues_count": 36,
     "forks_count": 496
   },
   {
     "full_name": "nikolovlazar/egghead-personal-blog-astro",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "webgpu/webgpu-debugger",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 20,
     "forks_count": 6
   },
   {
     "full_name": "hagezi/dns-blocklists",
-    "stargazers_count": 2290,
+    "stargazers_count": 2308,
     "open_issues_count": 0,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50676,
-    "open_issues_count": 139,
-    "forks_count": 3859
+    "stargazers_count": 50714,
+    "open_issues_count": 138,
+    "forks_count": 3865
   },
   {
     "full_name": "hinterdupfinger/obsidian-ollama",
-    "stargazers_count": 251,
+    "stargazers_count": 258,
     "open_issues_count": 13,
     "forks_count": 14
   },
   {
     "full_name": "vendetta-mod/Vendetta",
-    "stargazers_count": 1040,
-    "open_issues_count": 61,
+    "stargazers_count": 1053,
+    "open_issues_count": 62,
     "forks_count": 40
-  },
-  {
-    "full_name": "vangelov/devresume",
-    "stargazers_count": 137,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "rockerBOO/awesome-neovim",
-    "stargazers_count": 12272,
-    "open_issues_count": 15,
-    "forks_count": 554
-  },
-  {
-    "full_name": "goolord/alpha-nvim",
-    "stargazers_count": 1346,
-    "open_issues_count": 27,
-    "forks_count": 86
   }
 ]
