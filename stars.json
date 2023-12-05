@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "sho1374k/Toys-No.036_GLSLSchool-Task2-PokemonCard",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "yuliskov/SmartTube",
+    "stargazers_count": 13832,
+    "open_issues_count": 1616,
+    "forks_count": 854
+  },
+  {
+    "full_name": "AdguardTeam/PopupBlocker",
+    "stargazers_count": 272,
+    "open_issues_count": 11,
+    "forks_count": 30
+  },
+  {
+    "full_name": "gorhill/uBlock",
+    "stargazers_count": 40444,
+    "open_issues_count": 16,
+    "forks_count": 2965
+  },
+  {
+    "full_name": "qdrant/qdrant",
+    "stargazers_count": 14768,
+    "open_issues_count": 203,
+    "forks_count": 845
+  },
+  {
+    "full_name": "dhruv-tech/ninjachefs",
+    "stargazers_count": 54,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
     "full_name": "rcmtcristian/odds-are-low",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -7,15 +43,15 @@
   },
   {
     "full_name": "workos/authkit",
-    "stargazers_count": 836,
-    "open_issues_count": 2,
-    "forks_count": 10
+    "stargazers_count": 1103,
+    "open_issues_count": 3,
+    "forks_count": 17
   },
   {
     "full_name": "rkk3/ad-accelerator",
-    "stargazers_count": 298,
-    "open_issues_count": 2,
-    "forks_count": 13
+    "stargazers_count": 322,
+    "open_issues_count": 4,
+    "forks_count": 15
   },
   {
     "full_name": "mlcivilengineer/obsankipy",
@@ -31,55 +67,55 @@
   },
   {
     "full_name": "vitest-dev/vitest",
-    "stargazers_count": 10633,
+    "stargazers_count": 10665,
     "open_issues_count": 339,
-    "forks_count": 930
+    "forks_count": 935
   },
   {
     "full_name": "GriffinJohnston/ldrs",
-    "stargazers_count": 1151,
-    "open_issues_count": 2,
-    "forks_count": 37
+    "stargazers_count": 1184,
+    "open_issues_count": 3,
+    "forks_count": 38
   },
   {
     "full_name": "brunosimon/three.js-journey-bounce-friday",
-    "stargazers_count": 34,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 3580,
-    "open_issues_count": 2,
-    "forks_count": 358
+    "stargazers_count": 3957,
+    "open_issues_count": 1,
+    "forks_count": 391
   },
   {
     "full_name": "alpinejs/alpine",
-    "stargazers_count": 25363,
+    "stargazers_count": 25378,
     "open_issues_count": 14,
-    "forks_count": 1109
+    "forks_count": 1111
   },
   {
     "full_name": "esm-dev/esm.sh",
-    "stargazers_count": 2588,
-    "open_issues_count": 172,
+    "stargazers_count": 2598,
+    "open_issues_count": 175,
     "forks_count": 122
   },
   {
     "full_name": "Momciloo/fun-with-sockets",
-    "stargazers_count": 488,
+    "stargazers_count": 506,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "bgstaal/multipleWindow3dScene",
-    "stargazers_count": 10940,
-    "open_issues_count": 33,
-    "forks_count": 1920
+    "stargazers_count": 11856,
+    "open_issues_count": 34,
+    "forks_count": 2071
   },
   {
     "full_name": "magcius/noclip.website",
-    "stargazers_count": 2984,
+    "stargazers_count": 2988,
     "open_issues_count": 51,
     "forks_count": 235
   },
@@ -91,33 +127,33 @@
   },
   {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 8225,
-    "open_issues_count": 89,
+    "stargazers_count": 8240,
+    "open_issues_count": 85,
     "forks_count": 420
   },
   {
     "full_name": "roovo/obsidian-card-board",
-    "stargazers_count": 342,
+    "stargazers_count": 345,
     "open_issues_count": 76,
     "forks_count": 15
   },
   {
     "full_name": "missing-semester/missing-semester",
-    "stargazers_count": 4457,
+    "stargazers_count": 4476,
     "open_issues_count": 8,
-    "forks_count": 1019
+    "forks_count": 1020
   },
   {
     "full_name": "huggingface/deep-rl-class",
-    "stargazers_count": 3344,
-    "open_issues_count": 8,
-    "forks_count": 487
+    "stargazers_count": 3354,
+    "open_issues_count": 9,
+    "forks_count": 489
   },
   {
     "full_name": "carloscuesta/gitmoji",
-    "stargazers_count": 14723,
-    "open_issues_count": 11,
-    "forks_count": 803
+    "stargazers_count": 14781,
+    "open_issues_count": 14,
+    "forks_count": 804
   },
   {
     "full_name": "roberto-butti/some-drops-of-javascript",
@@ -142,41 +178,5 @@
     "stargazers_count": 332,
     "open_issues_count": 9,
     "forks_count": 24
-  },
-  {
-    "full_name": "githubnext/monaspace",
-    "stargazers_count": 9528,
-    "open_issues_count": 128,
-    "forks_count": 145
-  },
-  {
-    "full_name": "h2non/bimg",
-    "stargazers_count": 2427,
-    "open_issues_count": 165,
-    "forks_count": 341
-  },
-  {
-    "full_name": "jritsema/go-htmx-tailwind-example",
-    "stargazers_count": 57,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "gowebly/gowebly",
-    "stargazers_count": 209,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "acaloiaro/hugo-htmx-go-template",
-    "stargazers_count": 48,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "jdudmesh/go-htmx-template",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
