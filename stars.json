@@ -1,8 +1,62 @@
 [
   {
+    "full_name": "quadjr/aframe-gaussian-splatting",
+    "stargazers_count": 117,
+    "open_issues_count": 3,
+    "forks_count": 18
+  },
+  {
+    "full_name": "playcanvas/engine",
+    "stargazers_count": 8828,
+    "open_issues_count": 554,
+    "forks_count": 1322
+  },
+  {
+    "full_name": "reactiveui/splat",
+    "stargazers_count": 951,
+    "open_issues_count": 12,
+    "forks_count": 155
+  },
+  {
+    "full_name": "graphdeco-inria/gaussian-splatting",
+    "stargazers_count": 8527,
+    "open_issues_count": 244,
+    "forks_count": 863
+  },
+  {
+    "full_name": "lumalabs/luma-web-examples",
+    "stargazers_count": 148,
+    "open_issues_count": 6,
+    "forks_count": 9
+  },
+  {
+    "full_name": "hustvl/4DGaussians",
+    "stargazers_count": 1149,
+    "open_issues_count": 26,
+    "forks_count": 78
+  },
+  {
+    "full_name": "MrNeRF/awesome-3D-gaussian-splatting",
+    "stargazers_count": 2056,
+    "open_issues_count": 0,
+    "forks_count": 79
+  },
+  {
+    "full_name": "antimatter15/splat",
+    "stargazers_count": 1113,
+    "open_issues_count": 17,
+    "forks_count": 91
+  },
+  {
+    "full_name": "remotion-dev/github-unwrapped-2023",
+    "stargazers_count": 627,
+    "open_issues_count": 10,
+    "forks_count": 38
+  },
+  {
     "full_name": "tonikelope/megabasterd",
-    "stargazers_count": 3904,
-    "open_issues_count": 205,
+    "stargazers_count": 3910,
+    "open_issues_count": 206,
     "forks_count": 599
   },
   {
@@ -15,7 +69,7 @@
     "full_name": "CelestialReaver/BetterDiscord",
     "stargazers_count": 22,
     "open_issues_count": 10,
-    "forks_count": 246
+    "forks_count": 245
   },
   {
     "full_name": "brianrisk/SYNTHBLAST-threejs-game",
@@ -25,15 +79,15 @@
   },
   {
     "full_name": "facebook/stylex",
-    "stargazers_count": 6086,
-    "open_issues_count": 31,
-    "forks_count": 282
+    "stargazers_count": 6393,
+    "open_issues_count": 30,
+    "forks_count": 292
   },
   {
     "full_name": "HumanAIGC/AnimateAnyone",
-    "stargazers_count": 10818,
+    "stargazers_count": 10958,
     "open_issues_count": 36,
-    "forks_count": 691
+    "forks_count": 702
   },
   {
     "full_name": "flimflamjs/flimflam",
@@ -43,7 +97,7 @@
   },
   {
     "full_name": "zadvorsky/three.bas",
-    "stargazers_count": 1013,
+    "stargazers_count": 1014,
     "open_issues_count": 12,
     "forks_count": 93
   },
@@ -55,7 +109,7 @@
   },
   {
     "full_name": "patriciogonzalezvivo/lygia",
-    "stargazers_count": 1955,
+    "stargazers_count": 1962,
     "open_issues_count": 2,
     "forks_count": 120
   },
@@ -67,7 +121,7 @@
   },
   {
     "full_name": "Robpayot/zelda-project-public",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -79,19 +133,19 @@
   },
   {
     "full_name": "obsidianmd/obsidian-sample-plugin",
-    "stargazers_count": 1944,
+    "stargazers_count": 1951,
     "open_issues_count": 13,
-    "forks_count": 609
+    "forks_count": 611
   },
   {
     "full_name": "TopTierTools/obsidian-better-plugin-page",
-    "stargazers_count": 14,
-    "open_issues_count": 1,
+    "stargazers_count": 15,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "HananoshikaYomaru/obsidian-3d-graph",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 14,
     "forks_count": 1
   },
@@ -115,68 +169,14 @@
   },
   {
     "full_name": "pheralb/svgl",
-    "stargazers_count": 876,
-    "open_issues_count": 8,
-    "forks_count": 136
+    "stargazers_count": 926,
+    "open_issues_count": 11,
+    "forks_count": 142
   },
   {
     "full_name": "brunosimon/infinite-world",
-    "stargazers_count": 344,
+    "stargazers_count": 346,
     "open_issues_count": 0,
     "forks_count": 45
-  },
-  {
-    "full_name": "terkelg/terkelg",
-    "stargazers_count": 196,
-    "open_issues_count": 0,
-    "forks_count": 19
-  },
-  {
-    "full_name": "raphaelameaume/fragment",
-    "stargazers_count": 683,
-    "open_issues_count": 4,
-    "forks_count": 16
-  },
-  {
-    "full_name": "raunofreiberg/vesper",
-    "stargazers_count": 286,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "GangCaoLab/CoolBox",
-    "stargazers_count": 204,
-    "open_issues_count": 31,
-    "forks_count": 32
-  },
-  {
-    "full_name": "ReVanced/revanced-manager",
-    "stargazers_count": 12843,
-    "open_issues_count": 111,
-    "forks_count": 568
-  },
-  {
-    "full_name": "JasonEtco/actions-toolkit",
-    "stargazers_count": 912,
-    "open_issues_count": 1,
-    "forks_count": 56
-  },
-  {
-    "full_name": "superfly/flyctl",
-    "stargazers_count": 1222,
-    "open_issues_count": 232,
-    "forks_count": 206
-  },
-  {
-    "full_name": "superfly/docs",
-    "stargazers_count": 79,
-    "open_issues_count": 55,
-    "forks_count": 878
-  },
-  {
-    "full_name": "sho1374k/Toys-No.036_GLSLSchool-Task2-PokemonCard",
-    "stargazers_count": 17,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
