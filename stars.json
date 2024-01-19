@@ -1,45 +1,99 @@
 [
   {
-    "full_name": "SpectacularAI/point-cloud-tools",
-    "stargazers_count": 14,
+    "full_name": "shader-park/shader-park-core",
+    "stargazers_count": 676,
+    "open_issues_count": 40,
+    "forks_count": 18
+  },
+  {
+    "full_name": "shader-park/shader-park-website",
+    "stargazers_count": 38,
+    "open_issues_count": 29,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ykob/sketch-threejs",
+    "stargazers_count": 2172,
+    "open_issues_count": 12,
+    "forks_count": 277
+  },
+  {
+    "full_name": "Lomasterrrr/Audio-Generator",
+    "stargazers_count": 6,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
+  },
+  {
+    "full_name": "galgreshler/Catch-A-Waveform",
+    "stargazers_count": 165,
+    "open_issues_count": 3,
+    "forks_count": 30
+  },
+  {
+    "full_name": "declare-lab/tango",
+    "stargazers_count": 830,
+    "open_issues_count": 18,
+    "forks_count": 63
+  },
+  {
+    "full_name": "lucidrains/soundstorm-pytorch",
+    "stargazers_count": 1073,
+    "open_issues_count": 4,
+    "forks_count": 79
+  },
+  {
+    "full_name": "open-mmlab/Amphion",
+    "stargazers_count": 3248,
+    "open_issues_count": 17,
+    "forks_count": 314
+  },
+  {
+    "full_name": "ReshotAI/gaussian-splatting-blender-addon",
+    "stargazers_count": 201,
+    "open_issues_count": 12,
+    "forks_count": 16
+  },
+  {
+    "full_name": "SpectacularAI/point-cloud-tools",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 1
   },
   {
     "full_name": "cvlab-epfl/gaussian-splatting-web",
-    "stargazers_count": 447,
+    "stargazers_count": 450,
     "open_issues_count": 9,
     "forks_count": 29
   },
   {
     "full_name": "andre-fuchs/kerning-pairs",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "kodjodevf/mangayomi",
-    "stargazers_count": 422,
-    "open_issues_count": 15,
-    "forks_count": 17
+    "stargazers_count": 463,
+    "open_issues_count": 16,
+    "forks_count": 19
   },
   {
     "full_name": "KotatsuApp/Kotatsu",
-    "stargazers_count": 1991,
-    "open_issues_count": 165,
-    "forks_count": 101
+    "stargazers_count": 2080,
+    "open_issues_count": 173,
+    "forks_count": 105
   },
   {
     "full_name": "phuocng/html-dom",
-    "stargazers_count": 6339,
+    "stargazers_count": 6343,
     "open_issues_count": 36,
     "forks_count": 497
   },
   {
     "full_name": "tachiyomiorg/extensions",
-    "stargazers_count": 169,
+    "stargazers_count": 196,
     "open_issues_count": 0,
-    "forks_count": 229
+    "forks_count": 270
   },
   {
     "full_name": "tc39/proposal-arraybuffer-base64",
@@ -49,43 +103,43 @@
   },
   {
     "full_name": "pmndrs/use-cannon",
-    "stargazers_count": 2636,
+    "stargazers_count": 2637,
     "open_issues_count": 36,
     "forks_count": 153
   },
   {
     "full_name": "keiyoushi/extensions",
-    "stargazers_count": 3096,
-    "open_issues_count": 0,
-    "forks_count": 266
+    "stargazers_count": 3557,
+    "open_issues_count": 2,
+    "forks_count": 295
   },
   {
     "full_name": "keiyoushi/extensions-source",
-    "stargazers_count": 659,
-    "open_issues_count": 89,
-    "forks_count": 150
+    "stargazers_count": 726,
+    "open_issues_count": 117,
+    "forks_count": 168
   },
   {
     "full_name": "alfredxing/brick",
-    "stargazers_count": 2876,
+    "stargazers_count": 2877,
     "open_issues_count": 50,
     "forks_count": 98
   },
   {
     "full_name": "notlmn/awesome-icons",
-    "stargazers_count": 666,
+    "stargazers_count": 670,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "tachiyomiorg/tachiyomi",
-    "stargazers_count": 27690,
+    "stargazers_count": 28140,
     "open_issues_count": 470,
-    "forks_count": 3810
+    "forks_count": 4097
   },
   {
     "full_name": "mapbox/pixelmatch",
-    "stargazers_count": 5688,
+    "stargazers_count": 5694,
     "open_issues_count": 18,
     "forks_count": 323
   },
@@ -109,9 +163,9 @@
   },
   {
     "full_name": "lokesh/color-thief",
-    "stargazers_count": 11977,
+    "stargazers_count": 11984,
     "open_issues_count": 78,
-    "forks_count": 1327
+    "forks_count": 1328
   },
   {
     "full_name": "jariz/vibrant.js",
@@ -124,59 +178,5 @@
     "stargazers_count": 332,
     "open_issues_count": 1,
     "forks_count": 7
-  },
-  {
-    "full_name": "konsav/email-templates",
-    "stargazers_count": 712,
-    "open_issues_count": 6,
-    "forks_count": 349
-  },
-  {
-    "full_name": "Cam/Shopify-HTML-Email-Templates",
-    "stargazers_count": 77,
-    "open_issues_count": 0,
-    "forks_count": 128
-  },
-  {
-    "full_name": "Omgitsonlyalex/ZenithFramework",
-    "stargazers_count": 67,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "philwareham/responsive-email",
-    "stargazers_count": 288,
-    "open_issues_count": 1,
-    "forks_count": 98
-  },
-  {
-    "full_name": "InterNations/antwort",
-    "stargazers_count": 3591,
-    "open_issues_count": 3,
-    "forks_count": 795
-  },
-  {
-    "full_name": "mailgun/transactional-email-templates",
-    "stargazers_count": 6825,
-    "open_issues_count": 12,
-    "forks_count": 1194
-  },
-  {
-    "full_name": "foundation/foundation-emails",
-    "stargazers_count": 7738,
-    "open_issues_count": 190,
-    "forks_count": 1145
-  },
-  {
-    "full_name": "charlesmudy/responsive-html-email-template",
-    "stargazers_count": 691,
-    "open_issues_count": 1,
-    "forks_count": 544
-  },
-  {
-    "full_name": "mailchimp/email-blueprints",
-    "stargazers_count": 6954,
-    "open_issues_count": 37,
-    "forks_count": 2805
   }
 ]
