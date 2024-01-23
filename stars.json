@@ -1,7 +1,85 @@
 [
   {
+    "full_name": "gerardbm/vim-atomic",
+    "stargazers_count": 15,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
+    "full_name": "tokenami/tokenami",
+    "stargazers_count": 655,
+    "open_issues_count": 15,
+    "forks_count": 3
+  },
+  {
+    "full_name": "jesseduffield/lazygit",
+    "stargazers_count": 41824,
+    "open_issues_count": 581,
+    "forks_count": 1614
+  },
+  {
+    "full_name": "git1029/waves_threejs",
+    "stargazers_count": 31,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "raphaelameaume/lemonade",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "OmarShehata/google-earth-as-gltf",
+    "stargazers_count": 303,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
+    "full_name": "gerardbm/atomic",
+    "stargazers_count": 77,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "emilkowalski/sonner",
+    "stargazers_count": 6102,
+    "open_issues_count": 25,
+    "forks_count": 162
+  },
+  {
+    "full_name": "drcmda/views",
+    "stargazers_count": 36,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "Dissurender/notes",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dgreenheck/threejs-procedural-planets",
+    "stargazers_count": 96,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "dubinc/dublet",
+    "stargazers_count": 26,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "GrahamTheDevRel/a11y-monsters",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
     "full_name": "shader-park/shader-park-core",
-    "stargazers_count": 676,
+    "stargazers_count": 679,
     "open_issues_count": 40,
     "forks_count": 18
   },
@@ -13,7 +91,7 @@
   },
   {
     "full_name": "ykob/sketch-threejs",
-    "stargazers_count": 2172,
+    "stargazers_count": 2173,
     "open_issues_count": 12,
     "forks_count": 277
   },
@@ -25,37 +103,37 @@
   },
   {
     "full_name": "galgreshler/Catch-A-Waveform",
-    "stargazers_count": 165,
+    "stargazers_count": 166,
     "open_issues_count": 3,
     "forks_count": 30
   },
   {
     "full_name": "declare-lab/tango",
-    "stargazers_count": 830,
+    "stargazers_count": 834,
     "open_issues_count": 18,
     "forks_count": 63
   },
   {
     "full_name": "lucidrains/soundstorm-pytorch",
-    "stargazers_count": 1073,
+    "stargazers_count": 1074,
     "open_issues_count": 4,
     "forks_count": 79
   },
   {
     "full_name": "open-mmlab/Amphion",
-    "stargazers_count": 3248,
+    "stargazers_count": 3291,
     "open_issues_count": 17,
-    "forks_count": 314
+    "forks_count": 316
   },
   {
     "full_name": "ReshotAI/gaussian-splatting-blender-addon",
-    "stargazers_count": 201,
-    "open_issues_count": 12,
+    "stargazers_count": 207,
+    "open_issues_count": 14,
     "forks_count": 16
   },
   {
     "full_name": "SpectacularAI/point-cloud-tools",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -67,116 +145,38 @@
   },
   {
     "full_name": "andre-fuchs/kerning-pairs",
-    "stargazers_count": 136,
-    "open_issues_count": 1,
+    "stargazers_count": 137,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "kodjodevf/mangayomi",
-    "stargazers_count": 463,
-    "open_issues_count": 16,
-    "forks_count": 19
+    "stargazers_count": 610,
+    "open_issues_count": 21,
+    "forks_count": 22
   },
   {
     "full_name": "KotatsuApp/Kotatsu",
-    "stargazers_count": 2080,
-    "open_issues_count": 173,
-    "forks_count": 105
+    "stargazers_count": 2157,
+    "open_issues_count": 177,
+    "forks_count": 106
   },
   {
     "full_name": "phuocng/html-dom",
-    "stargazers_count": 6343,
+    "stargazers_count": 6345,
     "open_issues_count": 36,
-    "forks_count": 497
+    "forks_count": 496
   },
   {
     "full_name": "tachiyomiorg/extensions",
-    "stargazers_count": 196,
+    "stargazers_count": 205,
     "open_issues_count": 0,
-    "forks_count": 270
+    "forks_count": 293
   },
   {
     "full_name": "tc39/proposal-arraybuffer-base64",
     "stargazers_count": 184,
-    "open_issues_count": 15,
-    "forks_count": 6
-  },
-  {
-    "full_name": "pmndrs/use-cannon",
-    "stargazers_count": 2637,
-    "open_issues_count": 36,
-    "forks_count": 153
-  },
-  {
-    "full_name": "keiyoushi/extensions",
-    "stargazers_count": 3557,
-    "open_issues_count": 2,
-    "forks_count": 295
-  },
-  {
-    "full_name": "keiyoushi/extensions-source",
-    "stargazers_count": 726,
-    "open_issues_count": 117,
-    "forks_count": 168
-  },
-  {
-    "full_name": "alfredxing/brick",
-    "stargazers_count": 2877,
-    "open_issues_count": 50,
-    "forks_count": 98
-  },
-  {
-    "full_name": "notlmn/awesome-icons",
-    "stargazers_count": 670,
-    "open_issues_count": 1,
-    "forks_count": 31
-  },
-  {
-    "full_name": "tachiyomiorg/tachiyomi",
-    "stargazers_count": 28140,
-    "open_issues_count": 470,
-    "forks_count": 4097
-  },
-  {
-    "full_name": "mapbox/pixelmatch",
-    "stargazers_count": 5694,
-    "open_issues_count": 18,
-    "forks_count": 323
-  },
-  {
-    "full_name": "blindnet-io/blindsend",
-    "stargazers_count": 160,
-    "open_issues_count": 11,
-    "forks_count": 4
-  },
-  {
-    "full_name": "rcmtcristian/resume-launcher",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "amonks/colorcube-js",
-    "stargazers_count": 89,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "lokesh/color-thief",
-    "stargazers_count": 11984,
-    "open_issues_count": 78,
-    "forks_count": 1328
-  },
-  {
-    "full_name": "jariz/vibrant.js",
-    "stargazers_count": 4611,
-    "open_issues_count": 2,
-    "forks_count": 238
-  },
-  {
-    "full_name": "ianthehenry/bauble.studio",
-    "stargazers_count": 332,
-    "open_issues_count": 1,
+    "open_issues_count": 16,
     "forks_count": 7
   }
 ]
