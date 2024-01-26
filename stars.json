@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "mihonapp/mihon",
+    "stargazers_count": 3069,
+    "open_issues_count": 132,
+    "forks_count": 97
+  },
+  {
+    "full_name": "FastForwardTeam/FastForward",
+    "stargazers_count": 3318,
+    "open_issues_count": 137,
+    "forks_count": 301
+  },
+  {
+    "full_name": "burlesco/burlesco",
+    "stargazers_count": 864,
+    "open_issues_count": 61,
+    "forks_count": 75
+  },
+  {
+    "full_name": "whizzbbig/Floema-Vite",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "Jguer/yay",
+    "stargazers_count": 9963,
+    "open_issues_count": 109,
+    "forks_count": 341
+  },
+  {
     "full_name": "gerardbm/vim-atomic",
     "stargazers_count": 15,
     "open_issues_count": 3,
@@ -7,15 +37,15 @@
   },
   {
     "full_name": "tokenami/tokenami",
-    "stargazers_count": 655,
+    "stargazers_count": 658,
     "open_issues_count": 15,
     "forks_count": 3
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 41824,
-    "open_issues_count": 581,
-    "forks_count": 1614
+    "stargazers_count": 42066,
+    "open_issues_count": 585,
+    "forks_count": 1622
   },
   {
     "full_name": "git1029/waves_threejs",
@@ -43,15 +73,15 @@
   },
   {
     "full_name": "emilkowalski/sonner",
-    "stargazers_count": 6102,
-    "open_issues_count": 25,
-    "forks_count": 162
+    "stargazers_count": 6150,
+    "open_issues_count": 22,
+    "forks_count": 164
   },
   {
     "full_name": "drcmda/views",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "Dissurender/notes",
@@ -67,13 +97,13 @@
   },
   {
     "full_name": "dubinc/dublet",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "GrahamTheDevRel/a11y-monsters",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -91,7 +121,7 @@
   },
   {
     "full_name": "ykob/sketch-threejs",
-    "stargazers_count": 2173,
+    "stargazers_count": 2176,
     "open_issues_count": 12,
     "forks_count": 277
   },
@@ -103,32 +133,32 @@
   },
   {
     "full_name": "galgreshler/Catch-A-Waveform",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 3,
     "forks_count": 30
   },
   {
     "full_name": "declare-lab/tango",
-    "stargazers_count": 834,
+    "stargazers_count": 836,
     "open_issues_count": 18,
     "forks_count": 63
   },
   {
     "full_name": "lucidrains/soundstorm-pytorch",
-    "stargazers_count": 1074,
+    "stargazers_count": 1075,
     "open_issues_count": 4,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "open-mmlab/Amphion",
-    "stargazers_count": 3291,
-    "open_issues_count": 17,
-    "forks_count": 316
+    "stargazers_count": 3321,
+    "open_issues_count": 21,
+    "forks_count": 318
   },
   {
     "full_name": "ReshotAI/gaussian-splatting-blender-addon",
-    "stargazers_count": 207,
-    "open_issues_count": 14,
+    "stargazers_count": 209,
+    "open_issues_count": 15,
     "forks_count": 16
   },
   {
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "cvlab-epfl/gaussian-splatting-web",
-    "stargazers_count": 450,
+    "stargazers_count": 454,
     "open_issues_count": 9,
     "forks_count": 29
   },
   {
     "full_name": "andre-fuchs/kerning-pairs",
     "stargazers_count": 137,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 6
-  },
-  {
-    "full_name": "kodjodevf/mangayomi",
-    "stargazers_count": 610,
-    "open_issues_count": 21,
-    "forks_count": 22
-  },
-  {
-    "full_name": "KotatsuApp/Kotatsu",
-    "stargazers_count": 2157,
-    "open_issues_count": 177,
-    "forks_count": 106
-  },
-  {
-    "full_name": "phuocng/html-dom",
-    "stargazers_count": 6345,
-    "open_issues_count": 36,
-    "forks_count": 496
-  },
-  {
-    "full_name": "tachiyomiorg/extensions",
-    "stargazers_count": 205,
-    "open_issues_count": 0,
-    "forks_count": 293
-  },
-  {
-    "full_name": "tc39/proposal-arraybuffer-base64",
-    "stargazers_count": 184,
-    "open_issues_count": 16,
-    "forks_count": 7
   }
 ]
