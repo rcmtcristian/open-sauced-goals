@@ -1,5 +1,71 @@
 [
   {
+    "full_name": "kawakamiakari/kaleidoscope",
+    "stargazers_count": 21,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
+    "full_name": "thiagopnts/kaleidoscope",
+    "stargazers_count": 345,
+    "open_issues_count": 12,
+    "forks_count": 54
+  },
+  {
+    "full_name": "michalzalobny/3d-renderer-in-c",
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "raphaelameaume/lemonade-helpers",
+    "stargazers_count": 12,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "duplicati/duplicati",
+    "stargazers_count": 9818,
+    "open_issues_count": 904,
+    "forks_count": 852
+  },
+  {
+    "full_name": "LiheYoung/Depth-Anything",
+    "stargazers_count": 3942,
+    "open_issues_count": 42,
+    "forks_count": 234
+  },
+  {
+    "full_name": "jasonmelgoza/metal-icons",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pointfeev/CreamInstaller",
+    "stargazers_count": 2306,
+    "open_issues_count": 3,
+    "forks_count": 120
+  },
+  {
+    "full_name": "evilmartians/oklch-picker",
+    "stargazers_count": 575,
+    "open_issues_count": 8,
+    "forks_count": 46
+  },
+  {
+    "full_name": "amiaopensource/ffmprovisr",
+    "stargazers_count": 507,
+    "open_issues_count": 28,
+    "forks_count": 64
+  },
+  {
+    "full_name": "golivecosmos/pluto",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Dissurender/reversall",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,13 +73,13 @@
   },
   {
     "full_name": "twentyhq/twenty",
-    "stargazers_count": 8215,
-    "open_issues_count": 225,
-    "forks_count": 695
+    "stargazers_count": 8313,
+    "open_issues_count": 237,
+    "forks_count": 699
   },
   {
     "full_name": "jc9108/expanse",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 11,
     "forks_count": 15
   },
@@ -55,19 +121,19 @@
   },
   {
     "full_name": "mihonapp/mihon",
-    "stargazers_count": 3336,
-    "open_issues_count": 139,
-    "forks_count": 109
+    "stargazers_count": 3550,
+    "open_issues_count": 157,
+    "forks_count": 122
   },
   {
     "full_name": "FastForwardTeam/FastForward",
-    "stargazers_count": 3328,
-    "open_issues_count": 145,
+    "stargazers_count": 3326,
+    "open_issues_count": 138,
     "forks_count": 301
   },
   {
     "full_name": "burlesco/burlesco",
-    "stargazers_count": 863,
+    "stargazers_count": 864,
     "open_issues_count": 61,
     "forks_count": 75
   },
@@ -79,8 +145,8 @@
   },
   {
     "full_name": "Jguer/yay",
-    "stargazers_count": 9980,
-    "open_issues_count": 112,
+    "stargazers_count": 9996,
+    "open_issues_count": 115,
     "forks_count": 341
   },
   {
@@ -97,9 +163,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 42267,
-    "open_issues_count": 584,
-    "forks_count": 1628
+    "stargazers_count": 42423,
+    "open_issues_count": 590,
+    "forks_count": 1632
   },
   {
     "full_name": "git1029/waves_threejs",
@@ -112,71 +178,5 @@
     "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "OmarShehata/google-earth-as-gltf",
-    "stargazers_count": 305,
-    "open_issues_count": 2,
-    "forks_count": 10
-  },
-  {
-    "full_name": "gerardbm/atomic",
-    "stargazers_count": 76,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "emilkowalski/sonner",
-    "stargazers_count": 6196,
-    "open_issues_count": 22,
-    "forks_count": 164
-  },
-  {
-    "full_name": "drcmda/views",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Dissurender/notes",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dgreenheck/threejs-procedural-planets",
-    "stargazers_count": 102,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "dubinc/dublet",
-    "stargazers_count": 28,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "GrahamTheDevRel/a11y-monsters",
-    "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 10
-  },
-  {
-    "full_name": "shader-park/shader-park-core",
-    "stargazers_count": 680,
-    "open_issues_count": 40,
-    "forks_count": 18
-  },
-  {
-    "full_name": "shader-park/shader-park-website",
-    "stargazers_count": 38,
-    "open_issues_count": 29,
-    "forks_count": 4
-  },
-  {
-    "full_name": "ykob/sketch-threejs",
-    "stargazers_count": 2179,
-    "open_issues_count": 12,
-    "forks_count": 277
   }
 ]
