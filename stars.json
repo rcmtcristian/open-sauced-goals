@@ -1,38 +1,86 @@
 [
   {
-    "full_name": "guilhermerodz/input-otp",
-    "stargazers_count": 839,
+    "full_name": "skills/secure-code-game",
+    "stargazers_count": 1674,
+    "open_issues_count": 1,
+    "forks_count": 144
+  },
+  {
+    "full_name": "johannesuhl/mapprocessor",
+    "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 1
+  },
+  {
+    "full_name": "jackyzha0/quartz",
+    "stargazers_count": 4418,
+    "open_issues_count": 67,
+    "forks_count": 2208
+  },
+  {
+    "full_name": "fido-alliance/webauthn-demo",
+    "stargazers_count": 720,
+    "open_issues_count": 17,
+    "forks_count": 155
+  },
+  {
+    "full_name": "ory/kratos",
+    "stargazers_count": 10325,
+    "open_issues_count": 214,
+    "forks_count": 890
+  },
+  {
+    "full_name": "supertokens/supertokens-core",
+    "stargazers_count": 11295,
+    "open_issues_count": 121,
+    "forks_count": 425
+  },
+  {
+    "full_name": "openiddict/openiddict-core",
+    "stargazers_count": 3989,
+    "open_issues_count": 12,
+    "forks_count": 464
+  },
+  {
+    "full_name": "actions/typescript-action",
+    "stargazers_count": 1710,
+    "open_issues_count": 2,
+    "forks_count": 410
+  },
+  {
+    "full_name": "guilhermerodz/input-otp",
+    "stargazers_count": 889,
+    "open_issues_count": 0,
+    "forks_count": 18
   },
   {
     "full_name": "blushft/go-diagrams",
-    "stargazers_count": 4358,
+    "stargazers_count": 4378,
     "open_issues_count": 21,
-    "forks_count": 169
+    "forks_count": 170
   },
   {
     "full_name": "Nutlope/notesGPT",
-    "stargazers_count": 1149,
-    "open_issues_count": 13,
-    "forks_count": 168
+    "stargazers_count": 1279,
+    "open_issues_count": 12,
+    "forks_count": 181
   },
   {
     "full_name": "Lunakepio/Mario-Kart-3.js",
-    "stargazers_count": 1304,
+    "stargazers_count": 1375,
     "open_issues_count": 9,
-    "forks_count": 269
+    "forks_count": 279
   },
   {
     "full_name": "qnoum/bypass-paywalls-chrome-clean-magnolia1234",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "FixTweet/FxTwitter",
-    "stargazers_count": 1836,
-    "open_issues_count": 27,
+    "stargazers_count": 1841,
+    "open_issues_count": 28,
     "forks_count": 54
   },
   {
@@ -42,14 +90,14 @@
     "forks_count": 12
   },
   {
-    "full_name": "instill-ai/vdp",
-    "stargazers_count": 1686,
-    "open_issues_count": 0,
+    "full_name": "instill-ai/instill-core",
+    "stargazers_count": 1713,
+    "open_issues_count": 2,
     "forks_count": 74
   },
   {
     "full_name": "eliben/raft",
-    "stargazers_count": 941,
+    "stargazers_count": 943,
     "open_issues_count": 1,
     "forks_count": 203
   },
@@ -61,19 +109,19 @@
   },
   {
     "full_name": "discuitnet/discuit",
-    "stargazers_count": 310,
-    "open_issues_count": 15,
-    "forks_count": 28
+    "stargazers_count": 316,
+    "open_issues_count": 17,
+    "forks_count": 30
   },
   {
     "full_name": "fireship-io/javascript-course",
     "stargazers_count": 136,
     "open_issues_count": 4,
-    "forks_count": 59
+    "forks_count": 58
   },
   {
     "full_name": "actions/github-script",
-    "stargazers_count": 3828,
+    "stargazers_count": 3832,
     "open_issues_count": 34,
     "forks_count": 368
   },
@@ -91,27 +139,27 @@
   },
   {
     "full_name": "phuocng/1loc",
-    "stargazers_count": 6726,
+    "stargazers_count": 6728,
     "open_issues_count": 46,
     "forks_count": 517
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 40089,
-    "open_issues_count": 139,
-    "forks_count": 2073
+    "stargazers_count": 40199,
+    "open_issues_count": 120,
+    "forks_count": 2081
   },
   {
     "full_name": "leap-ai/headshots-starter",
-    "stargazers_count": 3136,
+    "stargazers_count": 3140,
     "open_issues_count": 17,
-    "forks_count": 471
+    "forks_count": 470
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 26725,
-    "open_issues_count": 322,
-    "forks_count": 1678
+    "stargazers_count": 26927,
+    "open_issues_count": 312,
+    "forks_count": 1696
   },
   {
     "full_name": "kawakamiakari/kaleidoscope",
@@ -127,56 +175,8 @@
   },
   {
     "full_name": "michalzalobny/3d-renderer-in-c",
-    "stargazers_count": 66,
+    "stargazers_count": 70,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "raphaelameaume/lemonade-helpers",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "duplicati/duplicati",
-    "stargazers_count": 9904,
-    "open_issues_count": 895,
-    "forks_count": 856
-  },
-  {
-    "full_name": "LiheYoung/Depth-Anything",
-    "stargazers_count": 4606,
-    "open_issues_count": 52,
-    "forks_count": 298
-  },
-  {
-    "full_name": "jasonmelgoza/metal-icons",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pointfeev/CreamInstaller",
-    "stargazers_count": 2433,
-    "open_issues_count": 3,
-    "forks_count": 125
-  },
-  {
-    "full_name": "evilmartians/oklch-picker",
-    "stargazers_count": 598,
-    "open_issues_count": 8,
-    "forks_count": 47
-  },
-  {
-    "full_name": "amiaopensource/ffmprovisr",
-    "stargazers_count": 509,
-    "open_issues_count": 28,
-    "forks_count": 64
-  },
-  {
-    "full_name": "golivecosmos/pluto",
-    "stargazers_count": 34,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
