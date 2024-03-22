@@ -1,25 +1,79 @@
 [
   {
+    "full_name": "DeveloperMDCM/Youtube-tools-extension",
+    "stargazers_count": 145,
+    "open_issues_count": 11,
+    "forks_count": 18
+  },
+  {
+    "full_name": "ArmCord/ArmCord",
+    "stargazers_count": 1131,
+    "open_issues_count": 68,
+    "forks_count": 61
+  },
+  {
+    "full_name": "pyoncord/Bunny",
+    "stargazers_count": 205,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "revenge-mod/Revenge",
+    "stargazers_count": 398,
+    "open_issues_count": 10,
+    "forks_count": 9
+  },
+  {
+    "full_name": "ByteByteGoHq/system-design-101",
+    "stargazers_count": 55934,
+    "open_issues_count": 36,
+    "forks_count": 5647
+  },
+  {
+    "full_name": "sanity-io/sanity-template-nextjs-event-starter",
+    "stargazers_count": 40,
+    "open_issues_count": 4,
+    "forks_count": 9
+  },
+  {
+    "full_name": "tibold/svg-explorer-extension",
+    "stargazers_count": 3012,
+    "open_issues_count": 45,
+    "forks_count": 182
+  },
+  {
+    "full_name": "suno-ai/bark",
+    "stargazers_count": 31176,
+    "open_issues_count": 184,
+    "forks_count": 3657
+  },
+  {
+    "full_name": "coqui-ai/TTS",
+    "stargazers_count": 28056,
+    "open_issues_count": 63,
+    "forks_count": 3252
+  },
+  {
     "full_name": "mrmps/SMRY",
-    "stargazers_count": 172,
+    "stargazers_count": 174,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-    "stargazers_count": 1804,
+    "stargazers_count": 1811,
     "open_issues_count": 0,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "Lunakepio/KartController.js",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "Lunakepio/useGamepad",
-    "stargazers_count": 59,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -31,50 +85,50 @@
   },
   {
     "full_name": "dimdenGD/OldTweetDeck",
-    "stargazers_count": 1496,
-    "open_issues_count": 20,
+    "stargazers_count": 1504,
+    "open_issues_count": 21,
     "forks_count": 98
   },
   {
     "full_name": "ovity/octotree",
-    "stargazers_count": 22654,
-    "open_issues_count": 33,
-    "forks_count": 1786
+    "stargazers_count": 22659,
+    "open_issues_count": 32,
+    "forks_count": 1787
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 64255,
-    "open_issues_count": 402,
-    "forks_count": 5930
+    "stargazers_count": 64366,
+    "open_issues_count": 366,
+    "forks_count": 5942
   },
   {
     "full_name": "huntabyte/shadcn-svelte",
-    "stargazers_count": 3549,
-    "open_issues_count": 29,
-    "forks_count": 225
+    "stargazers_count": 3568,
+    "open_issues_count": 31,
+    "forks_count": 227
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 9747,
+    "stargazers_count": 10161,
     "open_issues_count": 38,
-    "forks_count": 494
+    "forks_count": 544
   },
   {
     "full_name": "PrismJS/prism",
-    "stargazers_count": 11939,
-    "open_issues_count": 378,
-    "forks_count": 1265
+    "stargazers_count": 11946,
+    "open_issues_count": 380,
+    "forks_count": 1263
   },
   {
     "full_name": "beautifier/js-beautify",
-    "stargazers_count": 8407,
+    "stargazers_count": 8411,
     "open_issues_count": 381,
     "forks_count": 1354
   },
   {
     "full_name": "glutanimate/anki-addon-builder",
     "stargazers_count": 92,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 17
   },
   {
@@ -85,21 +139,21 @@
   },
   {
     "full_name": "oframe/ogl",
-    "stargazers_count": 3489,
+    "stargazers_count": 3494,
     "open_issues_count": 16,
     "forks_count": 203
   },
   {
     "full_name": "regl-project/regl",
-    "stargazers_count": 5082,
+    "stargazers_count": 5084,
     "open_issues_count": 134,
     "forks_count": 316
   },
   {
     "full_name": "terkelg/awesome-creative-coding",
-    "stargazers_count": 12072,
-    "open_issues_count": 0,
-    "forks_count": 840
+    "stargazers_count": 12079,
+    "open_issues_count": 1,
+    "forks_count": 841
   },
   {
     "full_name": "Jannchie/anichart.js",
@@ -109,74 +163,20 @@
   },
   {
     "full_name": "f5/unovis",
-    "stargazers_count": 1696,
-    "open_issues_count": 34,
+    "stargazers_count": 1700,
+    "open_issues_count": 36,
     "forks_count": 33
   },
   {
     "full_name": "vasturiano/globe.gl",
-    "stargazers_count": 1799,
+    "stargazers_count": 1802,
     "open_issues_count": 102,
-    "forks_count": 279
+    "forks_count": 280
   },
   {
     "full_name": "yihong0618/running_page",
-    "stargazers_count": 3120,
+    "stargazers_count": 3128,
     "open_issues_count": 37,
-    "forks_count": 874
-  },
-  {
-    "full_name": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
-    "stargazers_count": 3451,
-    "open_issues_count": 15,
-    "forks_count": 639
-  },
-  {
-    "full_name": "observablehq/plot",
-    "stargazers_count": 3798,
-    "open_issues_count": 290,
-    "forks_count": 161
-  },
-  {
-    "full_name": "antvis/G6",
-    "stargazers_count": 10637,
-    "open_issues_count": 498,
-    "forks_count": 1260
-  },
-  {
-    "full_name": "microsoft/SandDance",
-    "stargazers_count": 6199,
-    "open_issues_count": 94,
-    "forks_count": 515
-  },
-  {
-    "full_name": "visgl/deck.gl",
-    "stargazers_count": 11609,
-    "open_issues_count": 290,
-    "forks_count": 2021
-  },
-  {
-    "full_name": "pixijs/pixijs",
-    "stargazers_count": 42148,
-    "open_issues_count": 274,
-    "forks_count": 4709
-  },
-  {
-    "full_name": "Ronik22/Audio-Visualizer",
-    "stargazers_count": 20,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "LHDi/sound-visualizer",
-    "stargazers_count": 14,
-    "open_issues_count": 20,
-    "forks_count": 2
-  },
-  {
-    "full_name": "pmndrs/suspend-react",
-    "stargazers_count": 1308,
-    "open_issues_count": 14,
-    "forks_count": 25
+    "forks_count": 878
   }
 ]
