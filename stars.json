@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "lllyasviel/Fooocus",
+    "stargazers_count": 33472,
+    "open_issues_count": 201,
+    "forks_count": 3971
+  },
+  {
+    "full_name": "dilame/instagram-private-api",
+    "stargazers_count": 5656,
+    "open_issues_count": 356,
+    "forks_count": 1125
+  },
+  {
     "full_name": "Gwindalmir/yuzu-mirror",
     "stargazers_count": 17,
     "open_issues_count": 0,
@@ -7,14 +19,14 @@
   },
   {
     "full_name": "mgba-emu/mgba",
-    "stargazers_count": 5208,
-    "open_issues_count": 718,
-    "forks_count": 715
+    "stargazers_count": 5218,
+    "open_issues_count": 717,
+    "forks_count": 718
   },
   {
     "full_name": "Vendicated/Vencord",
-    "stargazers_count": 6247,
-    "open_issues_count": 214,
+    "stargazers_count": 6288,
+    "open_issues_count": 215,
     "forks_count": 889
   },
   {
@@ -25,39 +37,39 @@
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 9611,
+    "stargazers_count": 9635,
     "open_issues_count": 299,
     "forks_count": 266
   },
   {
     "full_name": "DeveloperMDCM/Youtube-tools-extension",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 11,
     "forks_count": 19
   },
   {
     "full_name": "ArmCord/ArmCord",
-    "stargazers_count": 1133,
-    "open_issues_count": 68,
+    "stargazers_count": 1137,
+    "open_issues_count": 69,
     "forks_count": 61
   },
   {
     "full_name": "pyoncord/Pyoncord",
-    "stargazers_count": 229,
+    "stargazers_count": 249,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "revenge-mod/Revenge",
-    "stargazers_count": 436,
+    "stargazers_count": 454,
     "open_issues_count": 10,
     "forks_count": 12
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 56035,
+    "stargazers_count": 56129,
     "open_issues_count": 36,
-    "forks_count": 5659
+    "forks_count": 5677
   },
   {
     "full_name": "sanity-io/sanity-template-nextjs-event-starter",
@@ -67,31 +79,31 @@
   },
   {
     "full_name": "tibold/svg-explorer-extension",
-    "stargazers_count": 3012,
+    "stargazers_count": 3014,
     "open_issues_count": 45,
     "forks_count": 182
   },
   {
     "full_name": "suno-ai/bark",
-    "stargazers_count": 31377,
+    "stargazers_count": 31620,
     "open_issues_count": 185,
-    "forks_count": 3678
+    "forks_count": 3713
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 28190,
-    "open_issues_count": 64,
-    "forks_count": 3268
+    "stargazers_count": 28309,
+    "open_issues_count": 65,
+    "forks_count": 3284
   },
   {
     "full_name": "mrmps/SMRY",
-    "stargazers_count": 178,
+    "stargazers_count": 180,
     "open_issues_count": 3,
     "forks_count": 15
   },
   {
     "full_name": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-    "stargazers_count": 1817,
+    "stargazers_count": 1830,
     "open_issues_count": 0,
     "forks_count": 168
   },
@@ -105,7 +117,7 @@
     "full_name": "Lunakepio/useGamepad",
     "stargazers_count": 62,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "rcmtcristian/AnkiXMarkdownXMindMapV2",
@@ -115,45 +127,45 @@
   },
   {
     "full_name": "dimdenGD/OldTweetDeck",
-    "stargazers_count": 1507,
+    "stargazers_count": 1517,
     "open_issues_count": 22,
-    "forks_count": 98
+    "forks_count": 99
   },
   {
     "full_name": "ovity/octotree",
-    "stargazers_count": 22663,
-    "open_issues_count": 33,
+    "stargazers_count": 22669,
+    "open_issues_count": 34,
     "forks_count": 1788
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 64496,
-    "open_issues_count": 334,
-    "forks_count": 5958
+    "stargazers_count": 64621,
+    "open_issues_count": 325,
+    "forks_count": 5978
   },
   {
     "full_name": "huntabyte/shadcn-svelte",
-    "stargazers_count": 3607,
-    "open_issues_count": 29,
-    "forks_count": 230
+    "stargazers_count": 3635,
+    "open_issues_count": 27,
+    "forks_count": 233
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 10622,
-    "open_issues_count": 50,
-    "forks_count": 578
+    "stargazers_count": 10849,
+    "open_issues_count": 49,
+    "forks_count": 600
   },
   {
     "full_name": "PrismJS/prism",
-    "stargazers_count": 11957,
-    "open_issues_count": 380,
-    "forks_count": 1264
+    "stargazers_count": 11964,
+    "open_issues_count": 382,
+    "forks_count": 1267
   },
   {
     "full_name": "beautifier/js-beautify",
-    "stargazers_count": 8414,
-    "open_issues_count": 382,
-    "forks_count": 1355
+    "stargazers_count": 8413,
+    "open_issues_count": 383,
+    "forks_count": 1356
   },
   {
     "full_name": "glutanimate/anki-addon-builder",
@@ -166,17 +178,5 @@
     "stargazers_count": 30,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "oframe/ogl",
-    "stargazers_count": 3497,
-    "open_issues_count": 17,
-    "forks_count": 203
-  },
-  {
-    "full_name": "regl-project/regl",
-    "stargazers_count": 5088,
-    "open_issues_count": 134,
-    "forks_count": 316
   }
 ]
