@@ -1,33 +1,63 @@
 [
   {
+    "full_name": "fireship-io/fireship.io",
+    "stargazers_count": 3376,
+    "open_issues_count": 429,
+    "forks_count": 1265
+  },
+  {
+    "full_name": "WSTxda/QP-Gallery-Releases",
+    "stargazers_count": 1402,
+    "open_issues_count": 0,
+    "forks_count": 57
+  },
+  {
+    "full_name": "paprikka/lana-cli",
+    "stargazers_count": 49,
+    "open_issues_count": 18,
+    "forks_count": 40
+  },
+  {
     "full_name": "glutanimate/mini-format-pack",
     "stargazers_count": 46,
     "open_issues_count": 19,
     "forks_count": 14
   },
   {
+    "full_name": "mixmark-io/turndown",
+    "stargazers_count": 7803,
+    "open_issues_count": 117,
+    "forks_count": 822
+  },
+  {
+    "full_name": "dessant/search-by-image",
+    "stargazers_count": 1875,
+    "open_issues_count": 46,
+    "forks_count": 181
+  },
+  {
     "full_name": "Bergbok/Spicetify-Creations",
-    "stargazers_count": 14,
+    "stargazers_count": 17,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "Freedium-cfd/web",
-    "stargazers_count": 371,
+    "stargazers_count": 375,
     "open_issues_count": 3,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "lllyasviel/Fooocus",
-    "stargazers_count": 33858,
-    "open_issues_count": 200,
-    "forks_count": 4072
+    "stargazers_count": 34003,
+    "open_issues_count": 201,
+    "forks_count": 4114
   },
   {
     "full_name": "dilame/instagram-private-api",
-    "stargazers_count": 5665,
-    "open_issues_count": 357,
-    "forks_count": 1125
+    "stargazers_count": 5674,
+    "open_issues_count": 360,
+    "forks_count": 1126
   },
   {
     "full_name": "Gwindalmir/yuzu-mirror",
@@ -37,57 +67,57 @@
   },
   {
     "full_name": "mgba-emu/mgba",
-    "stargazers_count": 5235,
+    "stargazers_count": 5245,
     "open_issues_count": 720,
-    "forks_count": 727
+    "forks_count": 731
   },
   {
     "full_name": "Vendicated/Vencord",
-    "stargazers_count": 6368,
-    "open_issues_count": 223,
-    "forks_count": 908
+    "stargazers_count": 6413,
+    "open_issues_count": 222,
+    "forks_count": 915
   },
   {
     "full_name": "pointfreeco/pointfreeco",
     "stargazers_count": 1060,
     "open_issues_count": 16,
-    "forks_count": 94
+    "forks_count": 93
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 9677,
-    "open_issues_count": 299,
+    "stargazers_count": 9702,
+    "open_issues_count": 300,
     "forks_count": 268
   },
   {
     "full_name": "DeveloperMDCM/Youtube-tools-extension",
-    "stargazers_count": 151,
-    "open_issues_count": 12,
+    "stargazers_count": 152,
+    "open_issues_count": 13,
     "forks_count": 19
   },
   {
     "full_name": "ArmCord/ArmCord",
-    "stargazers_count": 1143,
+    "stargazers_count": 1150,
     "open_issues_count": 71,
     "forks_count": 61
   },
   {
     "full_name": "pyoncord/Pyoncord",
-    "stargazers_count": 294,
-    "open_issues_count": 3,
-    "forks_count": 3
+    "stargazers_count": 408,
+    "open_issues_count": 5,
+    "forks_count": 4
   },
   {
     "full_name": "revenge-mod/Revenge",
-    "stargazers_count": 508,
+    "stargazers_count": 486,
     "open_issues_count": 7,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 56310,
+    "stargazers_count": 56384,
     "open_issues_count": 36,
-    "forks_count": 5707
+    "forks_count": 5724
   },
   {
     "full_name": "sanity-io/sanity-template-nextjs-event-starter",
@@ -97,33 +127,33 @@
   },
   {
     "full_name": "tibold/svg-explorer-extension",
-    "stargazers_count": 3021,
+    "stargazers_count": 3028,
     "open_issues_count": 45,
     "forks_count": 183
   },
   {
     "full_name": "suno-ai/bark",
-    "stargazers_count": 31897,
+    "stargazers_count": 32047,
     "open_issues_count": 189,
-    "forks_count": 3752
+    "forks_count": 3769
   },
   {
     "full_name": "coqui-ai/TTS",
-    "stargazers_count": 28568,
-    "open_issues_count": 72,
-    "forks_count": 3317
+    "stargazers_count": 28685,
+    "open_issues_count": 71,
+    "forks_count": 3337
   },
   {
     "full_name": "mrmps/SMRY",
-    "stargazers_count": 193,
+    "stargazers_count": 199,
     "open_issues_count": 3,
     "forks_count": 18
   },
   {
     "full_name": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-    "stargazers_count": 1836,
+    "stargazers_count": 1842,
     "open_issues_count": 0,
-    "forks_count": 168
+    "forks_count": 170
   },
   {
     "full_name": "Lunakepio/KartController.js",
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "dimdenGD/OldTweetDeck",
-    "stargazers_count": 1530,
-    "open_issues_count": 26,
+    "stargazers_count": 1536,
+    "open_issues_count": 28,
     "forks_count": 99
-  },
-  {
-    "full_name": "ovity/octotree",
-    "stargazers_count": 22675,
-    "open_issues_count": 34,
-    "forks_count": 1789
-  },
-  {
-    "full_name": "supabase/supabase",
-    "stargazers_count": 64893,
-    "open_issues_count": 335,
-    "forks_count": 5999
-  },
-  {
-    "full_name": "huntabyte/shadcn-svelte",
-    "stargazers_count": 3687,
-    "open_issues_count": 24,
-    "forks_count": 235
-  },
-  {
-    "full_name": "HeyPuter/puter",
-    "stargazers_count": 11950,
-    "open_issues_count": 58,
-    "forks_count": 655
-  },
-  {
-    "full_name": "PrismJS/prism",
-    "stargazers_count": 11981,
-    "open_issues_count": 383,
-    "forks_count": 1269
   }
 ]
