@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "hashicorp/vault-action",
+    "stargazers_count": 414,
+    "open_issues_count": 22,
+    "forks_count": 132
+  },
+  {
+    "full_name": "hashicorp/vault",
+    "stargazers_count": 29671,
+    "open_issues_count": 1270,
+    "forks_count": 4073
+  },
+  {
+    "full_name": "Sneeds-Feed-and-Seed/sneedacity",
+    "stargazers_count": 884,
+    "open_issues_count": 15,
+    "forks_count": 62
+  },
+  {
+    "full_name": "Audacium/audacium",
+    "stargazers_count": 703,
+    "open_issues_count": 23,
+    "forks_count": 36
+  },
+  {
+    "full_name": "tenacityteam/tenacity",
+    "stargazers_count": 468,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
+    "full_name": "teknologi-umum/flourite",
+    "stargazers_count": 23,
+    "open_issues_count": 11,
+    "forks_count": 13
+  },
+  {
+    "full_name": "highlightjs/highlight.js",
+    "stargazers_count": 23072,
+    "open_issues_count": 108,
+    "forks_count": 3507
+  },
+  {
+    "full_name": "shikijs/shiki",
+    "stargazers_count": 8637,
+    "open_issues_count": 18,
+    "forks_count": 310
+  },
+  {
     "full_name": "glutanimate/pytest-anki",
     "stargazers_count": 22,
     "open_issues_count": 6,
@@ -13,15 +61,15 @@
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4506,
-    "open_issues_count": 53,
-    "forks_count": 213
+    "stargazers_count": 4516,
+    "open_issues_count": 54,
+    "forks_count": 214
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 50207,
-    "open_issues_count": 201,
-    "forks_count": 1246
+    "stargazers_count": 50288,
+    "open_issues_count": 200,
+    "forks_count": 1248
   },
   {
     "full_name": "abstracthat/dactyl-manuform",
@@ -37,8 +85,8 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 561,
-    "open_issues_count": 8,
+    "stargazers_count": 583,
+    "open_issues_count": 10,
     "forks_count": 5
   },
   {
@@ -55,15 +103,15 @@
   },
   {
     "full_name": "honestbleeps/Reddit-Enhancement-Suite",
-    "stargazers_count": 4015,
+    "stargazers_count": 4021,
     "open_issues_count": 662,
-    "forks_count": 878
+    "forks_count": 879
   },
   {
     "full_name": "nathom/streamrip",
-    "stargazers_count": 2109,
-    "open_issues_count": 108,
-    "forks_count": 193
+    "stargazers_count": 2119,
+    "open_issues_count": 109,
+    "forks_count": 194
   },
   {
     "full_name": "kepano/obsidian-minimal-settings",
@@ -73,20 +121,20 @@
   },
   {
     "full_name": "warpdotdev/themes",
-    "stargazers_count": 636,
-    "open_issues_count": 8,
-    "forks_count": 153
+    "stargazers_count": 637,
+    "open_issues_count": 9,
+    "forks_count": 155
   },
   {
     "full_name": "powerline/fonts",
-    "stargazers_count": 25349,
+    "stargazers_count": 25356,
     "open_issues_count": 178,
-    "forks_count": 3196
+    "forks_count": 3195
   },
   {
     "full_name": "GhostWriters/DockSTARTer",
-    "stargazers_count": 2140,
-    "open_issues_count": 19,
+    "stargazers_count": 2141,
+    "open_issues_count": 18,
     "forks_count": 223
   },
   {
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "fireship-io/fireship.io",
-    "stargazers_count": 3413,
+    "stargazers_count": 3421,
     "open_issues_count": 434,
-    "forks_count": 1277
+    "forks_count": 1275
   },
   {
     "full_name": "WSTxda/QP-Gallery-Releases",
-    "stargazers_count": 1417,
+    "stargazers_count": 1423,
     "open_issues_count": 0,
     "forks_count": 57
-  },
-  {
-    "full_name": "paprikka/lana-cli",
-    "stargazers_count": 49,
-    "open_issues_count": 18,
-    "forks_count": 40
-  },
-  {
-    "full_name": "glutanimate/mini-format-pack",
-    "stargazers_count": 46,
-    "open_issues_count": 19,
-    "forks_count": 14
-  },
-  {
-    "full_name": "mixmark-io/turndown",
-    "stargazers_count": 7899,
-    "open_issues_count": 117,
-    "forks_count": 827
-  },
-  {
-    "full_name": "dessant/search-by-image",
-    "stargazers_count": 1892,
-    "open_issues_count": 45,
-    "forks_count": 183
-  },
-  {
-    "full_name": "Bergbok/Spicetify-Creations",
-    "stargazers_count": 20,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Freedium-cfd/web",
-    "stargazers_count": 390,
-    "open_issues_count": 3,
-    "forks_count": 26
-  },
-  {
-    "full_name": "lllyasviel/Fooocus",
-    "stargazers_count": 34844,
-    "open_issues_count": 208,
-    "forks_count": 4294
-  },
-  {
-    "full_name": "dilame/instagram-private-api",
-    "stargazers_count": 5708,
-    "open_issues_count": 365,
-    "forks_count": 1125
   }
 ]
