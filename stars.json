@@ -1,43 +1,49 @@
 [
   {
+    "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
+    "stargazers_count": 66,
+    "open_issues_count": 0,
+    "forks_count": 484
+  },
+  {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 2114,
+    "stargazers_count": 2653,
     "open_issues_count": 14,
-    "forks_count": 54
+    "forks_count": 67
   },
   {
     "full_name": "rr-/szurubooru",
-    "stargazers_count": 644,
-    "open_issues_count": 142,
-    "forks_count": 163
+    "stargazers_count": 646,
+    "open_issues_count": 146,
+    "forks_count": 166
   },
   {
     "full_name": "hashicorp/vault-action",
-    "stargazers_count": 415,
-    "open_issues_count": 22,
+    "stargazers_count": 417,
+    "open_issues_count": 24,
     "forks_count": 132
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29693,
-    "open_issues_count": 1286,
-    "forks_count": 4075
+    "stargazers_count": 29718,
+    "open_issues_count": 1293,
+    "forks_count": 4081
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
-    "stargazers_count": 884,
+    "stargazers_count": 883,
     "open_issues_count": 15,
     "forks_count": 62
   },
   {
     "full_name": "Audacium/audacium",
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 23,
     "forks_count": 36
   },
   {
     "full_name": "tenacityteam/tenacity",
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23078,
+    "stargazers_count": 23085,
     "open_issues_count": 109,
-    "forks_count": 3507
+    "forks_count": 3508
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8659,
-    "open_issues_count": 13,
-    "forks_count": 310
+    "stargazers_count": 8709,
+    "open_issues_count": 14,
+    "forks_count": 312
   },
   {
     "full_name": "glutanimate/pytest-anki",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "tc39/proposal-promise-try",
-    "stargazers_count": 197,
+    "stargazers_count": 198,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4531,
+    "stargazers_count": 4536,
     "open_issues_count": 53,
-    "forks_count": 215
+    "forks_count": 216
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 50355,
-    "open_issues_count": 203,
-    "forks_count": 1256
+    "stargazers_count": 50477,
+    "open_issues_count": 201,
+    "forks_count": 1257
   },
   {
     "full_name": "abstracthat/dactyl-manuform",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 608,
-    "open_issues_count": 4,
-    "forks_count": 5
+    "stargazers_count": 642,
+    "open_issues_count": 5,
+    "forks_count": 7
   },
   {
     "full_name": "dubeyanant/Learning-Japanese",
@@ -115,39 +121,39 @@
   },
   {
     "full_name": "honestbleeps/Reddit-Enhancement-Suite",
-    "stargazers_count": 4032,
-    "open_issues_count": 665,
+    "stargazers_count": 4033,
+    "open_issues_count": 664,
     "forks_count": 879
   },
   {
     "full_name": "nathom/streamrip",
-    "stargazers_count": 2130,
-    "open_issues_count": 103,
-    "forks_count": 194
+    "stargazers_count": 2142,
+    "open_issues_count": 105,
+    "forks_count": 195
   },
   {
     "full_name": "kepano/obsidian-minimal-settings",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "warpdotdev/themes",
-    "stargazers_count": 638,
+    "stargazers_count": 641,
     "open_issues_count": 9,
-    "forks_count": 155
+    "forks_count": 156
   },
   {
     "full_name": "powerline/fonts",
-    "stargazers_count": 25365,
+    "stargazers_count": 25381,
     "open_issues_count": 178,
-    "forks_count": 3197
+    "forks_count": 3196
   },
   {
     "full_name": "GhostWriters/DockSTARTer",
-    "stargazers_count": 2143,
+    "stargazers_count": 2146,
     "open_issues_count": 18,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "wearekuva/oui",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "lo-th/uil",
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 4,
     "forks_count": 50
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 813,
     "open_issues_count": 39,
     "forks_count": 87
-  },
-  {
-    "full_name": "freeman-lab/control-panel",
-    "stargazers_count": 235,
-    "open_issues_count": 13,
-    "forks_count": 17
   }
 ]
