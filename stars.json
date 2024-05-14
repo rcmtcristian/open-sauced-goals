@@ -1,38 +1,50 @@
 [
   {
-    "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
-    "stargazers_count": 115,
+    "full_name": "ibnzUK/next-chrome-starter",
+    "stargazers_count": 89,
     "open_issues_count": 0,
-    "forks_count": 503
+    "forks_count": 34
+  },
+  {
+    "full_name": "nidorx/matcaps",
+    "stargazers_count": 2413,
+    "open_issues_count": 2,
+    "forks_count": 223
+  },
+  {
+    "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
+    "stargazers_count": 137,
+    "open_issues_count": 0,
+    "forks_count": 508
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 2819,
-    "open_issues_count": 14,
-    "forks_count": 68
+    "stargazers_count": 2908,
+    "open_issues_count": 19,
+    "forks_count": 73
   },
   {
     "full_name": "rr-/szurubooru",
-    "stargazers_count": 645,
-    "open_issues_count": 146,
-    "forks_count": 166
+    "stargazers_count": 647,
+    "open_issues_count": 145,
+    "forks_count": 167
   },
   {
     "full_name": "hashicorp/vault-action",
-    "stargazers_count": 417,
+    "stargazers_count": 419,
     "open_issues_count": 27,
     "forks_count": 132
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29744,
-    "open_issues_count": 1261,
-    "forks_count": 4083
+    "stargazers_count": 29765,
+    "open_issues_count": 1248,
+    "forks_count": 4086
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
     "stargazers_count": 883,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 62
   },
   {
@@ -55,14 +67,14 @@
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23102,
+    "stargazers_count": 23108,
     "open_issues_count": 109,
     "forks_count": 3509
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8749,
-    "open_issues_count": 15,
+    "stargazers_count": 8788,
+    "open_issues_count": 18,
     "forks_count": 313
   },
   {
@@ -79,15 +91,15 @@
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4543,
+    "stargazers_count": 4551,
     "open_issues_count": 53,
     "forks_count": 216
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 50596,
-    "open_issues_count": 201,
-    "forks_count": 1258
+    "stargazers_count": 50684,
+    "open_issues_count": 195,
+    "forks_count": 1262
   },
   {
     "full_name": "abstracthat/dactyl-manuform",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 695,
-    "open_issues_count": 5,
-    "forks_count": 7
+    "stargazers_count": 742,
+    "open_issues_count": 7,
+    "forks_count": 8
   },
   {
     "full_name": "dubeyanant/Learning-Japanese",
@@ -121,15 +133,15 @@
   },
   {
     "full_name": "honestbleeps/Reddit-Enhancement-Suite",
-    "stargazers_count": 4035,
-    "open_issues_count": 664,
-    "forks_count": 879
+    "stargazers_count": 4038,
+    "open_issues_count": 665,
+    "forks_count": 878
   },
   {
     "full_name": "nathom/streamrip",
-    "stargazers_count": 2152,
-    "open_issues_count": 106,
-    "forks_count": 197
+    "stargazers_count": 2166,
+    "open_issues_count": 105,
+    "forks_count": 198
   },
   {
     "full_name": "kepano/obsidian-minimal-settings",
@@ -139,19 +151,19 @@
   },
   {
     "full_name": "warpdotdev/themes",
-    "stargazers_count": 643,
-    "open_issues_count": 9,
+    "stargazers_count": 645,
+    "open_issues_count": 10,
     "forks_count": 156
   },
   {
     "full_name": "powerline/fonts",
-    "stargazers_count": 25384,
-    "open_issues_count": 178,
+    "stargazers_count": 25391,
+    "open_issues_count": 177,
     "forks_count": 3198
   },
   {
     "full_name": "GhostWriters/DockSTARTer",
-    "stargazers_count": 2148,
+    "stargazers_count": 2150,
     "open_issues_count": 18,
     "forks_count": 224
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 280,
     "open_issues_count": 15,
     "forks_count": 15
-  },
-  {
-    "full_name": "lo-th/uil",
-    "stargazers_count": 556,
-    "open_issues_count": 4,
-    "forks_count": 50
-  },
-  {
-    "full_name": "automat/controlkit.js",
-    "stargazers_count": 813,
-    "open_issues_count": 39,
-    "forks_count": 87
   }
 ]
