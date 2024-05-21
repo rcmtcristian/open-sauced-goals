@@ -1,57 +1,57 @@
 [
   {
     "full_name": "marekbrze/categorized-obsidian-plugins",
-    "stargazers_count": 154,
+    "stargazers_count": 335,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 10
   },
   {
     "full_name": "ibnzUK/next-chrome-starter",
-    "stargazers_count": 90,
+    "stargazers_count": 93,
     "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "nidorx/matcaps",
-    "stargazers_count": 2419,
+    "stargazers_count": 2423,
     "open_issues_count": 2,
     "forks_count": 223
   },
   {
     "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
-    "stargazers_count": 140,
+    "stargazers_count": 148,
     "open_issues_count": 0,
-    "forks_count": 508
+    "forks_count": 504
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3067,
-    "open_issues_count": 20,
-    "forks_count": 74
+    "stargazers_count": 3187,
+    "open_issues_count": 18,
+    "forks_count": 77
   },
   {
     "full_name": "rr-/szurubooru",
-    "stargazers_count": 648,
-    "open_issues_count": 145,
-    "forks_count": 167
+    "stargazers_count": 651,
+    "open_issues_count": 146,
+    "forks_count": 168
   },
   {
     "full_name": "hashicorp/vault-action",
     "stargazers_count": 419,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 132
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29783,
-    "open_issues_count": 1250,
-    "forks_count": 4086
+    "stargazers_count": 29790,
+    "open_issues_count": 1255,
+    "forks_count": 4088
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
     "stargazers_count": 884,
-    "open_issues_count": 14,
-    "forks_count": 62
+    "open_issues_count": 15,
+    "forks_count": 63
   },
   {
     "full_name": "Audacium/audacium",
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "tenacityteam/tenacity",
-    "stargazers_count": 473,
+    "stargazers_count": 475,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "teknologi-umum/flourite",
     "stargazers_count": 24,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 13
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23122,
+    "stargazers_count": 23135,
     "open_issues_count": 110,
-    "forks_count": 3511
+    "forks_count": 3512
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8828,
-    "open_issues_count": 18,
-    "forks_count": 312
+    "stargazers_count": 8865,
+    "open_issues_count": 20,
+    "forks_count": 315
   },
   {
     "full_name": "glutanimate/pytest-anki",
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "tc39/proposal-promise-try",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4556,
+    "stargazers_count": 4560,
     "open_issues_count": 53,
     "forks_count": 216
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 50768,
-    "open_issues_count": 195,
-    "forks_count": 1264
+    "stargazers_count": 50853,
+    "open_issues_count": 193,
+    "forks_count": 1268
   },
   {
     "full_name": "abstracthat/dactyl-manuform",
-    "stargazers_count": 1336,
+    "stargazers_count": 1339,
     "open_issues_count": 13,
     "forks_count": 157
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 765,
-    "open_issues_count": 7,
+    "stargazers_count": 792,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "honestbleeps/Reddit-Enhancement-Suite",
-    "stargazers_count": 4044,
+    "stargazers_count": 4045,
     "open_issues_count": 665,
     "forks_count": 879
   },
   {
     "full_name": "nathom/streamrip",
-    "stargazers_count": 2175,
-    "open_issues_count": 104,
-    "forks_count": 200
+    "stargazers_count": 2193,
+    "open_issues_count": 105,
+    "forks_count": 203
   },
   {
     "full_name": "kepano/obsidian-minimal-settings",
-    "stargazers_count": 392,
+    "stargazers_count": 396,
     "open_issues_count": 10,
     "forks_count": 18
   },
@@ -159,19 +159,19 @@
     "full_name": "warpdotdev/themes",
     "stargazers_count": 646,
     "open_issues_count": 10,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "powerline/fonts",
-    "stargazers_count": 25399,
+    "stargazers_count": 25400,
     "open_issues_count": 177,
-    "forks_count": 3198
+    "forks_count": 3197
   },
   {
     "full_name": "GhostWriters/DockSTARTer",
-    "stargazers_count": 2153,
+    "stargazers_count": 2158,
     "open_issues_count": 18,
-    "forks_count": 224
+    "forks_count": 226
   },
   {
     "full_name": "wearekuva/oui",
