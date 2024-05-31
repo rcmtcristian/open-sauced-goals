@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "JunkFood02/Seal",
+    "stargazers_count": 8294,
+    "open_issues_count": 198,
+    "forks_count": 391
+  },
+  {
+    "full_name": "lencx/Noi",
+    "stargazers_count": 4846,
+    "open_issues_count": 60,
+    "forks_count": 339
+  },
+  {
+    "full_name": "lencx/nofwl",
+    "stargazers_count": 4240,
+    "open_issues_count": 83,
+    "forks_count": 395
+  },
+  {
     "full_name": "cscape/vitalsource-dl",
     "stargazers_count": 42,
     "open_issues_count": 7,
@@ -13,25 +31,25 @@
   },
   {
     "full_name": "Merlin04/superbird-webapp",
-    "stargazers_count": 66,
+    "stargazers_count": 68,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "williamtcastro/carthing-non-premium-spotify",
-    "stargazers_count": 52,
+    "stargazers_count": 57,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "bishopdynamics/superbird-tool",
-    "stargazers_count": 81,
+    "stargazers_count": 86,
     "open_issues_count": 5,
     "forks_count": 4
   },
   {
     "full_name": "Dwin17/bento",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 3,
     "forks_count": 20
   },
@@ -43,37 +61,37 @@
   },
   {
     "full_name": "splitbee/notion-api-worker",
-    "stargazers_count": 1520,
+    "stargazers_count": 1521,
     "open_issues_count": 35,
     "forks_count": 191
   },
   {
     "full_name": "marekbrze/categorized-obsidian-plugins",
-    "stargazers_count": 362,
+    "stargazers_count": 369,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "ibnzUK/next-chrome-starter",
-    "stargazers_count": 95,
+    "stargazers_count": 98,
     "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "nidorx/matcaps",
-    "stargazers_count": 2433,
+    "stargazers_count": 2436,
     "open_issues_count": 2,
     "forks_count": 223
   },
   {
     "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
-    "stargazers_count": 166,
+    "stargazers_count": 170,
     "open_issues_count": 0,
-    "forks_count": 505
+    "forks_count": 504
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3290,
+    "stargazers_count": 3315,
     "open_issues_count": 25,
     "forks_count": 78
   },
@@ -91,15 +109,15 @@
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29828,
-    "open_issues_count": 1246,
-    "forks_count": 4089
+    "stargazers_count": 29848,
+    "open_issues_count": 1237,
+    "forks_count": 4090
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
     "stargazers_count": 885,
-    "open_issues_count": 14,
-    "forks_count": 62
+    "open_issues_count": 15,
+    "forks_count": 63
   },
   {
     "full_name": "Audacium/audacium",
@@ -121,62 +139,44 @@
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23173,
-    "open_issues_count": 112,
-    "forks_count": 3512
+    "stargazers_count": 23189,
+    "open_issues_count": 111,
+    "forks_count": 3515
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8927,
-    "open_issues_count": 19,
-    "forks_count": 318
+    "stargazers_count": 8939,
+    "open_issues_count": 20,
+    "forks_count": 319
   },
   {
     "full_name": "glutanimate/pytest-anki",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "tc39/proposal-promise-try",
-    "stargazers_count": 200,
+    "stargazers_count": 202,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4572,
-    "open_issues_count": 53,
-    "forks_count": 216
+    "stargazers_count": 4606,
+    "open_issues_count": 54,
+    "forks_count": 218
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 51048,
-    "open_issues_count": 193,
+    "stargazers_count": 51118,
+    "open_issues_count": 192,
     "forks_count": 1271
   },
   {
     "full_name": "abstracthat/dactyl-manuform",
-    "stargazers_count": 1344,
+    "stargazers_count": 1349,
     "open_issues_count": 13,
     "forks_count": 158
-  },
-  {
-    "full_name": "js-emulators/desmond",
-    "stargazers_count": 55,
-    "open_issues_count": 5,
-    "forks_count": 35
-  },
-  {
-    "full_name": "pyoncord/Bunny",
-    "stargazers_count": 835,
-    "open_issues_count": 6,
-    "forks_count": 10
-  },
-  {
-    "full_name": "dubeyanant/Learning-Japanese",
-    "stargazers_count": 52,
-    "open_issues_count": 6,
-    "forks_count": 1
   }
 ]
