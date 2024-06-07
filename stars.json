@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "RhysSullivan/shiptalkers",
+    "stargazers_count": 398,
+    "open_issues_count": 35,
+    "forks_count": 14
+  },
+  {
+    "full_name": "spicetify/spicetify-creator",
+    "stargazers_count": 86,
+    "open_issues_count": 2,
+    "forks_count": 7
+  },
+  {
     "full_name": "JunkFood02/Seal",
-    "stargazers_count": 8318,
+    "stargazers_count": 8345,
     "open_issues_count": 200,
     "forks_count": 392
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 4950,
-    "open_issues_count": 60,
-    "forks_count": 348
+    "stargazers_count": 5028,
+    "open_issues_count": 61,
+    "forks_count": 355
   },
   {
     "full_name": "lencx/nofwl",
-    "stargazers_count": 4240,
+    "stargazers_count": 4244,
     "open_issues_count": 83,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "cscape/vitalsource-dl",
@@ -31,20 +43,20 @@
   },
   {
     "full_name": "Merlin04/superbird-webapp",
-    "stargazers_count": 69,
+    "stargazers_count": 75,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "williamtcastro/carthing-non-premium-spotify",
-    "stargazers_count": 70,
+    "stargazers_count": 77,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "bishopdynamics/superbird-tool",
-    "stargazers_count": 100,
-    "open_issues_count": 5,
+    "stargazers_count": 104,
+    "open_issues_count": 6,
     "forks_count": 4
   },
   {
@@ -61,43 +73,43 @@
   },
   {
     "full_name": "splitbee/notion-api-worker",
-    "stargazers_count": 1522,
+    "stargazers_count": 1523,
     "open_issues_count": 35,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "marekbrze/categorized-obsidian-plugins",
-    "stargazers_count": 390,
-    "open_issues_count": 0,
+    "stargazers_count": 397,
+    "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "ibnzUK/next-chrome-starter",
-    "stargazers_count": 99,
+    "stargazers_count": 98,
     "open_issues_count": 0,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "nidorx/matcaps",
-    "stargazers_count": 2443,
+    "stargazers_count": 2446,
     "open_issues_count": 2,
-    "forks_count": 223
+    "forks_count": 224
   },
   {
     "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
-    "stargazers_count": 175,
+    "stargazers_count": 177,
     "open_issues_count": 0,
-    "forks_count": 504
+    "forks_count": 503
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3339,
-    "open_issues_count": 26,
+    "stargazers_count": 3366,
+    "open_issues_count": 21,
     "forks_count": 78
   },
   {
     "full_name": "rr-/szurubooru",
-    "stargazers_count": 655,
+    "stargazers_count": 657,
     "open_issues_count": 147,
     "forks_count": 168
   },
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29863,
-    "open_issues_count": 1237,
-    "forks_count": 4095
+    "stargazers_count": 29881,
+    "open_issues_count": 1232,
+    "forks_count": 4106
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
@@ -139,14 +151,14 @@
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23198,
+    "stargazers_count": 23217,
     "open_issues_count": 112,
-    "forks_count": 3515
+    "forks_count": 3517
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8964,
-    "open_issues_count": 23,
+    "stargazers_count": 8983,
+    "open_issues_count": 24,
     "forks_count": 320
   },
   {
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "tc39/proposal-promise-try",
-    "stargazers_count": 203,
+    "stargazers_count": 204,
     "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4619,
+    "stargazers_count": 4629,
     "open_issues_count": 55,
-    "forks_count": 219
-  },
-  {
-    "full_name": "nektos/act",
-    "stargazers_count": 51211,
-    "open_issues_count": 195,
-    "forks_count": 1275
-  },
-  {
-    "full_name": "abstracthat/dactyl-manuform",
-    "stargazers_count": 1351,
-    "open_issues_count": 13,
-    "forks_count": 158
+    "forks_count": 220
   }
 ]
