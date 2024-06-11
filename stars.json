@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "microsoft/winget-cli",
+    "stargazers_count": 22415,
+    "open_issues_count": 1037,
+    "forks_count": 1388
+  },
+  {
+    "full_name": "Nuzair46/Lyrixed",
+    "stargazers_count": 64,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
     "full_name": "RhysSullivan/shiptalkers",
-    "stargazers_count": 398,
-    "open_issues_count": 35,
-    "forks_count": 14
+    "stargazers_count": 634,
+    "open_issues_count": 39,
+    "forks_count": 32
   },
   {
     "full_name": "spicetify/spicetify-creator",
@@ -13,19 +25,19 @@
   },
   {
     "full_name": "JunkFood02/Seal",
-    "stargazers_count": 8345,
-    "open_issues_count": 200,
-    "forks_count": 392
+    "stargazers_count": 8378,
+    "open_issues_count": 203,
+    "forks_count": 393
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5028,
+    "stargazers_count": 5096,
     "open_issues_count": 61,
-    "forks_count": 355
+    "forks_count": 360
   },
   {
     "full_name": "lencx/nofwl",
-    "stargazers_count": 4244,
+    "stargazers_count": 4250,
     "open_issues_count": 83,
     "forks_count": 397
   },
@@ -43,74 +55,74 @@
   },
   {
     "full_name": "Merlin04/superbird-webapp",
-    "stargazers_count": 75,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "williamtcastro/carthing-non-premium-spotify",
-    "stargazers_count": 77,
+    "stargazers_count": 79,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "bishopdynamics/superbird-tool",
-    "stargazers_count": 104,
-    "open_issues_count": 6,
-    "forks_count": 4
+    "stargazers_count": 111,
+    "open_issues_count": 7,
+    "forks_count": 5
   },
   {
     "full_name": "Dwin17/bento",
-    "stargazers_count": 70,
+    "stargazers_count": 72,
     "open_issues_count": 3,
     "forks_count": 20
   },
   {
     "full_name": "janniks/vue-notion",
-    "stargazers_count": 865,
+    "stargazers_count": 866,
     "open_issues_count": 23,
     "forks_count": 61
   },
   {
     "full_name": "splitbee/notion-api-worker",
-    "stargazers_count": 1523,
+    "stargazers_count": 1525,
     "open_issues_count": 35,
     "forks_count": 192
   },
   {
     "full_name": "marekbrze/categorized-obsidian-plugins",
-    "stargazers_count": 397,
+    "stargazers_count": 403,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "ibnzUK/next-chrome-starter",
-    "stargazers_count": 98,
+    "stargazers_count": 100,
     "open_issues_count": 0,
     "forks_count": 36
   },
   {
     "full_name": "nidorx/matcaps",
-    "stargazers_count": 2446,
+    "stargazers_count": 2449,
     "open_issues_count": 2,
     "forks_count": 224
   },
   {
     "full_name": "jonacruz89/SAWARATSUKI.ServiceLogos",
-    "stargazers_count": 177,
+    "stargazers_count": 182,
     "open_issues_count": 0,
-    "forks_count": 503
+    "forks_count": 502
   },
   {
     "full_name": "cezaraugusto/extension.js",
-    "stargazers_count": 3366,
-    "open_issues_count": 21,
-    "forks_count": 78
+    "stargazers_count": 3381,
+    "open_issues_count": 20,
+    "forks_count": 79
   },
   {
     "full_name": "rr-/szurubooru",
     "stargazers_count": 657,
-    "open_issues_count": 147,
+    "open_issues_count": 148,
     "forks_count": 168
   },
   {
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "hashicorp/vault",
-    "stargazers_count": 29881,
-    "open_issues_count": 1232,
-    "forks_count": 4106
+    "stargazers_count": 29903,
+    "open_issues_count": 1236,
+    "forks_count": 4110
   },
   {
     "full_name": "Sneeds-Feed-and-Seed/sneedacity",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "tenacityteam/tenacity",
-    "stargazers_count": 478,
+    "stargazers_count": 484,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "teknologi-umum/flourite",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "highlightjs/highlight.js",
-    "stargazers_count": 23217,
-    "open_issues_count": 112,
-    "forks_count": 3517
+    "stargazers_count": 23230,
+    "open_issues_count": 113,
+    "forks_count": 3518
   },
   {
     "full_name": "shikijs/shiki",
-    "stargazers_count": 8983,
+    "stargazers_count": 8996,
     "open_issues_count": 24,
-    "forks_count": 320
+    "forks_count": 321
   },
   {
     "full_name": "glutanimate/pytest-anki",
     "stargazers_count": 23,
     "open_issues_count": 6,
     "forks_count": 7
-  },
-  {
-    "full_name": "tc39/proposal-promise-try",
-    "stargazers_count": 204,
-    "open_issues_count": 2,
-    "forks_count": 9
-  },
-  {
-    "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 4629,
-    "open_issues_count": 55,
-    "forks_count": 220
   }
 ]
