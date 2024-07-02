@@ -1,38 +1,68 @@
 [
   {
+    "full_name": "TryGhost/Koenig",
+    "stargazers_count": 170,
+    "open_issues_count": 14,
+    "forks_count": 58
+  },
+  {
+    "full_name": "TryGhost/Ghost-CLI",
+    "stargazers_count": 448,
+    "open_issues_count": 19,
+    "forks_count": 223
+  },
+  {
+    "full_name": "TryGhost/Ghost",
+    "stargazers_count": 46188,
+    "open_issues_count": 142,
+    "forks_count": 10105
+  },
+  {
+    "full_name": "Jonbroad15/RNAGlib",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "vasturiano/react-force-graph",
+    "stargazers_count": 2027,
+    "open_issues_count": 192,
+    "forks_count": 263
+  },
+  {
     "full_name": "Vencord/Installer",
-    "stargazers_count": 480,
-    "open_issues_count": 10,
-    "forks_count": 61
+    "stargazers_count": 482,
+    "open_issues_count": 11,
+    "forks_count": 62
   },
   {
     "full_name": "SAWARATSUKI/KawaiiLogos",
-    "stargazers_count": 3154,
-    "open_issues_count": 122,
+    "stargazers_count": 3207,
+    "open_issues_count": 125,
     "forks_count": 88
   },
   {
     "full_name": "DominikPieper/obsidian-ReadItLater",
-    "stargazers_count": 367,
+    "stargazers_count": 369,
     "open_issues_count": 33,
-    "forks_count": 25
+    "forks_count": 27
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 5040,
-    "open_issues_count": 64,
-    "forks_count": 94
+    "stargazers_count": 5303,
+    "open_issues_count": 66,
+    "forks_count": 104
   },
   {
     "full_name": "treeder/material",
-    "stargazers_count": 97,
+    "stargazers_count": 101,
     "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "Vencord/plugin-requests",
     "stargazers_count": 27,
-    "open_issues_count": 306,
+    "open_issues_count": 316,
     "forks_count": 4
   },
   {
@@ -43,39 +73,39 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 968,
-    "open_issues_count": 7,
-    "forks_count": 14
+    "stargazers_count": 984,
+    "open_issues_count": 8,
+    "forks_count": 15
   },
   {
     "full_name": "whoeevee/EeveeSpotify",
-    "stargazers_count": 1293,
-    "open_issues_count": 4,
-    "forks_count": 104
+    "stargazers_count": 1316,
+    "open_issues_count": 8,
+    "forks_count": 106
   },
   {
     "full_name": "mtkennerly/ludusavi",
-    "stargazers_count": 2025,
+    "stargazers_count": 2040,
     "open_issues_count": 34,
-    "forks_count": 45
+    "forks_count": 47
   },
   {
     "full_name": "deepseek-ai/DeepSeek-Coder-V2",
-    "stargazers_count": 1095,
+    "stargazers_count": 1152,
     "open_issues_count": 19,
-    "forks_count": 53
+    "forks_count": 59
   },
   {
     "full_name": "delbaoliveira/website",
-    "stargazers_count": 688,
+    "stargazers_count": 691,
     "open_issues_count": 6,
     "forks_count": 102
   },
   {
     "full_name": "pixeltris/TwitchAdSolutions",
-    "stargazers_count": 7157,
+    "stargazers_count": 7189,
     "open_issues_count": 11,
-    "forks_count": 421
+    "forks_count": 423
   },
   {
     "full_name": "rcmtcristian/AnkiMindMark",
@@ -85,7 +115,7 @@
   },
   {
     "full_name": "Jwrede/Anki-KaTeX-Markdown",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 21,
     "forks_count": 5
   },
@@ -97,33 +127,33 @@
   },
   {
     "full_name": "alichtman/shallow-backup",
-    "stargazers_count": 1205,
-    "open_issues_count": 30,
+    "stargazers_count": 1206,
+    "open_issues_count": 28,
     "forks_count": 247
   },
   {
     "full_name": "MichaelCurrin/badge-generator",
-    "stargazers_count": 359,
+    "stargazers_count": 360,
     "open_issues_count": 81,
     "forks_count": 108
   },
   {
     "full_name": "markdown-it/markdown-it",
-    "stargazers_count": 17519,
+    "stargazers_count": 17538,
     "open_issues_count": 14,
-    "forks_count": 1686
+    "forks_count": 1687
   },
   {
     "full_name": "huggingface/diffusers",
-    "stargazers_count": 23780,
-    "open_issues_count": 541,
-    "forks_count": 4907
+    "stargazers_count": 23838,
+    "open_issues_count": 495,
+    "forks_count": 4911
   },
   {
     "full_name": "Bastardkb/Dilemma",
     "stargazers_count": 406,
     "open_issues_count": 1,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "rcmtcristian/yt-dlp",
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "microsoft/winget-cli",
-    "stargazers_count": 22519,
-    "open_issues_count": 1020,
-    "forks_count": 1391
+    "stargazers_count": 22538,
+    "open_issues_count": 1023,
+    "forks_count": 1394
   },
   {
     "full_name": "Nuzair46/Lyrixed",
-    "stargazers_count": 86,
+    "stargazers_count": 90,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "RhysSullivan/shiptalkers",
-    "stargazers_count": 674,
+    "stargazers_count": 676,
     "open_issues_count": 40,
     "forks_count": 36
-  },
-  {
-    "full_name": "spicetify/spicetify-creator",
-    "stargazers_count": 88,
-    "open_issues_count": 2,
-    "forks_count": 7
-  },
-  {
-    "full_name": "JunkFood02/Seal",
-    "stargazers_count": 8506,
-    "open_issues_count": 204,
-    "forks_count": 396
-  },
-  {
-    "full_name": "lencx/Noi",
-    "stargazers_count": 5389,
-    "open_issues_count": 65,
-    "forks_count": 385
-  },
-  {
-    "full_name": "lencx/nofwl",
-    "stargazers_count": 4255,
-    "open_issues_count": 84,
-    "forks_count": 400
-  },
-  {
-    "full_name": "cscape/vitalsource-dl",
-    "stargazers_count": 42,
-    "open_issues_count": 7,
-    "forks_count": 20
   }
 ]
