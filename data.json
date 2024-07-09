@@ -1,25 +1,25 @@
 [
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 25042,
-    "open_issues_count": 132,
+    "stargazers_count": 25062,
+    "open_issues_count": 119,
     "forks_count": 3938
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 33,
-    "open_issues_count": 57,
+    "open_issues_count": 56,
     "forks_count": 37
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2616,
+    "stargazers_count": 2618,
     "open_issues_count": 31,
     "forks_count": 241
   },
   {
     "full_name": "sandoche/Mobile-app-landingpage-template",
-    "stargazers_count": 718,
+    "stargazers_count": 719,
     "open_issues_count": 15,
     "forks_count": 203
   },
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 925,
     "open_issues_count": 0,
-    "forks_count": 923
+    "forks_count": 928
   }
 ]
