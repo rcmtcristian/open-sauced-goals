@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "gitatmax/printsidian",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wide-video/app-ffmpeg",
+    "stargazers_count": 17,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "brandonmcconnell/tailwindcss-multi",
     "stargazers_count": 165,
     "open_issues_count": 0,
@@ -13,9 +25,9 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 2451,
+    "stargazers_count": 2480,
     "open_issues_count": 0,
-    "forks_count": 214
+    "forks_count": 217
   },
   {
     "full_name": "zakkor/lluminous",
@@ -25,9 +37,9 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 11371,
-    "open_issues_count": 140,
-    "forks_count": 440
+    "stargazers_count": 12081,
+    "open_issues_count": 143,
+    "forks_count": 478
   },
   {
     "full_name": "hihayk/scale",
@@ -37,9 +49,9 @@
   },
   {
     "full_name": "caprover/caprover",
-    "stargazers_count": 12652,
-    "open_issues_count": 132,
-    "forks_count": 809
+    "stargazers_count": 12666,
+    "open_issues_count": 133,
+    "forks_count": 810
   },
   {
     "full_name": "0xroko/obsidian-arena-plugin",
@@ -50,20 +62,20 @@
   {
     "full_name": "TryGhost/Koenig",
     "stargazers_count": 175,
-    "open_issues_count": 14,
-    "forks_count": 58
+    "open_issues_count": 16,
+    "forks_count": 59
   },
   {
     "full_name": "TryGhost/Ghost-CLI",
     "stargazers_count": 448,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 223
   },
   {
     "full_name": "TryGhost/Ghost",
-    "stargazers_count": 46252,
-    "open_issues_count": 143,
-    "forks_count": 10106
+    "stargazers_count": 46280,
+    "open_issues_count": 149,
+    "forks_count": 10112
   },
   {
     "full_name": "Jonbroad15/RNAGlib",
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "vasturiano/react-force-graph",
-    "stargazers_count": 2032,
+    "stargazers_count": 2041,
     "open_issues_count": 192,
     "forks_count": 263
   },
@@ -81,13 +93,13 @@
     "full_name": "Vencord/Installer",
     "stargazers_count": 487,
     "open_issues_count": 11,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "SAWARATSUKI/KawaiiLogos",
-    "stargazers_count": 3288,
+    "stargazers_count": 3311,
     "open_issues_count": 126,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "DominikPieper/obsidian-ReadItLater",
@@ -97,20 +109,20 @@
   },
   {
     "full_name": "MrKai77/Loop",
-    "stargazers_count": 5452,
-    "open_issues_count": 57,
+    "stargazers_count": 5509,
+    "open_issues_count": 55,
     "forks_count": 108
   },
   {
     "full_name": "treeder/material",
-    "stargazers_count": 102,
+    "stargazers_count": 103,
     "open_issues_count": 8,
     "forks_count": 6
   },
   {
     "full_name": "Vencord/plugin-requests",
-    "stargazers_count": 27,
-    "open_issues_count": 337,
+    "stargazers_count": 26,
+    "open_issues_count": 328,
     "forks_count": 5
   },
   {
@@ -121,37 +133,37 @@
   },
   {
     "full_name": "pyoncord/Bunny",
-    "stargazers_count": 1008,
-    "open_issues_count": 9,
+    "stargazers_count": 1024,
+    "open_issues_count": 11,
     "forks_count": 15
   },
   {
     "full_name": "whoeevee/EeveeSpotify",
-    "stargazers_count": 1368,
-    "open_issues_count": 3,
-    "forks_count": 109
+    "stargazers_count": 1397,
+    "open_issues_count": 5,
+    "forks_count": 110
   },
   {
     "full_name": "mtkennerly/ludusavi",
-    "stargazers_count": 2059,
+    "stargazers_count": 2066,
     "open_issues_count": 35,
     "forks_count": 48
   },
   {
     "full_name": "deepseek-ai/DeepSeek-Coder-V2",
-    "stargazers_count": 1265,
-    "open_issues_count": 18,
-    "forks_count": 63
+    "stargazers_count": 1318,
+    "open_issues_count": 20,
+    "forks_count": 65
   },
   {
     "full_name": "delbaoliveira/website",
-    "stargazers_count": 695,
+    "stargazers_count": 694,
     "open_issues_count": 6,
     "forks_count": 102
   },
   {
     "full_name": "pixeltris/TwitchAdSolutions",
-    "stargazers_count": 7228,
+    "stargazers_count": 7241,
     "open_issues_count": 12,
     "forks_count": 425
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 74,
     "open_issues_count": 21,
     "forks_count": 5
-  },
-  {
-    "full_name": "chetanraj/awesome-github-badges",
-    "stargazers_count": 145,
-    "open_issues_count": 1,
-    "forks_count": 55
-  },
-  {
-    "full_name": "alichtman/shallow-backup",
-    "stargazers_count": 1207,
-    "open_issues_count": 28,
-    "forks_count": 247
   }
 ]
