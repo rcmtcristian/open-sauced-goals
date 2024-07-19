@@ -1,9 +1,87 @@
 [
   {
-    "full_name": "argonautcode/animal-proc-anim",
-    "stargazers_count": 70,
+    "full_name": "rcmtcristian/landlines",
+    "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 0
+  },
+  {
+    "full_name": "hsluv/hsluv",
+    "stargazers_count": 1262,
+    "open_issues_count": 18,
+    "forks_count": 55
+  },
+  {
+    "full_name": "kgolid/chromotome",
+    "stargazers_count": 343,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
+    "full_name": "meodai/color-name-lists",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "meodai/wikipedia-color-names",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Quickmarble/censor",
+    "stargazers_count": 56,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "googleartsculture/art-palette",
+    "stargazers_count": 181,
+    "open_issues_count": 1,
+    "forks_count": 16
+  },
+  {
+    "full_name": "meodai/palette-aldente",
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "davo/Color-Standards-and-Color-Nomenclature",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "gka/chroma.js",
+    "stargazers_count": 9926,
+    "open_issues_count": 92,
+    "forks_count": 543
+  },
+  {
+    "full_name": "meodai/color-names",
+    "stargazers_count": 2335,
+    "open_issues_count": 9,
+    "forks_count": 174
+  },
+  {
+    "full_name": "0atman/noboilerplate",
+    "stargazers_count": 3205,
+    "open_issues_count": 4,
+    "forks_count": 144
+  },
+  {
+    "full_name": "rcmtcristian/animal-proc-anim",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "argonautcode/animal-proc-anim",
+    "stargazers_count": 120,
+    "open_issues_count": 1,
+    "forks_count": 14
   },
   {
     "full_name": "rcmtcristian/Spotify-Zephyr",
@@ -21,17 +99,17 @@
     "full_name": "ofZach/landlines",
     "stargazers_count": 287,
     "open_issues_count": 4,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "dddddddddzzzz/OpenStories",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "iam-robin/personal-website",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -43,7 +121,7 @@
   },
   {
     "full_name": "wide-video/app-ffmpeg",
-    "stargazers_count": 20,
+    "stargazers_count": 24,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -61,122 +139,44 @@
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 2499,
+    "stargazers_count": 2518,
     "open_issues_count": 0,
     "forks_count": 220
   },
   {
     "full_name": "zakkor/lluminous",
-    "stargazers_count": 177,
+    "stargazers_count": 179,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 12458,
-    "open_issues_count": 161,
-    "forks_count": 496
+    "stargazers_count": 12735,
+    "open_issues_count": 164,
+    "forks_count": 506
   },
   {
     "full_name": "hihayk/scale",
-    "stargazers_count": 1616,
+    "stargazers_count": 1617,
     "open_issues_count": 38,
     "forks_count": 152
   },
   {
     "full_name": "caprover/caprover",
-    "stargazers_count": 12685,
-    "open_issues_count": 133,
-    "forks_count": 815
+    "stargazers_count": 12700,
+    "open_issues_count": 132,
+    "forks_count": 817
   },
   {
     "full_name": "0xroko/obsidian-arena-plugin",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "TryGhost/Koenig",
     "stargazers_count": 177,
-    "open_issues_count": 16,
-    "forks_count": 59
-  },
-  {
-    "full_name": "TryGhost/Ghost-CLI",
-    "stargazers_count": 448,
-    "open_issues_count": 21,
-    "forks_count": 223
-  },
-  {
-    "full_name": "TryGhost/Ghost",
-    "stargazers_count": 46317,
-    "open_issues_count": 153,
-    "forks_count": 10113
-  },
-  {
-    "full_name": "Jonbroad15/RNAGlib",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "vasturiano/react-force-graph",
-    "stargazers_count": 2049,
-    "open_issues_count": 191,
-    "forks_count": 263
-  },
-  {
-    "full_name": "Vencord/Installer",
-    "stargazers_count": 486,
-    "open_issues_count": 11,
-    "forks_count": 64
-  },
-  {
-    "full_name": "SAWARATSUKI/KawaiiLogos",
-    "stargazers_count": 3341,
-    "open_issues_count": 126,
-    "forks_count": 91
-  },
-  {
-    "full_name": "DominikPieper/obsidian-ReadItLater",
-    "stargazers_count": 373,
-    "open_issues_count": 33,
-    "forks_count": 28
-  },
-  {
-    "full_name": "MrKai77/Loop",
-    "stargazers_count": 5546,
-    "open_issues_count": 58,
-    "forks_count": 108
-  },
-  {
-    "full_name": "treeder/material",
-    "stargazers_count": 103,
-    "open_issues_count": 8,
-    "forks_count": 6
-  },
-  {
-    "full_name": "Vencord/plugin-requests",
-    "stargazers_count": 26,
-    "open_issues_count": 327,
-    "forks_count": 6
-  },
-  {
-    "full_name": "mdalvi/building-an-ai",
-    "stargazers_count": 15,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "pyoncord/Bunny",
-    "stargazers_count": 1047,
-    "open_issues_count": 11,
-    "forks_count": 15
-  },
-  {
-    "full_name": "whoeevee/EeveeSpotify",
-    "stargazers_count": 1460,
-    "open_issues_count": 8,
-    "forks_count": 116
+    "open_issues_count": 17,
+    "forks_count": 60
   }
 ]
