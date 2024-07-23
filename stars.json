@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "importRyan/Oklab",
+    "stargazers_count": 34,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "alltom/oklab",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Evercoder/culori",
+    "stargazers_count": 832,
+    "open_issues_count": 17,
+    "forks_count": 31
+  },
+  {
+    "full_name": "sereneblue/awesome-oss",
+    "stargazers_count": 1267,
+    "open_issues_count": 1,
+    "forks_count": 130
+  },
+  {
+    "full_name": "Ellpeck/ObsidianCustomFrames",
+    "stargazers_count": 520,
+    "open_issues_count": 38,
+    "forks_count": 24
+  },
+  {
+    "full_name": "pissang/oidn-web",
+    "stargazers_count": 198,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "maaslalani/invoice",
+    "stargazers_count": 1779,
+    "open_issues_count": 26,
+    "forks_count": 75
+  },
+  {
+    "full_name": "catppuccin/catppuccin",
+    "stargazers_count": 14005,
+    "open_issues_count": 28,
+    "forks_count": 250
+  },
+  {
     "full_name": "rcmtcristian/landlines",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,7 +55,7 @@
   },
   {
     "full_name": "hsluv/hsluv",
-    "stargazers_count": 1262,
+    "stargazers_count": 1263,
     "open_issues_count": 18,
     "forks_count": 55
   },
@@ -31,7 +79,7 @@
   },
   {
     "full_name": "Quickmarble/censor",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -55,21 +103,21 @@
   },
   {
     "full_name": "gka/chroma.js",
-    "stargazers_count": 9926,
+    "stargazers_count": 9929,
     "open_issues_count": 92,
     "forks_count": 543
   },
   {
     "full_name": "meodai/color-names",
-    "stargazers_count": 2335,
+    "stargazers_count": 2333,
     "open_issues_count": 9,
-    "forks_count": 174
+    "forks_count": 176
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 3205,
-    "open_issues_count": 4,
-    "forks_count": 144
+    "stargazers_count": 3210,
+    "open_issues_count": 5,
+    "forks_count": 145
   },
   {
     "full_name": "rcmtcristian/animal-proc-anim",
@@ -79,9 +127,9 @@
   },
   {
     "full_name": "argonautcode/animal-proc-anim",
-    "stargazers_count": 120,
+    "stargazers_count": 157,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 16
   },
   {
     "full_name": "rcmtcristian/Spotify-Zephyr",
@@ -103,7 +151,7 @@
   },
   {
     "full_name": "dddddddddzzzz/OpenStories",
-    "stargazers_count": 207,
+    "stargazers_count": 210,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -127,56 +175,8 @@
   },
   {
     "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 165,
+    "stargazers_count": 167,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "adamfuhrer/shader-screensaver",
-    "stargazers_count": 29,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 2518,
-    "open_issues_count": 0,
-    "forks_count": 220
-  },
-  {
-    "full_name": "zakkor/lluminous",
-    "stargazers_count": 179,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 12735,
-    "open_issues_count": 164,
-    "forks_count": 506
-  },
-  {
-    "full_name": "hihayk/scale",
-    "stargazers_count": 1617,
-    "open_issues_count": 38,
-    "forks_count": 152
-  },
-  {
-    "full_name": "caprover/caprover",
-    "stargazers_count": 12700,
-    "open_issues_count": 132,
-    "forks_count": 817
-  },
-  {
-    "full_name": "0xroko/obsidian-arena-plugin",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "TryGhost/Koenig",
-    "stargazers_count": 177,
-    "open_issues_count": 17,
-    "forks_count": 60
   }
 ]
