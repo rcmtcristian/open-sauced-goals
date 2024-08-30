@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "Ocramius/ProxyManager",
+    "stargazers_count": 4957,
+    "open_issues_count": 50,
+    "forks_count": 188
+  },
+  {
+    "full_name": "eliot-akira/neko",
+    "stargazers_count": 77,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "akornor/playlistor",
+    "stargazers_count": 447,
+    "open_issues_count": 10,
+    "forks_count": 35
+  },
+  {
     "full_name": "jackyzha0/docker-explained",
     "stargazers_count": 125,
     "open_issues_count": 15,
@@ -25,13 +43,13 @@
   },
   {
     "full_name": "saoudrizwan/claude-dev",
-    "stargazers_count": 2556,
-    "open_issues_count": 80,
-    "forks_count": 254
+    "stargazers_count": 2691,
+    "open_issues_count": 87,
+    "forks_count": 273
   },
   {
     "full_name": "prest/prest",
-    "stargazers_count": 4183,
+    "stargazers_count": 4188,
     "open_issues_count": 134,
     "forks_count": 281
   },
@@ -43,7 +61,7 @@
   },
   {
     "full_name": "twentyhq/favicon",
-    "stargazers_count": 220,
+    "stargazers_count": 225,
     "open_issues_count": 3,
     "forks_count": 18
   },
@@ -61,32 +79,32 @@
   },
   {
     "full_name": "getlago/lago",
-    "stargazers_count": 6710,
+    "stargazers_count": 6753,
     "open_issues_count": 10,
-    "forks_count": 288
+    "forks_count": 291
   },
   {
     "full_name": "taishikato/chatsage",
-    "stargazers_count": 188,
+    "stargazers_count": 189,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "nanovms/nanos",
     "stargazers_count": 2573,
-    "open_issues_count": 73,
+    "open_issues_count": 74,
     "forks_count": 133
   },
   {
     "full_name": "kepano/flexoki-obsidian",
-    "stargazers_count": 132,
+    "stargazers_count": 134,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "uwdata/mosaic",
-    "stargazers_count": 730,
-    "open_issues_count": 48,
+    "stargazers_count": 732,
+    "open_issues_count": 50,
     "forks_count": 42
   },
   {
@@ -109,14 +127,14 @@
   },
   {
     "full_name": "bubkoo/html-to-image",
-    "stargazers_count": 5567,
+    "stargazers_count": 5582,
     "open_issues_count": 139,
     "forks_count": 519
   },
   {
     "full_name": "nksaraf/vinxi",
-    "stargazers_count": 1656,
-    "open_issues_count": 71,
+    "stargazers_count": 1688,
+    "open_issues_count": 74,
     "forks_count": 67
   },
   {
@@ -139,9 +157,9 @@
   },
   {
     "full_name": "vercel-labs/book-inventory",
-    "stargazers_count": 601,
+    "stargazers_count": 622,
     "open_issues_count": 1,
-    "forks_count": 93
+    "forks_count": 96
   },
   {
     "full_name": "lucagrippa/obsidian-ai-tagger",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "Amine-LG/Obsidian-Text-Transformer-LocalAI",
-    "stargazers_count": 23,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "scambier/obsidian-text-extractor",
-    "stargazers_count": 301,
+    "stargazers_count": 303,
     "open_issues_count": 17,
     "forks_count": 15
-  },
-  {
-    "full_name": "pfrankov/obsidian-local-gpt",
-    "stargazers_count": 251,
-    "open_issues_count": 4,
-    "forks_count": 18
-  },
-  {
-    "full_name": "brianpetro/obsidian-smart-connections",
-    "stargazers_count": 2409,
-    "open_issues_count": 213,
-    "forks_count": 163
-  },
-  {
-    "full_name": "mudler/LocalAI",
-    "stargazers_count": 22816,
-    "open_issues_count": 359,
-    "forks_count": 1736
   }
 ]
