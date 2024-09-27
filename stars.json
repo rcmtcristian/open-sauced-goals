@@ -1,31 +1,49 @@
 [
   {
+    "full_name": "vllm-project/vllm",
+    "stargazers_count": 27466,
+    "open_issues_count": 2020,
+    "forks_count": 4039
+  },
+  {
+    "full_name": "deathau/obsidian-snippets",
+    "stargazers_count": 785,
+    "open_issues_count": 10,
+    "forks_count": 140
+  },
+  {
+    "full_name": "Dmytro-Shulha/obsidian-css-snippets",
+    "stargazers_count": 1374,
+    "open_issues_count": 6,
+    "forks_count": 149
+  },
+  {
     "full_name": "mmistakes/minimal-mistakes",
-    "stargazers_count": 12257,
-    "open_issues_count": 26,
-    "forks_count": 25391
+    "stargazers_count": 12275,
+    "open_issues_count": 24,
+    "forks_count": 25406
   },
   {
     "full_name": "TryGhost/Themes",
     "stargazers_count": 70,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 59
   },
   {
     "full_name": "TryGhost/Starter",
-    "stargazers_count": 397,
-    "open_issues_count": 15,
-    "forks_count": 202
+    "stargazers_count": 398,
+    "open_issues_count": 14,
+    "forks_count": 201
   },
   {
     "full_name": "EltonChou/TwitterMediaHarvest",
     "stargazers_count": 420,
-    "open_issues_count": 18,
+    "open_issues_count": 17,
     "forks_count": 35
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 48966,
+    "stargazers_count": 48987,
     "open_issues_count": 186,
     "forks_count": 9954
   },
@@ -38,7 +56,7 @@
   {
     "full_name": "HubSpot/hubspot-cms-vscode",
     "stargazers_count": 64,
-    "open_issues_count": 28,
+    "open_issues_count": 27,
     "forks_count": 20
   },
   {
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "replete/obsidian-minimal-theme-css-snippets",
-    "stargazers_count": 316,
+    "stargazers_count": 318,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -61,13 +79,13 @@
   },
   {
     "full_name": "PKM-er/media-extended",
-    "stargazers_count": 613,
+    "stargazers_count": 614,
     "open_issues_count": 97,
     "forks_count": 52
   },
   {
     "full_name": "kepano/obsidian-minimal-publish",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 4,
     "forks_count": 10
   },
@@ -79,19 +97,19 @@
   },
   {
     "full_name": "r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets",
-    "stargazers_count": 592,
+    "stargazers_count": 599,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "hydrusnetwork/hydrus",
-    "stargazers_count": 2344,
-    "open_issues_count": 678,
-    "forks_count": 153
+    "stargazers_count": 2349,
+    "open_issues_count": 680,
+    "forks_count": 154
   },
   {
     "full_name": "kyrie25/spicetify-oneko",
-    "stargazers_count": 100,
+    "stargazers_count": 102,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -109,39 +127,39 @@
   },
   {
     "full_name": "adryd325/oneko.js",
-    "stargazers_count": 599,
-    "open_issues_count": 6,
-    "forks_count": 57
+    "stargazers_count": 610,
+    "open_issues_count": 8,
+    "forks_count": 59
   },
   {
     "full_name": "moudey/Shell",
-    "stargazers_count": 3327,
+    "stargazers_count": 3334,
     "open_issues_count": 107,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "BluePointLilac/ContextMenuManager",
-    "stargazers_count": 12093,
+    "stargazers_count": 12118,
     "open_issues_count": 111,
-    "forks_count": 614
+    "forks_count": 615
   },
   {
     "full_name": "ikas-mc/ContextMenuForWindows11",
-    "stargazers_count": 1862,
-    "open_issues_count": 23,
+    "stargazers_count": 1867,
+    "open_issues_count": 22,
     "forks_count": 90
   },
   {
     "full_name": "shadowmoose/RedditDownloader",
-    "stargazers_count": 1114,
+    "stargazers_count": 1112,
     "open_issues_count": 107,
     "forks_count": 101
   },
   {
     "full_name": "strapi/nextjs-corporate-starter",
-    "stargazers_count": 1063,
+    "stargazers_count": 1072,
     "open_issues_count": 20,
-    "forks_count": 332
+    "forks_count": 335
   },
   {
     "full_name": "christophlesant/go-next-app",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "Ocramius/ProxyManager",
-    "stargazers_count": 4954,
+    "stargazers_count": 4956,
     "open_issues_count": 50,
     "forks_count": 188
   },
   {
     "full_name": "eliot-akira/neko",
-    "stargazers_count": 83,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "akornor/playlistor",
-    "stargazers_count": 456,
-    "open_issues_count": 10,
-    "forks_count": 36
-  },
-  {
-    "full_name": "jackyzha0/docker-explained",
-    "stargazers_count": 125,
-    "open_issues_count": 15,
-    "forks_count": 11
-  },
-  {
-    "full_name": "edwardtufte/presenter",
-    "stargazers_count": 54,
-    "open_issues_count": 1,
-    "forks_count": 10
   }
 ]
