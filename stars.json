@@ -1,14 +1,38 @@
 [
   {
+    "full_name": "FlorianWoelki/obsidian-iconize",
+    "stargazers_count": 864,
+    "open_issues_count": 121,
+    "forks_count": 59
+  },
+  {
+    "full_name": "SirDank/dank.tool",
+    "stargazers_count": 108,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Team-xManager/xManager",
+    "stargazers_count": 9872,
+    "open_issues_count": 31,
+    "forks_count": 276
+  },
+  {
+    "full_name": "fcaronte/KingInstaller",
+    "stargazers_count": 254,
+    "open_issues_count": 12,
+    "forks_count": 8
+  },
+  {
     "full_name": "fr0tt/benotes",
-    "stargazers_count": 735,
+    "stargazers_count": 737,
     "open_issues_count": 24,
     "forks_count": 48
   },
   {
     "full_name": "replicate/cog-flux",
-    "stargazers_count": 228,
-    "open_issues_count": 9,
+    "stargazers_count": 241,
+    "open_issues_count": 13,
     "forks_count": 22
   },
   {
@@ -37,19 +61,19 @@
   },
   {
     "full_name": "kovidgoyal/calibre",
-    "stargazers_count": 19533,
+    "stargazers_count": 19556,
     "open_issues_count": 3,
-    "forks_count": 2258
+    "forks_count": 2256
   },
   {
     "full_name": "erickutcher/httpdownloader",
-    "stargazers_count": 559,
-    "open_issues_count": 99,
+    "stargazers_count": 561,
+    "open_issues_count": 100,
     "forks_count": 62
   },
   {
     "full_name": "catppuccin/calibre",
-    "stargazers_count": 25,
+    "stargazers_count": 27,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -73,9 +97,9 @@
   },
   {
     "full_name": "replicate/fast-flux-demo",
-    "stargazers_count": 67,
+    "stargazers_count": 76,
     "open_issues_count": 1,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "plamere/OrganizeYourMusic",
@@ -85,27 +109,27 @@
   },
   {
     "full_name": "ukrbublik/react-awesome-query-builder",
-    "stargazers_count": 1979,
-    "open_issues_count": 123,
-    "forks_count": 494
+    "stargazers_count": 1984,
+    "open_issues_count": 125,
+    "forks_count": 495
   },
   {
     "full_name": "feder-cr/Auto_Jobs_Applier_AIHawk",
-    "stargazers_count": 17546,
-    "open_issues_count": 78,
-    "forks_count": 2549
+    "stargazers_count": 17722,
+    "open_issues_count": 87,
+    "forks_count": 2597
   },
   {
     "full_name": "Orbmu2k/nvidiaProfileInspector",
-    "stargazers_count": 3509,
+    "stargazers_count": 3513,
     "open_issues_count": 104,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "maplibre/maplibre-gl-js",
-    "stargazers_count": 6459,
-    "open_issues_count": 301,
-    "forks_count": 691
+    "stargazers_count": 6475,
+    "open_issues_count": 304,
+    "forks_count": 694
   },
   {
     "full_name": "ScattrdBlade/bigFileUpload",
@@ -115,25 +139,25 @@
   },
   {
     "full_name": "t3dotgg/quickpic",
-    "stargazers_count": 223,
+    "stargazers_count": 229,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "SYSTRAN/faster-whisper",
-    "stargazers_count": 11867,
+    "stargazers_count": 11922,
     "open_issues_count": 324,
-    "forks_count": 995
+    "forks_count": 999
   },
   {
     "full_name": "pluja/whishper",
-    "stargazers_count": 1496,
+    "stargazers_count": 1510,
     "open_issues_count": 62,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "DominicBreuker/stego-toolkit",
-    "stargazers_count": 2381,
+    "stargazers_count": 2385,
     "open_issues_count": 14,
     "forks_count": 311
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 124,
     "open_issues_count": 6,
     "forks_count": 60
-  },
-  {
-    "full_name": "goniszewski/grimoire-web-extension",
-    "stargazers_count": 44,
-    "open_issues_count": 4,
-    "forks_count": 4
-  },
-  {
-    "full_name": "viliusle/smart-table-sort-bookmarklet",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Y2Z/monolith",
-    "stargazers_count": 11022,
-    "open_issues_count": 61,
-    "forks_count": 316
-  },
-  {
-    "full_name": "goniszewski/grimoire",
-    "stargazers_count": 2014,
-    "open_issues_count": 12,
-    "forks_count": 59
   }
 ]
