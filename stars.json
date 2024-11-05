@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "lewisHeart/Floorp-Configs",
+    "stargazers_count": 92,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "jshph/obsidian-enzyme",
+    "stargazers_count": 34,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "xiph/rnnoise",
-    "stargazers_count": 4095,
-    "open_issues_count": 176,
+    "stargazers_count": 4103,
+    "open_issues_count": 177,
     "forks_count": 896
   },
   {
     "full_name": "Floorp-Projects/Floorp",
-    "stargazers_count": 5917,
+    "stargazers_count": 5932,
     "open_issues_count": 55,
     "forks_count": 165
   },
   {
     "full_name": "acoular/acoular",
     "stargazers_count": 489,
-    "open_issues_count": 45,
+    "open_issues_count": 46,
     "forks_count": 128
   },
   {
     "full_name": "TfTHacker/DashboardPlusPlus",
-    "stargazers_count": 826,
+    "stargazers_count": 830,
     "open_issues_count": 0,
-    "forks_count": 386
+    "forks_count": 387
   },
   {
     "full_name": "shoonoise/obsidian-home-showcase",
@@ -37,21 +49,21 @@
   },
   {
     "full_name": "Flow-Launcher/Flow.Launcher",
-    "stargazers_count": 8041,
-    "open_issues_count": 217,
+    "stargazers_count": 8073,
+    "open_issues_count": 220,
     "forks_count": 314
   },
   {
     "full_name": "f3d-app/f3d",
-    "stargazers_count": 2865,
-    "open_issues_count": 209,
-    "forks_count": 206
+    "stargazers_count": 2868,
+    "open_issues_count": 212,
+    "forks_count": 207
   },
   {
     "full_name": "GreemDev/Ryujinx",
-    "stargazers_count": 2613,
-    "open_issues_count": 50,
-    "forks_count": 176
+    "stargazers_count": 3743,
+    "open_issues_count": 74,
+    "forks_count": 279
   },
   {
     "full_name": "rcmtcristian/koalas",
@@ -61,13 +73,13 @@
   },
   {
     "full_name": "tradex-app/TradeX-chart",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 6,
     "forks_count": 17
   },
   {
     "full_name": "jd/tenacity",
-    "stargazers_count": 6693,
+    "stargazers_count": 6714,
     "open_issues_count": 115,
     "forks_count": 281
   },
@@ -79,104 +91,92 @@
   },
   {
     "full_name": "witalihirsch/qBitTorrent-fluent-theme",
-    "stargazers_count": 1145,
+    "stargazers_count": 1150,
     "open_issues_count": 13,
     "forks_count": 27
   },
   {
     "full_name": "MicaForEveryone/MicaForEveryone",
-    "stargazers_count": 3727,
-    "open_issues_count": 130,
-    "forks_count": 136
+    "stargazers_count": 3748,
+    "open_issues_count": 131,
+    "forks_count": 137
   },
   {
     "full_name": "maboroshin/qBittorrentDarktheme",
-    "stargazers_count": 1164,
+    "stargazers_count": 1167,
     "open_issues_count": 18,
     "forks_count": 48
   },
   {
     "full_name": "catppuccin/qbittorrent",
-    "stargazers_count": 506,
+    "stargazers_count": 515,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "cocopon/iceberg.vim",
-    "stargazers_count": 2220,
+    "stargazers_count": 2221,
     "open_issues_count": 10,
     "forks_count": 132
   },
   {
     "full_name": "dempfi/ayu",
-    "stargazers_count": 4286,
+    "stargazers_count": 4284,
     "open_issues_count": 35,
-    "forks_count": 322
+    "forks_count": 323
   },
   {
     "full_name": "fishttp/awesome-bluesky",
-    "stargazers_count": 286,
+    "stargazers_count": 290,
     "open_issues_count": 5,
     "forks_count": 13
   },
   {
     "full_name": "securisec/chepy",
-    "stargazers_count": 922,
+    "stargazers_count": 921,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "mathix420/free-the-web-apps",
-    "stargazers_count": 340,
+    "stargazers_count": 348,
     "open_issues_count": 11,
     "forks_count": 6
   },
   {
     "full_name": "mylar3/mylar3",
-    "stargazers_count": 1073,
+    "stargazers_count": 1075,
     "open_issues_count": 201,
-    "forks_count": 119
+    "forks_count": 118
   },
   {
     "full_name": "ScoopInstaller/Install",
-    "stargazers_count": 771,
+    "stargazers_count": 773,
     "open_issues_count": 23,
     "forks_count": 98
   },
   {
     "full_name": "dokkaner/teemii",
-    "stargazers_count": 318,
+    "stargazers_count": 319,
     "open_issues_count": 19,
     "forks_count": 21
   },
   {
     "full_name": "stivenhacker/GhostStrike",
-    "stargazers_count": 730,
+    "stargazers_count": 731,
     "open_issues_count": 0,
     "forks_count": 87
   },
   {
     "full_name": "theJayTea/WritingTools",
-    "stargazers_count": 452,
-    "open_issues_count": 16,
-    "forks_count": 24
+    "stargazers_count": 474,
+    "open_issues_count": 19,
+    "forks_count": 25
   },
   {
     "full_name": "Kareadita/Kavita",
-    "stargazers_count": 6285,
-    "open_issues_count": 179,
-    "forks_count": 327
-  },
-  {
-    "full_name": "manga-download/hakuneko",
-    "stargazers_count": 4718,
-    "open_issues_count": 608,
-    "forks_count": 469
-  },
-  {
-    "full_name": "FlorianWoelki/obsidian-iconize",
-    "stargazers_count": 881,
-    "open_issues_count": 122,
-    "forks_count": 61
+    "stargazers_count": 6312,
+    "open_issues_count": 153,
+    "forks_count": 328
   }
 ]
