@@ -1,79 +1,115 @@
 [
   {
+    "full_name": "doubledherin/Audio_Snowflake",
+    "stargazers_count": 61,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
+    "full_name": "nature-of-code/noc-book-2",
+    "stargazers_count": 1180,
+    "open_issues_count": 8,
+    "forks_count": 82
+  },
+  {
+    "full_name": "user154lt/ELK-BLEDOM-Command-Util",
+    "stargazers_count": 18,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "eggplants/deepl-cli",
+    "stargazers_count": 260,
+    "open_issues_count": 5,
+    "forks_count": 18
+  },
+  {
+    "full_name": "HiEventsDev/Hi.Events",
+    "stargazers_count": 2232,
+    "open_issues_count": 43,
+    "forks_count": 196
+  },
+  {
+    "full_name": "uwu/neptune",
+    "stargazers_count": 156,
+    "open_issues_count": 8,
+    "forks_count": 7
+  },
+  {
     "full_name": "ad-si/awesome-music-production",
-    "stargazers_count": 1030,
+    "stargazers_count": 1033,
     "open_issues_count": 3,
     "forks_count": 80
   },
   {
     "full_name": "AkaneTan/Gramophone",
-    "stargazers_count": 1149,
+    "stargazers_count": 1158,
     "open_issues_count": 66,
     "forks_count": 61
   },
   {
     "full_name": "namidaco/namida",
-    "stargazers_count": 2288,
-    "open_issues_count": 61,
+    "stargazers_count": 2302,
+    "open_issues_count": 60,
     "forks_count": 139
   },
   {
     "full_name": "RuurdBijlsma/Music",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "hiaaryan/wora",
-    "stargazers_count": 393,
+    "stargazers_count": 397,
     "open_issues_count": 9,
     "forks_count": 16
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 8541,
-    "open_issues_count": 110,
+    "stargazers_count": 8544,
+    "open_issues_count": 111,
     "forks_count": 218
   },
   {
     "full_name": "MoonWalker440/Music-Megathread",
-    "stargazers_count": 712,
+    "stargazers_count": 718,
     "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "Twometer/NoFences",
-    "stargazers_count": 338,
+    "stargazers_count": 342,
     "open_issues_count": 28,
     "forks_count": 70
   },
   {
     "full_name": "srwi/EverythingToolbar",
-    "stargazers_count": 10037,
+    "stargazers_count": 10056,
     "open_issues_count": 36,
-    "forks_count": 435
+    "forks_count": 434
   },
   {
     "full_name": "deniscerri/ytdlnis",
-    "stargazers_count": 4096,
-    "open_issues_count": 20,
-    "forks_count": 144
+    "stargazers_count": 4104,
+    "open_issues_count": 21,
+    "forks_count": 145
   },
   {
     "full_name": "strapi/LaunchPad",
-    "stargazers_count": 100,
-    "open_issues_count": 4,
-    "forks_count": 25
+    "stargazers_count": 107,
+    "open_issues_count": 6,
+    "forks_count": 26
   },
   {
     "full_name": "marcomaroni-github/twitter-to-bluesky",
-    "stargazers_count": 414,
-    "open_issues_count": 27,
-    "forks_count": 27
+    "stargazers_count": 465,
+    "open_issues_count": 30,
+    "forks_count": 35
   },
   {
     "full_name": "download-directory/download-directory.github.io",
-    "stargazers_count": 1257,
+    "stargazers_count": 1258,
     "open_issues_count": 3,
     "forks_count": 117
   },
@@ -86,97 +122,61 @@
   {
     "full_name": "logonoff/obsidian-inline-spoilers",
     "stargazers_count": 8,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "linuxserver/docker-bookstack",
-    "stargazers_count": 812,
-    "open_issues_count": 5,
+    "stargazers_count": 814,
+    "open_issues_count": 4,
     "forks_count": 109
   },
   {
     "full_name": "rommapp/romm",
-    "stargazers_count": 2347,
-    "open_issues_count": 140,
-    "forks_count": 95
+    "stargazers_count": 2371,
+    "open_issues_count": 138,
+    "forks_count": 96
   },
   {
     "full_name": "LibreHardwareMonitor/LibreHardwareMonitor",
-    "stargazers_count": 5727,
-    "open_issues_count": 449,
-    "forks_count": 674
+    "stargazers_count": 5742,
+    "open_issues_count": 451,
+    "forks_count": 678
   },
   {
     "full_name": "mgmeyers/obsidian-kanban",
-    "stargazers_count": 3240,
-    "open_issues_count": 467,
-    "forks_count": 191
+    "stargazers_count": 3245,
+    "open_issues_count": 468,
+    "forks_count": 193
   },
   {
     "full_name": "kitschpatrol/yanki-obsidian",
-    "stargazers_count": 38,
-    "open_issues_count": 5,
+    "stargazers_count": 39,
+    "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "ObsidianToAnki/Obsidian_to_Anki",
-    "stargazers_count": 1543,
-    "open_issues_count": 227,
+    "stargazers_count": 1546,
+    "open_issues_count": 228,
     "forks_count": 136
   },
   {
     "full_name": "tensorzero/tensorzero",
-    "stargazers_count": 581,
-    "open_issues_count": 87,
-    "forks_count": 26
+    "stargazers_count": 647,
+    "open_issues_count": 85,
+    "forks_count": 27
   },
   {
     "full_name": "BluDood/GlanceThing",
-    "stargazers_count": 168,
+    "stargazers_count": 176,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "kotarf/Smart-Bookmark-Sorter",
     "stargazers_count": 20,
     "open_issues_count": 9,
     "forks_count": 2
-  },
-  {
-    "full_name": "BookStackApp/BookStack",
-    "stargazers_count": 15391,
-    "open_issues_count": 607,
-    "forks_count": 1927
-  },
-  {
-    "full_name": "timvisee/send-instances",
-    "stargazers_count": 757,
-    "open_issues_count": 3,
-    "forks_count": 37
-  },
-  {
-    "full_name": "catppuccin/userstyles",
-    "stargazers_count": 530,
-    "open_issues_count": 75,
-    "forks_count": 155
-  },
-  {
-    "full_name": "requestly/requestly",
-    "stargazers_count": 2575,
-    "open_issues_count": 138,
-    "forks_count": 205
-  },
-  {
-    "full_name": "novuhq/novu",
-    "stargazers_count": 35402,
-    "open_issues_count": 260,
-    "forks_count": 3917
-  },
-  {
-    "full_name": "shabegom/buttons",
-    "stargazers_count": 490,
-    "open_issues_count": 19,
-    "forks_count": 50
   }
 ]
