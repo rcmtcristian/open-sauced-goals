@@ -1,8 +1,8 @@
 [
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 25455,
-    "open_issues_count": 131,
+    "stargazers_count": 25464,
+    "open_issues_count": 129,
     "forks_count": 3969
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "sdras/array-explorer",
-    "stargazers_count": 2615,
+    "stargazers_count": 2616,
     "open_issues_count": 30,
     "forks_count": 241
   },
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 940,
     "open_issues_count": 0,
-    "forks_count": 1025
+    "forks_count": 1028
   }
 ]
