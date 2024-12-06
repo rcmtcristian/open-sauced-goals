@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "westoncampbell/SpyPlusPlus",
+    "stargazers_count": 425,
+    "open_issues_count": 1,
+    "forks_count": 105
+  },
+  {
+    "full_name": "openai/openai-assistants-quickstart",
+    "stargazers_count": 1574,
+    "open_issues_count": 12,
+    "forks_count": 386
+  },
+  {
+    "full_name": "togethercomputer/together-cookbook",
+    "stargazers_count": 485,
+    "open_issues_count": 1,
+    "forks_count": 50
+  },
+  {
     "full_name": "starship/starship",
-    "stargazers_count": 45661,
+    "stargazers_count": 45702,
     "open_issues_count": 793,
-    "forks_count": 1976
+    "forks_count": 1977
   },
   {
     "full_name": "RamonUnch/AltSnap",
-    "stargazers_count": 2276,
+    "stargazers_count": 2288,
     "open_issues_count": 85,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "scottmckendry/ps-color-scripts",
@@ -19,27 +37,27 @@
   },
   {
     "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 2065,
-    "open_issues_count": 17,
-    "forks_count": 464
+    "stargazers_count": 2071,
+    "open_issues_count": 18,
+    "forks_count": 465
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 5489,
+    "stargazers_count": 5500,
     "open_issues_count": 14,
     "forks_count": 175
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 3300,
-    "open_issues_count": 18,
-    "forks_count": 91
+    "stargazers_count": 3307,
+    "open_issues_count": 17,
+    "forks_count": 92
   },
   {
     "full_name": "folke/snacks.nvim",
-    "stargazers_count": 1308,
-    "open_issues_count": 7,
-    "forks_count": 26
+    "stargazers_count": 1348,
+    "open_issues_count": 8,
+    "forks_count": 28
   },
   {
     "full_name": "Aasim-A/scrollEOF.nvim",
@@ -49,49 +67,49 @@
   },
   {
     "full_name": "seblj/roslyn.nvim",
-    "stargazers_count": 228,
-    "open_issues_count": 4,
-    "forks_count": 22
+    "stargazers_count": 230,
+    "open_issues_count": 6,
+    "forks_count": 23
   },
   {
     "full_name": "stevearc/resession.nvim",
-    "stargazers_count": 234,
+    "stargazers_count": 236,
     "open_issues_count": 12,
     "forks_count": 19
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 1815,
-    "open_issues_count": 11,
+    "stargazers_count": 1830,
+    "open_issues_count": 12,
     "forks_count": 87
   },
   {
     "full_name": "brenoprata10/nvim-highlight-colors",
-    "stargazers_count": 729,
+    "stargazers_count": 732,
     "open_issues_count": 11,
     "forks_count": 34
   },
   {
     "full_name": "SmiteshP/nvim-navic",
-    "stargazers_count": 1436,
+    "stargazers_count": 1441,
     "open_issues_count": 24,
     "forks_count": 50
   },
   {
     "full_name": "folke/noice.nvim",
-    "stargazers_count": 4499,
-    "open_issues_count": 15,
+    "stargazers_count": 4504,
+    "open_issues_count": 13,
     "forks_count": 107
   },
   {
     "full_name": "IogaMaster/neocord",
     "stargazers_count": 114,
     "open_issues_count": 12,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "nvim-neo-tree/neo-tree.nvim",
-    "stargazers_count": 3939,
+    "stargazers_count": 3951,
     "open_issues_count": 240,
     "forks_count": 227
   },
@@ -103,45 +121,45 @@
   },
   {
     "full_name": "echasnovski/mini.icons",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 8008,
-    "open_issues_count": 213,
-    "forks_count": 281
+    "stargazers_count": 8020,
+    "open_issues_count": 215,
+    "forks_count": 282
   },
   {
     "full_name": "lewis6991/gitsigns.nvim",
-    "stargazers_count": 5224,
+    "stargazers_count": 5233,
     "open_issues_count": 49,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "EdenEast/nightfox.nvim",
-    "stargazers_count": 3186,
+    "stargazers_count": 3192,
     "open_issues_count": 22,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "nvim-telescope/telescope.nvim",
-    "stargazers_count": 16132,
-    "open_issues_count": 382,
-    "forks_count": 842
+    "stargazers_count": 16161,
+    "open_issues_count": 385,
+    "forks_count": 843
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2411,
+    "stargazers_count": 2412,
     "open_issues_count": 71,
     "forks_count": 193
   },
   {
     "full_name": "sphamba/smear-cursor.nvim",
-    "stargazers_count": 311,
+    "stargazers_count": 411,
     "open_issues_count": 11,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "clvv/fasd",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "sumatrapdfreader/sumatrapdf",
-    "stargazers_count": 13860,
-    "open_issues_count": 583,
-    "forks_count": 1738
+    "stargazers_count": 13869,
+    "open_issues_count": 584,
+    "forks_count": 1737
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 76916,
-    "open_issues_count": 49,
-    "forks_count": 10391
-  },
-  {
-    "full_name": "clsid2/mpc-hc",
-    "stargazers_count": 11495,
-    "open_issues_count": 22,
-    "forks_count": 500
-  },
-  {
-    "full_name": "KRTirtho/spotube",
-    "stargazers_count": 31641,
-    "open_issues_count": 494,
-    "forks_count": 1307
-  },
-  {
-    "full_name": "nvm-sh/nvm",
-    "stargazers_count": 80738,
-    "open_issues_count": 360,
-    "forks_count": 8042
+    "stargazers_count": 77134,
+    "open_issues_count": 52,
+    "forks_count": 10473
   }
 ]
