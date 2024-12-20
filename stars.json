@@ -1,15 +1,33 @@
 [
   {
+    "full_name": "JulienMaille/dribbblish-dynamic-theme",
+    "stargazers_count": 337,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
+    "full_name": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "stargazers_count": 3612,
+    "open_issues_count": 348,
+    "forks_count": 410
+  },
+  {
+    "full_name": "kawaiiDango/pano-scrobbler",
+    "stargazers_count": 1168,
+    "open_issues_count": 57,
+    "forks_count": 32
+  },
+  {
     "full_name": "brunodev85/winlator",
-    "stargazers_count": 9595,
+    "stargazers_count": 9661,
     "open_issues_count": 30,
-    "forks_count": 490
+    "forks_count": 492
   },
   {
     "full_name": "james-stoup/emacs-org-mode-tutorial",
-    "stargazers_count": 448,
+    "stargazers_count": 455,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "otanodesignco/stylized-orb",
@@ -37,20 +55,20 @@
   },
   {
     "full_name": "xanderfrangos/twinkle-tray",
-    "stargazers_count": 5831,
-    "open_issues_count": 383,
+    "stargazers_count": 5856,
+    "open_issues_count": 385,
     "forks_count": 185
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 66283,
+    "stargazers_count": 66409,
     "open_issues_count": 297,
-    "forks_count": 2412
+    "forks_count": 2417
   },
   {
     "full_name": "puemos/hls-downloader",
     "stargazers_count": 1968,
-    "open_issues_count": 186,
+    "open_issues_count": 187,
     "forks_count": 243
   },
   {
@@ -61,25 +79,25 @@
   },
   {
     "full_name": "openai/openai-assistants-quickstart",
-    "stargazers_count": 1588,
+    "stargazers_count": 1595,
     "open_issues_count": 12,
-    "forks_count": 393
+    "forks_count": 395
   },
   {
     "full_name": "togethercomputer/together-cookbook",
-    "stargazers_count": 498,
+    "stargazers_count": 501,
     "open_issues_count": 1,
-    "forks_count": 55
+    "forks_count": 57
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 45894,
-    "open_issues_count": 796,
-    "forks_count": 1980
+    "stargazers_count": 45928,
+    "open_issues_count": 797,
+    "forks_count": 1984
   },
   {
     "full_name": "RamonUnch/AltSnap",
-    "stargazers_count": 2333,
+    "stargazers_count": 2336,
     "open_issues_count": 88,
     "forks_count": 77
   },
@@ -91,27 +109,27 @@
   },
   {
     "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 2094,
-    "open_issues_count": 20,
-    "forks_count": 472
+    "stargazers_count": 2099,
+    "open_issues_count": 22,
+    "forks_count": 473
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 5555,
-    "open_issues_count": 17,
+    "stargazers_count": 5569,
+    "open_issues_count": 18,
     "forks_count": 176
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 3341,
-    "open_issues_count": 19,
+    "stargazers_count": 3348,
+    "open_issues_count": 18,
     "forks_count": 94
   },
   {
     "full_name": "folke/snacks.nvim",
-    "stargazers_count": 2163,
-    "open_issues_count": 10,
-    "forks_count": 49
+    "stargazers_count": 2225,
+    "open_issues_count": 14,
+    "forks_count": 51
   },
   {
     "full_name": "Aasim-A/scrollEOF.nvim",
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "seblj/roslyn.nvim",
-    "stargazers_count": 246,
+    "stargazers_count": 252,
     "open_issues_count": 9,
     "forks_count": 25
   },
@@ -133,13 +151,13 @@
   },
   {
     "full_name": "CopilotC-Nvim/CopilotChat.nvim",
-    "stargazers_count": 1869,
+    "stargazers_count": 1897,
     "open_issues_count": 13,
     "forks_count": 88
   },
   {
     "full_name": "brenoprata10/nvim-highlight-colors",
-    "stargazers_count": 738,
+    "stargazers_count": 741,
     "open_issues_count": 13,
     "forks_count": 35
   },
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "folke/noice.nvim",
-    "stargazers_count": 4545,
-    "open_issues_count": 11,
+    "stargazers_count": 4560,
+    "open_issues_count": 9,
     "forks_count": 109
   },
   {
     "full_name": "IogaMaster/neocord",
-    "stargazers_count": 118,
+    "stargazers_count": 120,
     "open_issues_count": 12,
     "forks_count": 15
-  },
-  {
-    "full_name": "nvim-neo-tree/neo-tree.nvim",
-    "stargazers_count": 3988,
-    "open_issues_count": 241,
-    "forks_count": 228
-  },
-  {
-    "full_name": "echasnovski/mini.files",
-    "stargazers_count": 287,
-    "open_issues_count": 0,
-    "forks_count": 16
-  },
-  {
-    "full_name": "echasnovski/mini.icons",
-    "stargazers_count": 147,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
