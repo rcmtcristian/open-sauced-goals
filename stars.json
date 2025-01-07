@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "RabbitHoleEscapeR1/r1_escape",
+    "stargazers_count": 352,
+    "open_issues_count": 54,
+    "forks_count": 35
+  },
+  {
+    "full_name": "Genymobile/scrcpy",
+    "stargazers_count": 115657,
+    "open_issues_count": 2187,
+    "forks_count": 10987
+  },
+  {
+    "full_name": "violentmonkey/violentmonkey",
+    "stargazers_count": 6132,
+    "open_issues_count": 77,
+    "forks_count": 507
+  },
+  {
+    "full_name": "null2264/yokai",
+    "stargazers_count": 892,
+    "open_issues_count": 96,
+    "forks_count": 25
+  },
+  {
     "full_name": "Dissurender/medium-roast",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,13 +31,13 @@
   },
   {
     "full_name": "tokyo-digitaltwin/terriajs",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "NeoApplications/Neo-Backup",
-    "stargazers_count": 2703,
+    "stargazers_count": 2710,
     "open_issues_count": 184,
     "forks_count": 129
   },
@@ -24,10 +48,10 @@
     "forks_count": 0
   },
   {
-    "full_name": "newfrgmnt/bitspace",
-    "stargazers_count": 726,
+    "full_name": "emilwidlund/bitspace",
+    "stargazers_count": 745,
     "open_issues_count": 2,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "kevinmkchin/Obsidian-GitHub-Sync",
@@ -37,31 +61,31 @@
   },
   {
     "full_name": "JulienMaille/dribbblish-dynamic-theme",
-    "stargazers_count": 337,
+    "stargazers_count": 339,
     "open_issues_count": 1,
     "forks_count": 18
   },
   {
     "full_name": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
-    "stargazers_count": 3609,
+    "stargazers_count": 3608,
     "open_issues_count": 349,
     "forks_count": 411
   },
   {
     "full_name": "kawaiiDango/pano-scrobbler",
-    "stargazers_count": 1182,
-    "open_issues_count": 58,
+    "stargazers_count": 1185,
+    "open_issues_count": 60,
     "forks_count": 32
   },
   {
     "full_name": "brunodev85/winlator",
-    "stargazers_count": 9941,
+    "stargazers_count": 10044,
     "open_issues_count": 30,
-    "forks_count": 507
+    "forks_count": 514
   },
   {
     "full_name": "james-stoup/emacs-org-mode-tutorial",
-    "stargazers_count": 468,
+    "stargazers_count": 474,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -91,20 +115,20 @@
   },
   {
     "full_name": "xanderfrangos/twinkle-tray",
-    "stargazers_count": 5935,
-    "open_issues_count": 374,
-    "forks_count": 185
+    "stargazers_count": 5946,
+    "open_issues_count": 376,
+    "forks_count": 187
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 66795,
-    "open_issues_count": 304,
-    "forks_count": 2423
+    "stargazers_count": 66911,
+    "open_issues_count": 300,
+    "forks_count": 2424
   },
   {
     "full_name": "puemos/hls-downloader",
-    "stargazers_count": 1980,
-    "open_issues_count": 191,
+    "stargazers_count": 1987,
+    "open_issues_count": 193,
     "forks_count": 245
   },
   {
@@ -115,27 +139,27 @@
   },
   {
     "full_name": "openai/openai-assistants-quickstart",
-    "stargazers_count": 1625,
+    "stargazers_count": 1632,
     "open_issues_count": 12,
-    "forks_count": 407
+    "forks_count": 414
   },
   {
     "full_name": "togethercomputer/together-cookbook",
-    "stargazers_count": 511,
+    "stargazers_count": 516,
     "open_issues_count": 1,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 46241,
-    "open_issues_count": 797,
-    "forks_count": 1992
+    "stargazers_count": 46320,
+    "open_issues_count": 806,
+    "forks_count": 1995
   },
   {
     "full_name": "RamonUnch/AltSnap",
-    "stargazers_count": 2566,
-    "open_issues_count": 91,
-    "forks_count": 84
+    "stargazers_count": 2618,
+    "open_issues_count": 92,
+    "forks_count": 85
   },
   {
     "full_name": "scottmckendry/ps-color-scripts",
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 2134,
-    "open_issues_count": 24,
-    "forks_count": 473
+    "stargazers_count": 2146,
+    "open_issues_count": 26,
+    "forks_count": 474
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 5634,
-    "open_issues_count": 15,
-    "forks_count": 180
-  },
-  {
-    "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 3382,
-    "open_issues_count": 16,
-    "forks_count": 96
-  },
-  {
-    "full_name": "folke/snacks.nvim",
-    "stargazers_count": 2428,
-    "open_issues_count": 37,
-    "forks_count": 59
-  },
-  {
-    "full_name": "Aasim-A/scrollEOF.nvim",
-    "stargazers_count": 109,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "seblj/roslyn.nvim",
-    "stargazers_count": 279,
-    "open_issues_count": 8,
-    "forks_count": 28
+    "stargazers_count": 5657,
+    "open_issues_count": 14,
+    "forks_count": 181
   }
 ]
