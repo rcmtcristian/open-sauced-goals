@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "toasterofbread/spmp",
+    "stargazers_count": 1249,
+    "open_issues_count": 44,
+    "forks_count": 47
+  },
+  {
     "full_name": "RabbitHoleEscapeR1/r1_escape",
-    "stargazers_count": 352,
+    "stargazers_count": 354,
     "open_issues_count": 54,
     "forks_count": 35
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 115657,
-    "open_issues_count": 2187,
-    "forks_count": 10987
+    "stargazers_count": 115835,
+    "open_issues_count": 2196,
+    "forks_count": 10999
   },
   {
     "full_name": "violentmonkey/violentmonkey",
-    "stargazers_count": 6132,
+    "stargazers_count": 6146,
     "open_issues_count": 77,
     "forks_count": 507
   },
   {
     "full_name": "null2264/yokai",
-    "stargazers_count": 892,
+    "stargazers_count": 903,
     "open_issues_count": 96,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "Dissurender/medium-roast",
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "NeoApplications/Neo-Backup",
-    "stargazers_count": 2710,
-    "open_issues_count": 184,
+    "stargazers_count": 2718,
+    "open_issues_count": 185,
     "forks_count": 129
   },
   {
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "emilwidlund/bitspace",
-    "stargazers_count": 745,
+    "stargazers_count": 754,
     "open_issues_count": 2,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "kevinmkchin/Obsidian-GitHub-Sync",
-    "stargazers_count": 120,
+    "stargazers_count": 122,
     "open_issues_count": 7,
     "forks_count": 14
   },
@@ -67,25 +73,25 @@
   },
   {
     "full_name": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
-    "stargazers_count": 3608,
+    "stargazers_count": 3609,
     "open_issues_count": 349,
     "forks_count": 411
   },
   {
     "full_name": "kawaiiDango/pano-scrobbler",
-    "stargazers_count": 1185,
+    "stargazers_count": 1187,
     "open_issues_count": 60,
     "forks_count": 32
   },
   {
     "full_name": "brunodev85/winlator",
-    "stargazers_count": 10044,
+    "stargazers_count": 10120,
     "open_issues_count": 30,
-    "forks_count": 514
+    "forks_count": 517
   },
   {
     "full_name": "james-stoup/emacs-org-mode-tutorial",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "ikeryou/sketch501",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,50 +121,50 @@
   },
   {
     "full_name": "xanderfrangos/twinkle-tray",
-    "stargazers_count": 5946,
-    "open_issues_count": 376,
+    "stargazers_count": 5958,
+    "open_issues_count": 378,
     "forks_count": 187
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 66911,
-    "open_issues_count": 300,
-    "forks_count": 2424
+    "stargazers_count": 67016,
+    "open_issues_count": 304,
+    "forks_count": 2428
   },
   {
     "full_name": "puemos/hls-downloader",
-    "stargazers_count": 1987,
+    "stargazers_count": 1992,
     "open_issues_count": 193,
-    "forks_count": 245
+    "forks_count": 246
   },
   {
     "full_name": "westoncampbell/SpyPlusPlus",
-    "stargazers_count": 433,
+    "stargazers_count": 436,
     "open_issues_count": 1,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "openai/openai-assistants-quickstart",
-    "stargazers_count": 1632,
+    "stargazers_count": 1639,
     "open_issues_count": 12,
-    "forks_count": 414
+    "forks_count": 415
   },
   {
     "full_name": "togethercomputer/together-cookbook",
-    "stargazers_count": 516,
+    "stargazers_count": 526,
     "open_issues_count": 1,
-    "forks_count": 63
+    "forks_count": 66
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 46320,
-    "open_issues_count": 806,
-    "forks_count": 1995
+    "stargazers_count": 46379,
+    "open_issues_count": 810,
+    "forks_count": 1999
   },
   {
     "full_name": "RamonUnch/AltSnap",
-    "stargazers_count": 2618,
-    "open_issues_count": 92,
+    "stargazers_count": 2646,
+    "open_issues_count": 94,
     "forks_count": 85
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 2146,
+    "stargazers_count": 2155,
     "open_issues_count": 26,
     "forks_count": 474
-  },
-  {
-    "full_name": "folke/which-key.nvim",
-    "stargazers_count": 5657,
-    "open_issues_count": 14,
-    "forks_count": 181
   }
 ]
