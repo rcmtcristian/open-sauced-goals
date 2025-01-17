@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "ShareX/ShareX",
+    "stargazers_count": 30481,
+    "open_issues_count": 580,
+    "forks_count": 3241
+  },
+  {
+    "full_name": "campsite/campsite",
+    "stargazers_count": 3614,
+    "open_issues_count": 2,
+    "forks_count": 484
+  },
+  {
     "full_name": "toasterofbread/spmp",
-    "stargazers_count": 1258,
+    "stargazers_count": 1259,
     "open_issues_count": 45,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "RabbitHoleEscapeR1/r1_escape",
-    "stargazers_count": 355,
+    "stargazers_count": 354,
     "open_issues_count": 54,
     "forks_count": 36
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 116025,
-    "open_issues_count": 2196,
-    "forks_count": 11016
+    "stargazers_count": 116187,
+    "open_issues_count": 2204,
+    "forks_count": 11022
   },
   {
     "full_name": "violentmonkey/violentmonkey",
-    "stargazers_count": 6156,
-    "open_issues_count": 78,
+    "stargazers_count": 6167,
+    "open_issues_count": 77,
     "forks_count": 506
   },
   {
     "full_name": "null2264/yokai",
-    "stargazers_count": 913,
-    "open_issues_count": 98,
-    "forks_count": 27
+    "stargazers_count": 920,
+    "open_issues_count": 100,
+    "forks_count": 28
   },
   {
     "full_name": "Dissurender/medium-roast",
@@ -43,9 +55,9 @@
   },
   {
     "full_name": "NeoApplications/Neo-Backup",
-    "stargazers_count": 2731,
-    "open_issues_count": 183,
-    "forks_count": 129
+    "stargazers_count": 2738,
+    "open_issues_count": 184,
+    "forks_count": 131
   },
   {
     "full_name": "Kdroidwin/extensions",
@@ -55,15 +67,15 @@
   },
   {
     "full_name": "emilwidlund/bitspace",
-    "stargazers_count": 759,
+    "stargazers_count": 774,
     "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "kevinmkchin/Obsidian-GitHub-Sync",
-    "stargazers_count": 123,
+    "stargazers_count": 126,
     "open_issues_count": 7,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "JulienMaille/dribbblish-dynamic-theme",
@@ -73,25 +85,25 @@
   },
   {
     "full_name": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
-    "stargazers_count": 3612,
+    "stargazers_count": 3613,
     "open_issues_count": 349,
     "forks_count": 411
   },
   {
     "full_name": "kawaiiDango/pano-scrobbler",
-    "stargazers_count": 1190,
-    "open_issues_count": 61,
+    "stargazers_count": 1192,
+    "open_issues_count": 59,
     "forks_count": 32
   },
   {
     "full_name": "brunodev85/winlator",
-    "stargazers_count": 10212,
-    "open_issues_count": 30,
-    "forks_count": 523
+    "stargazers_count": 10267,
+    "open_issues_count": 5,
+    "forks_count": 526
   },
   {
     "full_name": "james-stoup/emacs-org-mode-tutorial",
-    "stargazers_count": 478,
+    "stargazers_count": 479,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "ikeryou/sketch501",
-    "stargazers_count": 6,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -121,62 +133,50 @@
   },
   {
     "full_name": "xanderfrangos/twinkle-tray",
-    "stargazers_count": 5979,
-    "open_issues_count": 381,
-    "forks_count": 190
+    "stargazers_count": 5992,
+    "open_issues_count": 382,
+    "forks_count": 192
   },
   {
     "full_name": "junegunn/fzf",
-    "stargazers_count": 67098,
-    "open_issues_count": 304,
-    "forks_count": 2429
+    "stargazers_count": 67178,
+    "open_issues_count": 306,
+    "forks_count": 2431
   },
   {
     "full_name": "puemos/hls-downloader",
-    "stargazers_count": 1997,
-    "open_issues_count": 193,
+    "stargazers_count": 2001,
+    "open_issues_count": 192,
     "forks_count": 246
   },
   {
     "full_name": "westoncampbell/SpyPlusPlus",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 1,
     "forks_count": 107
   },
   {
     "full_name": "openai/openai-assistants-quickstart",
-    "stargazers_count": 1650,
+    "stargazers_count": 1657,
     "open_issues_count": 12,
-    "forks_count": 424
+    "forks_count": 429
   },
   {
     "full_name": "togethercomputer/together-cookbook",
-    "stargazers_count": 530,
+    "stargazers_count": 561,
     "open_issues_count": 1,
-    "forks_count": 67
+    "forks_count": 73
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 46481,
-    "open_issues_count": 803,
-    "forks_count": 2007
+    "stargazers_count": 46543,
+    "open_issues_count": 802,
+    "forks_count": 2010
   },
   {
     "full_name": "RamonUnch/AltSnap",
-    "stargazers_count": 2664,
+    "stargazers_count": 2680,
     "open_issues_count": 94,
     "forks_count": 85
-  },
-  {
-    "full_name": "scottmckendry/ps-color-scripts",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rafamadriz/friendly-snippets",
-    "stargazers_count": 2160,
-    "open_issues_count": 26,
-    "forks_count": 474
   }
 ]
