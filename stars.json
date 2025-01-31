@@ -1,127 +1,151 @@
 [
   {
+    "full_name": "celzero/rethink-app",
+    "stargazers_count": 3224,
+    "open_issues_count": 411,
+    "forks_count": 160
+  },
+  {
+    "full_name": "dead8309/Kizzy",
+    "stargazers_count": 667,
+    "open_issues_count": 31,
+    "forks_count": 70
+  },
+  {
+    "full_name": "romboHQ/tailwindcss-motion",
+    "stargazers_count": 2734,
+    "open_issues_count": 19,
+    "forks_count": 26
+  },
+  {
+    "full_name": "timwenger/RedCedarDocs",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "iamr0s/Dhizuku",
-    "stargazers_count": 1550,
+    "stargazers_count": 1561,
     "open_issues_count": 46,
     "forks_count": 55
   },
   {
     "full_name": "deltazefiro/Amarok-Hider",
-    "stargazers_count": 1806,
-    "open_issues_count": 38,
-    "forks_count": 61
+    "stargazers_count": 1813,
+    "open_issues_count": 34,
+    "forks_count": 62
   },
   {
     "full_name": "marticliment/UniGetUI",
-    "stargazers_count": 14123,
-    "open_issues_count": 174,
-    "forks_count": 484
+    "stargazers_count": 14174,
+    "open_issues_count": 176,
+    "forks_count": 485
   },
   {
     "full_name": "ImranR98/Obtainium",
-    "stargazers_count": 9295,
-    "open_issues_count": 202,
-    "forks_count": 215
+    "stargazers_count": 9340,
+    "open_issues_count": 203,
+    "forks_count": 217
   },
   {
     "full_name": "vicolo-dev/chrono",
-    "stargazers_count": 636,
-    "open_issues_count": 86,
+    "stargazers_count": 639,
+    "open_issues_count": 88,
     "forks_count": 28
   },
   {
     "full_name": "anonfaded/FadCam",
-    "stargazers_count": 570,
+    "stargazers_count": 575,
     "open_issues_count": 23,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "legendsayantan/ShizuTools",
-    "stargazers_count": 978,
+    "stargazers_count": 982,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "breezy-weather/breezy-weather",
-    "stargazers_count": 6171,
-    "open_issues_count": 82,
-    "forks_count": 188
+    "stargazers_count": 6179,
+    "open_issues_count": 81,
+    "forks_count": 189
   },
   {
     "full_name": "acszo/Redomi",
-    "stargazers_count": 308,
+    "stargazers_count": 310,
     "open_issues_count": 8,
     "forks_count": 7
   },
   {
     "full_name": "M66B/NetGuard",
-    "stargazers_count": 2463,
+    "stargazers_count": 2474,
     "open_issues_count": 1,
     "forks_count": 235
   },
   {
     "full_name": "thrly/clouddrift",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "slavabarkov/tidy",
-    "stargazers_count": 368,
+    "stargazers_count": 372,
     "open_issues_count": 28,
     "forks_count": 28
   },
   {
     "full_name": "caydey/ffshare",
-    "stargazers_count": 714,
+    "stargazers_count": 717,
     "open_issues_count": 41,
     "forks_count": 33
   },
   {
     "full_name": "w2sv/FileNavigator",
-    "stargazers_count": 305,
-    "open_issues_count": 30,
+    "stargazers_count": 308,
+    "open_issues_count": 31,
     "forks_count": 12
   },
   {
     "full_name": "zacharee/InstallWithOptions",
-    "stargazers_count": 1231,
-    "open_issues_count": 15,
+    "stargazers_count": 1237,
+    "open_issues_count": 13,
     "forks_count": 59
   },
   {
     "full_name": "shdwmtr/millennium",
-    "stargazers_count": 1365,
-    "open_issues_count": 21,
+    "stargazers_count": 1372,
+    "open_issues_count": 23,
     "forks_count": 25
   },
   {
     "full_name": "requarks/wiki",
-    "stargazers_count": 25471,
+    "stargazers_count": 25486,
     "open_issues_count": 162,
     "forks_count": 2821
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 22971,
+    "stargazers_count": 22985,
     "open_issues_count": 231,
     "forks_count": 1215
   },
   {
     "full_name": "bitwarden/clients",
-    "stargazers_count": 9650,
-    "open_issues_count": 1006,
-    "forks_count": 1292
+    "stargazers_count": 9667,
+    "open_issues_count": 1026,
+    "forks_count": 1295
   },
   {
     "full_name": "vin3110/facecheck.id-results-extractor",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "vognik/maltego-telegram",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 1,
     "forks_count": 21
   },
@@ -139,44 +163,20 @@
   },
   {
     "full_name": "ShareX/ShareX",
-    "stargazers_count": 30605,
-    "open_issues_count": 588,
+    "stargazers_count": 30625,
+    "open_issues_count": 583,
     "forks_count": 3245
   },
   {
     "full_name": "campsite/campsite",
-    "stargazers_count": 4233,
+    "stargazers_count": 4283,
     "open_issues_count": 3,
-    "forks_count": 612
+    "forks_count": 621
   },
   {
     "full_name": "toasterofbread/spmp",
-    "stargazers_count": 1289,
-    "open_issues_count": 45,
+    "stargazers_count": 1296,
+    "open_issues_count": 44,
     "forks_count": 52
-  },
-  {
-    "full_name": "RabbitHoleEscapeR1/r1_escape",
-    "stargazers_count": 358,
-    "open_issues_count": 54,
-    "forks_count": 35
-  },
-  {
-    "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 116700,
-    "open_issues_count": 2219,
-    "forks_count": 11067
-  },
-  {
-    "full_name": "violentmonkey/violentmonkey",
-    "stargazers_count": 6197,
-    "open_issues_count": 77,
-    "forks_count": 509
-  },
-  {
-    "full_name": "null2264/yokai",
-    "stargazers_count": 945,
-    "open_issues_count": 103,
-    "forks_count": 28
   }
 ]
