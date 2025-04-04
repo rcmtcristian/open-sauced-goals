@@ -1,14 +1,14 @@
 [
   {
     "full_name": "openedx/frontend-platform",
-    "stargazers_count": 33,
-    "open_issues_count": 30,
+    "stargazers_count": 34,
+    "open_issues_count": 33,
     "forks_count": 67
   },
   {
     "full_name": "cgzirim/seek-tune",
-    "stargazers_count": 4220,
-    "open_issues_count": 7,
+    "stargazers_count": 4246,
+    "open_issues_count": 6,
     "forks_count": 464
   },
   {
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2228,
+    "stargazers_count": 2234,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 27723,
-    "open_issues_count": 1094,
-    "forks_count": 1967
+    "stargazers_count": 27784,
+    "open_issues_count": 1095,
+    "forks_count": 1968
   },
   {
     "full_name": "Turtlecute33/toolz",
-    "stargazers_count": 80,
+    "stargazers_count": 86,
     "open_issues_count": 1,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "vitiko98/qobuz-dl",
-    "stargazers_count": 1610,
+    "stargazers_count": 1611,
     "open_issues_count": 134,
-    "forks_count": 212
+    "forks_count": 211
   },
   {
     "full_name": "QobuzDL/Qobuz-DL",
-    "stargazers_count": 119,
-    "open_issues_count": 5,
-    "forks_count": 18
+    "stargazers_count": 125,
+    "open_issues_count": 6,
+    "forks_count": 19
   },
   {
     "full_name": "JemPH/QobuzDL-Browser",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "hackr-sh/ghostty-shaders",
-    "stargazers_count": 439,
+    "stargazers_count": 444,
     "open_issues_count": 8,
     "forks_count": 32
   },
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "mkasberg/ghostty-ubuntu",
-    "stargazers_count": 533,
+    "stargazers_count": 537,
     "open_issues_count": 10,
     "forks_count": 21
   },
   {
     "full_name": "overhangio/tutor",
-    "stargazers_count": 991,
+    "stargazers_count": 992,
     "open_issues_count": 34,
     "forks_count": 462
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 30186,
-    "open_issues_count": 173,
-    "forks_count": 2480
+    "stargazers_count": 30288,
+    "open_issues_count": 169,
+    "forks_count": 2488
   },
   {
     "full_name": "prodigycommerce/nextjs-commerce",
@@ -104,25 +104,25 @@
   {
     "full_name": "GibbonEdu/core",
     "stargazers_count": 517,
-    "open_issues_count": 33,
-    "forks_count": 319
+    "open_issues_count": 35,
+    "forks_count": 320
   },
   {
     "full_name": "YTLitePlus/YTLitePlus",
-    "stargazers_count": 2310,
+    "stargazers_count": 2321,
     "open_issues_count": 85,
-    "forks_count": 4465
+    "forks_count": 4471
   },
   {
     "full_name": "zombieFox/nightTab",
     "stargazers_count": 1888,
     "open_issues_count": 101,
-    "forks_count": 264
+    "forks_count": 265
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 22604,
-    "open_issues_count": 653,
+    "stargazers_count": 22639,
+    "open_issues_count": 654,
     "forks_count": 707
   },
   {
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "searxng/searxng",
-    "stargazers_count": 17945,
-    "open_issues_count": 285,
-    "forks_count": 1817
+    "stargazers_count": 18045,
+    "open_issues_count": 286,
+    "forks_count": 1833
   },
   {
     "full_name": "benbusby/whoogle-search",
-    "stargazers_count": 10599,
+    "stargazers_count": 10606,
     "open_issues_count": 68,
-    "forks_count": 999
+    "forks_count": 1000
   },
   {
     "full_name": "TrueMyst/BeatPrints",
-    "stargazers_count": 588,
+    "stargazers_count": 592,
     "open_issues_count": 4,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 222869,
+    "stargazers_count": 223302,
     "open_issues_count": 1,
-    "forks_count": 10440
+    "forks_count": 10452
   },
   {
     "full_name": "openedx-unsupported/edx-documentation",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "openedx/edx-platform",
-    "stargazers_count": 7653,
-    "open_issues_count": 409,
-    "forks_count": 3993
+    "stargazers_count": 7651,
+    "open_issues_count": 417,
+    "forks_count": 3995
   },
   {
     "full_name": "chamilo/chamilo-lms",
     "stargazers_count": 846,
-    "open_issues_count": 593,
+    "open_issues_count": 592,
     "forks_count": 494
   },
   {
     "full_name": "zadam/trilium",
-    "stargazers_count": 28382,
-    "open_issues_count": 909,
+    "stargazers_count": 28405,
+    "open_issues_count": 910,
     "forks_count": 1925
   }
 ]
