@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Alaa-MK/dotfiles",
+    "stargazers_count": 20,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "alangrainger/obsidian-lazy-plugins",
     "stargazers_count": 353,
     "open_issues_count": 8,
@@ -7,33 +13,33 @@
   },
   {
     "full_name": "mgmeyers/obsidian-contextual-typography",
-    "stargazers_count": 177,
+    "stargazers_count": 178,
     "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "Hillobar/Rope",
-    "stargazers_count": 4990,
-    "open_issues_count": 26,
+    "stargazers_count": 4994,
+    "open_issues_count": 25,
     "forks_count": 845
   },
   {
     "full_name": "deckerst/aves",
-    "stargazers_count": 3367,
-    "open_issues_count": 123,
+    "stargazers_count": 3374,
+    "open_issues_count": 122,
     "forks_count": 121
   },
   {
     "full_name": "dinerojs/dinero.js",
-    "stargazers_count": 6432,
+    "stargazers_count": 6437,
     "open_issues_count": 42,
     "forks_count": 193
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30267,
-    "open_issues_count": 485,
-    "forks_count": 6496
+    "stargazers_count": 30291,
+    "open_issues_count": 469,
+    "forks_count": 6508
   },
   {
     "full_name": "temporalio/awesome-temporal",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "temporalio/cli",
-    "stargazers_count": 282,
-    "open_issues_count": 67,
-    "forks_count": 46
+    "stargazers_count": 283,
+    "open_issues_count": 68,
+    "forks_count": 47
   },
   {
     "full_name": "pR0Ps/slack-to-discord",
@@ -55,57 +61,57 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 78780,
-    "open_issues_count": 3085,
-    "forks_count": 33583
+    "stargazers_count": 78962,
+    "open_issues_count": 3044,
+    "forks_count": 33631
   },
   {
     "full_name": "openedx/frontend-platform",
     "stargazers_count": 34,
-    "open_issues_count": 36,
-    "forks_count": 68
+    "open_issues_count": 38,
+    "forks_count": 69
   },
   {
     "full_name": "cgzirim/seek-tune",
-    "stargazers_count": 4405,
+    "stargazers_count": 4431,
     "open_issues_count": 4,
-    "forks_count": 482
+    "forks_count": 486
   },
   {
     "full_name": "spuder/OpenSpool",
-    "stargazers_count": 469,
+    "stargazers_count": 471,
     "open_issues_count": 41,
     "forks_count": 25
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2269,
+    "stargazers_count": 2274,
     "open_issues_count": 6,
     "forks_count": 34
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 28272,
-    "open_issues_count": 1114,
-    "forks_count": 1992
+    "stargazers_count": 28313,
+    "open_issues_count": 1115,
+    "forks_count": 2001
   },
   {
     "full_name": "Turtlecute33/toolz",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "vitiko98/qobuz-dl",
-    "stargazers_count": 1644,
+    "stargazers_count": 1646,
     "open_issues_count": 134,
     "forks_count": 213
   },
   {
     "full_name": "QobuzDL/Qobuz-DL",
-    "stargazers_count": 183,
+    "stargazers_count": 196,
     "open_issues_count": 8,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "JemPH/QobuzDL-Browser",
@@ -115,27 +121,27 @@
   },
   {
     "full_name": "hackr-sh/ghostty-shaders",
-    "stargazers_count": 473,
+    "stargazers_count": 477,
     "open_issues_count": 9,
     "forks_count": 34
   },
   {
     "full_name": "donadigo/eddy",
     "stargazers_count": 186,
-    "open_issues_count": 29,
-    "forks_count": 34
+    "open_issues_count": 30,
+    "forks_count": 35
   },
   {
     "full_name": "mkasberg/ghostty-ubuntu",
-    "stargazers_count": 589,
+    "stargazers_count": 593,
     "open_issues_count": 10,
     "forks_count": 22
   },
   {
     "full_name": "overhangio/tutor",
-    "stargazers_count": 1008,
-    "open_issues_count": 36,
-    "forks_count": 471
+    "stargazers_count": 1010,
+    "open_issues_count": 35,
+    "forks_count": 472
   },
   {
     "full_name": "DavieDevs/AIGordanRamseyRoast",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 31575,
+    "stargazers_count": 31779,
     "open_issues_count": 172,
-    "forks_count": 2640
+    "forks_count": 2655
   },
   {
     "full_name": "prodigycommerce/nextjs-commerce",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "GibbonEdu/core",
-    "stargazers_count": 519,
+    "stargazers_count": 520,
     "open_issues_count": 33,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "YTLitePlus/YTLitePlus",
-    "stargazers_count": 2491,
-    "open_issues_count": 90,
-    "forks_count": 4647
-  },
-  {
-    "full_name": "zombieFox/nightTab",
-    "stargazers_count": 1906,
-    "open_issues_count": 101,
-    "forks_count": 265
+    "stargazers_count": 2500,
+    "open_issues_count": 91,
+    "forks_count": 4663
   }
 ]
