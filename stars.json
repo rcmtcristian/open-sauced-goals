@@ -1,14 +1,14 @@
 [
   {
     "full_name": "Alaa-MK/dotfiles",
-    "stargazers_count": 20,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "alangrainger/obsidian-lazy-plugins",
-    "stargazers_count": 353,
-    "open_issues_count": 8,
+    "stargazers_count": 355,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
@@ -19,38 +19,38 @@
   },
   {
     "full_name": "Hillobar/Rope",
-    "stargazers_count": 4994,
+    "stargazers_count": 4997,
     "open_issues_count": 25,
-    "forks_count": 845
+    "forks_count": 847
   },
   {
     "full_name": "deckerst/aves",
-    "stargazers_count": 3374,
+    "stargazers_count": 3381,
     "open_issues_count": 122,
     "forks_count": 121
   },
   {
     "full_name": "dinerojs/dinero.js",
-    "stargazers_count": 6437,
+    "stargazers_count": 6440,
     "open_issues_count": 42,
     "forks_count": 193
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30291,
-    "open_issues_count": 469,
-    "forks_count": 6508
+    "stargazers_count": 30324,
+    "open_issues_count": 465,
+    "forks_count": 6513
   },
   {
     "full_name": "temporalio/awesome-temporal",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "temporalio/cli",
-    "stargazers_count": 283,
-    "open_issues_count": 68,
+    "stargazers_count": 284,
+    "open_issues_count": 69,
     "forks_count": 47
   },
   {
@@ -61,56 +61,56 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 78962,
-    "open_issues_count": 3044,
-    "forks_count": 33631
+    "stargazers_count": 79039,
+    "open_issues_count": 3083,
+    "forks_count": 33668
   },
   {
     "full_name": "openedx/frontend-platform",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 38,
     "forks_count": 69
   },
   {
     "full_name": "cgzirim/seek-tune",
-    "stargazers_count": 4431,
-    "open_issues_count": 4,
-    "forks_count": 486
+    "stargazers_count": 4460,
+    "open_issues_count": 7,
+    "forks_count": 491
   },
   {
     "full_name": "spuder/OpenSpool",
-    "stargazers_count": 471,
+    "stargazers_count": 474,
     "open_issues_count": 41,
     "forks_count": 25
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2274,
+    "stargazers_count": 2276,
     "open_issues_count": 6,
     "forks_count": 34
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 28313,
-    "open_issues_count": 1115,
-    "forks_count": 2001
+    "stargazers_count": 28347,
+    "open_issues_count": 1120,
+    "forks_count": 2007
   },
   {
     "full_name": "Turtlecute33/toolz",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "vitiko98/qobuz-dl",
     "stargazers_count": 1646,
-    "open_issues_count": 134,
-    "forks_count": 213
+    "open_issues_count": 135,
+    "forks_count": 214
   },
   {
     "full_name": "QobuzDL/Qobuz-DL",
-    "stargazers_count": 196,
-    "open_issues_count": 8,
+    "stargazers_count": 204,
+    "open_issues_count": 9,
     "forks_count": 24
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "hackr-sh/ghostty-shaders",
-    "stargazers_count": 477,
+    "stargazers_count": 480,
     "open_issues_count": 9,
     "forks_count": 34
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "overhangio/tutor",
-    "stargazers_count": 1010,
+    "stargazers_count": 1012,
     "open_issues_count": 35,
-    "forks_count": 472
+    "forks_count": 474
   },
   {
     "full_name": "DavieDevs/AIGordanRamseyRoast",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "imputnet/cobalt",
-    "stargazers_count": 31779,
-    "open_issues_count": 172,
-    "forks_count": 2655
+    "stargazers_count": 31927,
+    "open_issues_count": 173,
+    "forks_count": 2670
   },
   {
     "full_name": "prodigycommerce/nextjs-commerce",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "YTLitePlus/YTLitePlus",
-    "stargazers_count": 2500,
-    "open_issues_count": 91,
-    "forks_count": 4663
+    "stargazers_count": 2520,
+    "open_issues_count": 93,
+    "forks_count": 4675
   }
 ]
