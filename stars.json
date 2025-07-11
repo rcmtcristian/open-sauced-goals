@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "olegos2/mobox",
+    "stargazers_count": 3524,
+    "open_issues_count": 389,
+    "forks_count": 174
+  },
+  {
+    "full_name": "shrimqy/Sefirah",
+    "stargazers_count": 1140,
+    "open_issues_count": 69,
+    "forks_count": 20
+  },
+  {
+    "full_name": "TechnitiumSoftware/DnsServer",
+    "stargazers_count": 5754,
+    "open_issues_count": 125,
+    "forks_count": 499
+  },
+  {
     "full_name": "system-linux/FazJammer",
-    "stargazers_count": 1040,
-    "open_issues_count": 4,
-    "forks_count": 75
+    "stargazers_count": 1053,
+    "open_issues_count": 5,
+    "forks_count": 76
   },
   {
     "full_name": "cenonym/trmt",
@@ -13,9 +31,9 @@
   },
   {
     "full_name": "super-linter/super-linter",
-    "stargazers_count": 9940,
-    "open_issues_count": 54,
-    "forks_count": 1014
+    "stargazers_count": 9946,
+    "open_issues_count": 33,
+    "forks_count": 1013
   },
   {
     "full_name": "HOAIAN2/Instagram-Downloader",
@@ -25,8 +43,8 @@
   },
   {
     "full_name": "Discord-Client-Encyclopedia-Management/Discord3rdparties",
-    "stargazers_count": 1827,
-    "open_issues_count": 3,
+    "stargazers_count": 1833,
+    "open_issues_count": 4,
     "forks_count": 76
   },
   {
@@ -61,39 +79,39 @@
   },
   {
     "full_name": "Hillobar/Rope",
-    "stargazers_count": 5066,
+    "stargazers_count": 5069,
     "open_issues_count": 25,
-    "forks_count": 871
+    "forks_count": 872
   },
   {
     "full_name": "deckerst/aves",
-    "stargazers_count": 3648,
+    "stargazers_count": 3666,
     "open_issues_count": 129,
     "forks_count": 129
   },
   {
     "full_name": "dinerojs/dinero.js",
-    "stargazers_count": 6472,
+    "stargazers_count": 6473,
     "open_issues_count": 41,
     "forks_count": 193
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 30691,
-    "open_issues_count": 442,
-    "forks_count": 6629
+    "stargazers_count": 30710,
+    "open_issues_count": 452,
+    "forks_count": 6641
   },
   {
     "full_name": "temporalio/awesome-temporal",
-    "stargazers_count": 248,
+    "stargazers_count": 249,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "temporalio/cli",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 74,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "pR0Ps/slack-to-discord",
@@ -103,9 +121,9 @@
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 80026,
-    "open_issues_count": 3120,
-    "forks_count": 34244
+    "stargazers_count": 80090,
+    "open_issues_count": 3104,
+    "forks_count": 34279
   },
   {
     "full_name": "openedx/frontend-platform",
@@ -115,68 +133,50 @@
   },
   {
     "full_name": "cgzirim/seek-tune",
-    "stargazers_count": 4744,
+    "stargazers_count": 4768,
     "open_issues_count": 5,
-    "forks_count": 521
+    "forks_count": 522
   },
   {
     "full_name": "spuder/OpenSpool",
-    "stargazers_count": 516,
+    "stargazers_count": 518,
     "open_issues_count": 42,
     "forks_count": 27
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2298,
+    "stargazers_count": 2304,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "AdguardTeam/AdGuardHome",
-    "stargazers_count": 29091,
-    "open_issues_count": 1151,
-    "forks_count": 2063
+    "stargazers_count": 29135,
+    "open_issues_count": 1154,
+    "forks_count": 2065
   },
   {
     "full_name": "Turtlecute33/toolz",
-    "stargazers_count": 161,
-    "open_issues_count": 1,
-    "forks_count": 17
+    "stargazers_count": 163,
+    "open_issues_count": 0,
+    "forks_count": 18
   },
   {
     "full_name": "vitiko98/qobuz-dl",
-    "stargazers_count": 1706,
+    "stargazers_count": 1708,
     "open_issues_count": 138,
     "forks_count": 223
   },
   {
     "full_name": "QobuzDL/Qobuz-DL",
-    "stargazers_count": 315,
+    "stargazers_count": 322,
     "open_issues_count": 17,
     "forks_count": 34
   },
   {
     "full_name": "JemPH/QobuzDL-Browser",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "hackr-sh/ghostty-shaders",
-    "stargazers_count": 557,
-    "open_issues_count": 10,
-    "forks_count": 35
-  },
-  {
-    "full_name": "donadigo/eddy",
-    "stargazers_count": 186,
-    "open_issues_count": 30,
-    "forks_count": 36
-  },
-  {
-    "full_name": "mkasberg/ghostty-ubuntu",
-    "stargazers_count": 661,
-    "open_issues_count": 10,
-    "forks_count": 24
   }
 ]
