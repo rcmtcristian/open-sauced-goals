@@ -1,14 +1,14 @@
 [
   {
     "full_name": "discordjs/discord.js",
-    "stargazers_count": 26164,
-    "open_issues_count": 110,
-    "forks_count": 4018
+    "stargazers_count": 26178,
+    "open_issues_count": 112,
+    "forks_count": 4020
   },
   {
     "full_name": "distributeaid/distributeaid.org",
     "stargazers_count": 33,
-    "open_issues_count": 57,
+    "open_issues_count": 56,
     "forks_count": 35
   },
   {
@@ -27,6 +27,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 952,
     "open_issues_count": 0,
-    "forks_count": 1145
+    "forks_count": 1146
   }
 ]
