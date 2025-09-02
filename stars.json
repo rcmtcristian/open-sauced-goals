@@ -1,15 +1,39 @@
 [
   {
+    "full_name": "aaaaalexis/obsidian-baseline",
+    "stargazers_count": 554,
+    "open_issues_count": 9,
+    "forks_count": 8
+  },
+  {
+    "full_name": "gokadzev/Musify",
+    "stargazers_count": 3205,
+    "open_issues_count": 10,
+    "forks_count": 289
+  },
+  {
+    "full_name": "OxygenCobalt/Auxio",
+    "stargazers_count": 3028,
+    "open_issues_count": 140,
+    "forks_count": 202
+  },
+  {
+    "full_name": "jhuckaby/canvascycle",
+    "stargazers_count": 370,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
     "full_name": "reisxd/TizenBrew",
-    "stargazers_count": 837,
-    "open_issues_count": 4,
+    "stargazers_count": 839,
+    "open_issues_count": 5,
     "forks_count": 59
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 2698,
-    "open_issues_count": 13,
-    "forks_count": 241
+    "stargazers_count": 2716,
+    "open_issues_count": 14,
+    "forks_count": 243
   },
   {
     "full_name": "ZongyiYang/streamdeck-youtube-dl-plugin",
@@ -20,60 +44,60 @@
   {
     "full_name": "OpenSourceFellows/map-dashboard",
     "stargazers_count": 11,
-    "open_issues_count": 99,
+    "open_issues_count": 107,
     "forks_count": 18
   },
   {
     "full_name": "KieronQuinn/AmbientMusicMod",
-    "stargazers_count": 2190,
+    "stargazers_count": 2194,
     "open_issues_count": 5,
     "forks_count": 42
   },
   {
     "full_name": "Mahmud0808/ColorBlendr",
-    "stargazers_count": 1534,
-    "open_issues_count": 3,
+    "stargazers_count": 1550,
+    "open_issues_count": 4,
     "forks_count": 31
   },
   {
     "full_name": "KieronQuinn/DarQ",
-    "stargazers_count": 1447,
+    "stargazers_count": 1452,
     "open_issues_count": 13,
     "forks_count": 47
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 31381,
-    "open_issues_count": 180,
-    "forks_count": 3073
+    "stargazers_count": 31535,
+    "open_issues_count": 192,
+    "forks_count": 3095
   },
   {
     "full_name": "JingMatrix/LSPatch",
-    "stargazers_count": 2108,
-    "open_issues_count": 7,
+    "stargazers_count": 2132,
+    "open_issues_count": 8,
     "forks_count": 103
   },
   {
     "full_name": "Producdevity/EmuReady",
-    "stargazers_count": 348,
-    "open_issues_count": 25,
-    "forks_count": 4
+    "stargazers_count": 350,
+    "open_issues_count": 28,
+    "forks_count": 5
   },
   {
     "full_name": "protontypes/open-sustainable-technology",
-    "stargazers_count": 2313,
-    "open_issues_count": 56,
+    "stargazers_count": 2314,
+    "open_issues_count": 57,
     "forks_count": 287
   },
   {
     "full_name": "whyorean/AuroraStore",
-    "stargazers_count": 1489,
+    "stargazers_count": 1502,
     "open_issues_count": 25,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "FossifyOrg/Calculator",
-    "stargazers_count": 257,
+    "stargazers_count": 260,
     "open_issues_count": 14,
     "forks_count": 31
   },
@@ -85,25 +109,25 @@
   },
   {
     "full_name": "LinkSheet/LinkSheet",
-    "stargazers_count": 1712,
-    "open_issues_count": 72,
+    "stargazers_count": 1717,
+    "open_issues_count": 74,
     "forks_count": 36
   },
   {
     "full_name": "nsh07/Tomato",
-    "stargazers_count": 216,
+    "stargazers_count": 228,
     "open_issues_count": 12,
     "forks_count": 5
   },
   {
     "full_name": "liriliri/aya",
-    "stargazers_count": 3580,
-    "open_issues_count": 39,
-    "forks_count": 158
+    "stargazers_count": 3596,
+    "open_issues_count": 40,
+    "forks_count": 157
   },
   {
     "full_name": "nain-F49FF806/anemo-aer",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 8,
     "forks_count": 7
   },
@@ -115,68 +139,44 @@
   },
   {
     "full_name": "shadps4-emu/shadPS4",
-    "stargazers_count": 25946,
-    "open_issues_count": 135,
-    "forks_count": 1697
+    "stargazers_count": 26061,
+    "open_issues_count": 131,
+    "forks_count": 1707
   },
   {
     "full_name": "mikeroyal/Digital-Forensics-Guide",
-    "stargazers_count": 2218,
+    "stargazers_count": 2227,
     "open_issues_count": 5,
     "forks_count": 247
   },
   {
     "full_name": "ultrasecurity/Storm-Breaker",
-    "stargazers_count": 4281,
-    "open_issues_count": 134,
-    "forks_count": 1558
+    "stargazers_count": 4292,
+    "open_issues_count": 140,
+    "forks_count": 1564
   },
   {
     "full_name": "krahets/hello-algo",
-    "stargazers_count": 115871,
-    "open_issues_count": 28,
-    "forks_count": 14323
+    "stargazers_count": 115988,
+    "open_issues_count": 30,
+    "forks_count": 14335
   },
   {
     "full_name": "Chainlift/liftkit",
-    "stargazers_count": 1682,
+    "stargazers_count": 1755,
     "open_issues_count": 16,
     "forks_count": 39
   },
   {
     "full_name": "Generator/Awesome-Android-TV-FOSS-Apps",
-    "stargazers_count": 618,
+    "stargazers_count": 628,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "tailscale/tailscale",
-    "stargazers_count": 24473,
+    "stargazers_count": 24526,
     "open_issues_count": 3762,
-    "forks_count": 1962
-  },
-  {
-    "full_name": "hudy9x/namviek",
-    "stargazers_count": 2313,
-    "open_issues_count": 5,
-    "forks_count": 266
-  },
-  {
-    "full_name": "bepass-org/oblivion-desktop",
-    "stargazers_count": 7958,
-    "open_issues_count": 9,
-    "forks_count": 922
-  },
-  {
-    "full_name": "sapientinc/HRM",
-    "stargazers_count": 9891,
-    "open_issues_count": 54,
-    "forks_count": 1394
-  },
-  {
-    "full_name": "dstark5/Openlib",
-    "stargazers_count": 1825,
-    "open_issues_count": 71,
-    "forks_count": 81
+    "forks_count": 1967
   }
 ]
