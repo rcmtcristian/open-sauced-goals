@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "siyuan-note/siyuan",
+    "stargazers_count": 38665,
+    "open_issues_count": 419,
+    "forks_count": 2380
+  },
+  {
+    "full_name": "revenge-mod/revenge-manager",
+    "stargazers_count": 392,
+    "open_issues_count": 11,
+    "forks_count": 20
+  },
+  {
     "full_name": "deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 15488,
-    "open_issues_count": 112,
-    "forks_count": 924
+    "stargazers_count": 17963,
+    "open_issues_count": 144,
+    "forks_count": 1169
   },
   {
     "full_name": "Curiosity-Ai-BV/localOCR",
-    "stargazers_count": 129,
+    "stargazers_count": 131,
     "open_issues_count": 2,
     "forks_count": 11
   },
@@ -19,75 +31,75 @@
   },
   {
     "full_name": "Qiskit/qiskit-aer",
-    "stargazers_count": 605,
-    "open_issues_count": 202,
+    "stargazers_count": 607,
+    "open_issues_count": 203,
     "forks_count": 405
   },
   {
     "full_name": "reisxd/TizenTubeCobalt",
-    "stargazers_count": 490,
+    "stargazers_count": 508,
     "open_issues_count": 10,
-    "forks_count": 33
+    "forks_count": 35
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
-    "stargazers_count": 365,
-    "open_issues_count": 51,
+    "stargazers_count": 366,
+    "open_issues_count": 52,
     "forks_count": 43
   },
   {
     "full_name": "TheTechRobo/youtubevideofinder",
-    "stargazers_count": 329,
+    "stargazers_count": 331,
     "open_issues_count": 41,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "Producdevity/EmuReadyLite",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "wxxsfxyzm/InstallerX-Revived",
-    "stargazers_count": 1935,
-    "open_issues_count": 10,
-    "forks_count": 43
+    "stargazers_count": 1984,
+    "open_issues_count": 12,
+    "forks_count": 45
   },
   {
     "full_name": "aaaaalexis/obsidian-baseline",
-    "stargazers_count": 669,
-    "open_issues_count": 30,
+    "stargazers_count": 677,
+    "open_issues_count": 15,
     "forks_count": 13
   },
   {
     "full_name": "gokadzev/Musify",
-    "stargazers_count": 3369,
+    "stargazers_count": 3380,
     "open_issues_count": 12,
-    "forks_count": 305
+    "forks_count": 307
   },
   {
     "full_name": "OxygenCobalt/Auxio",
-    "stargazers_count": 3173,
-    "open_issues_count": 157,
+    "stargazers_count": 3184,
+    "open_issues_count": 163,
     "forks_count": 206
   },
   {
     "full_name": "jhuckaby/canvascycle",
-    "stargazers_count": 391,
+    "stargazers_count": 393,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "reisxd/TizenBrew",
-    "stargazers_count": 918,
+    "stargazers_count": 919,
     "open_issues_count": 3,
     "forks_count": 63
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 2824,
+    "stargazers_count": 2832,
     "open_issues_count": 13,
-    "forks_count": 255
+    "forks_count": 256
   },
   {
     "full_name": "ZongyiYang/streamdeck-youtube-dl-plugin",
@@ -103,56 +115,56 @@
   },
   {
     "full_name": "KieronQuinn/AmbientMusicMod",
-    "stargazers_count": 2240,
+    "stargazers_count": 2242,
     "open_issues_count": 6,
     "forks_count": 43
   },
   {
     "full_name": "Mahmud0808/ColorBlendr",
-    "stargazers_count": 1680,
-    "open_issues_count": 6,
+    "stargazers_count": 1686,
+    "open_issues_count": 5,
     "forks_count": 31
   },
   {
     "full_name": "KieronQuinn/DarQ",
-    "stargazers_count": 1488,
-    "open_issues_count": 14,
-    "forks_count": 49
+    "stargazers_count": 1489,
+    "open_issues_count": 13,
+    "forks_count": 48
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 42662,
-    "open_issues_count": 227,
-    "forks_count": 4026
+    "stargazers_count": 42838,
+    "open_issues_count": 228,
+    "forks_count": 4044
   },
   {
     "full_name": "JingMatrix/LSPatch",
-    "stargazers_count": 2341,
+    "stargazers_count": 2353,
     "open_issues_count": 17,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "Producdevity/EmuReady",
-    "stargazers_count": 417,
+    "stargazers_count": 416,
     "open_issues_count": 25,
     "forks_count": 7
   },
   {
     "full_name": "protontypes/open-sustainable-technology",
     "stargazers_count": 2348,
-    "open_issues_count": 63,
-    "forks_count": 290
+    "open_issues_count": 64,
+    "forks_count": 289
   },
   {
     "full_name": "whyorean/AuroraStore",
-    "stargazers_count": 1625,
+    "stargazers_count": 1637,
     "open_issues_count": 24,
     "forks_count": 70
   },
   {
     "full_name": "FossifyOrg/Calculator",
-    "stargazers_count": 280,
-    "open_issues_count": 15,
+    "stargazers_count": 281,
+    "open_issues_count": 11,
     "forks_count": 32
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "LinkSheet/LinkSheet",
-    "stargazers_count": 1749,
+    "stargazers_count": 1750,
     "open_issues_count": 78,
     "forks_count": 37
-  },
-  {
-    "full_name": "nsh07/Tomato",
-    "stargazers_count": 481,
-    "open_issues_count": 15,
-    "forks_count": 20
-  },
-  {
-    "full_name": "liriliri/aya",
-    "stargazers_count": 4147,
-    "open_issues_count": 54,
-    "forks_count": 209
   }
 ]
