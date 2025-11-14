@@ -1,27 +1,81 @@
 [
   {
-    "full_name": "tas33n/Miyomi",
-    "stargazers_count": 52,
-    "open_issues_count": 1,
+    "full_name": "rcmtcristian/charybdis-wireless-mini-3x6-build-guide",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "280Zo/charybdis-wireless-mini-zmk-firmware",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 177
+  },
+  {
+    "full_name": "280Zo/charybdis-wireless-mini-3x6-build-guide",
+    "stargazers_count": 80,
+    "open_issues_count": 0,
     "forks_count": 7
   },
   {
+    "full_name": "chayotic/Open-Source-Music-Streaming-Apps",
+    "stargazers_count": 124,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "brahmkshatriya/echo",
+    "stargazers_count": 2173,
+    "open_issues_count": 25,
+    "forks_count": 99
+  },
+  {
+    "full_name": "nukeop/nuclear",
+    "stargazers_count": 16291,
+    "open_issues_count": 166,
+    "forks_count": 1226
+  },
+  {
+    "full_name": "cryinkfly/Autodesk-Fusion-360-for-Linux",
+    "stargazers_count": 2847,
+    "open_issues_count": 131,
+    "forks_count": 148
+  },
+  {
+    "full_name": "kounoike/obs-virtualbg",
+    "stargazers_count": 307,
+    "open_issues_count": 15,
+    "forks_count": 35
+  },
+  {
+    "full_name": "BlankSourceCode/obs-zoom-to-mouse",
+    "stargazers_count": 926,
+    "open_issues_count": 54,
+    "forks_count": 89
+  },
+  {
+    "full_name": "tas33n/Miyomi",
+    "stargazers_count": 58,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 38933,
-    "open_issues_count": 431,
-    "forks_count": 2387
+    "stargazers_count": 38976,
+    "open_issues_count": 434,
+    "forks_count": 2393
   },
   {
     "full_name": "revenge-mod/revenge-manager",
-    "stargazers_count": 403,
+    "stargazers_count": 410,
     "open_issues_count": 11,
     "forks_count": 22
   },
   {
     "full_name": "deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 20136,
-    "open_issues_count": 218,
-    "forks_count": 1505
+    "stargazers_count": 20395,
+    "open_issues_count": 231,
+    "forks_count": 1654
   },
   {
     "full_name": "Curiosity-Ai-BV/localOCR",
@@ -31,61 +85,61 @@
   },
   {
     "full_name": "FrameworkComputer/Framework-Desktop",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 3,
     "forks_count": 13
   },
   {
     "full_name": "Qiskit/qiskit-aer",
     "stargazers_count": 612,
-    "open_issues_count": 207,
-    "forks_count": 407
+    "open_issues_count": 208,
+    "forks_count": 408
   },
   {
     "full_name": "reisxd/TizenTubeCobalt",
-    "stargazers_count": 586,
+    "stargazers_count": 610,
     "open_issues_count": 6,
     "forks_count": 36
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
     "stargazers_count": 366,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 45
   },
   {
     "full_name": "TheTechRobo/youtubevideofinder",
     "stargazers_count": 340,
-    "open_issues_count": 42,
-    "forks_count": 29
+    "open_issues_count": 43,
+    "forks_count": 30
   },
   {
     "full_name": "Producdevity/EmuReadyLite",
-    "stargazers_count": 99,
+    "stargazers_count": 115,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "wxxsfxyzm/InstallerX-Revived",
-    "stargazers_count": 2233,
-    "open_issues_count": 14,
-    "forks_count": 56
+    "stargazers_count": 2278,
+    "open_issues_count": 15,
+    "forks_count": 57
   },
   {
     "full_name": "aaaaalexis/obsidian-baseline",
-    "stargazers_count": 758,
-    "open_issues_count": 12,
-    "forks_count": 14
+    "stargazers_count": 783,
+    "open_issues_count": 18,
+    "forks_count": 15
   },
   {
     "full_name": "gokadzev/Musify",
-    "stargazers_count": 3406,
-    "open_issues_count": 13,
+    "stargazers_count": 3408,
+    "open_issues_count": 12,
     "forks_count": 314
   },
   {
     "full_name": "OxygenCobalt/Auxio",
-    "stargazers_count": 3227,
+    "stargazers_count": 3238,
     "open_issues_count": 160,
     "forks_count": 206
   },
@@ -97,15 +151,15 @@
   },
   {
     "full_name": "reisxd/TizenBrew",
-    "stargazers_count": 946,
-    "open_issues_count": 5,
+    "stargazers_count": 949,
+    "open_issues_count": 6,
     "forks_count": 64
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 2847,
+    "stargazers_count": 2868,
     "open_issues_count": 12,
-    "forks_count": 256
+    "forks_count": 257
   },
   {
     "full_name": "ZongyiYang/streamdeck-youtube-dl-plugin",
@@ -116,67 +170,13 @@
   {
     "full_name": "OpenSourceFellows/map-dashboard",
     "stargazers_count": 12,
-    "open_issues_count": 116,
+    "open_issues_count": 117,
     "forks_count": 18
   },
   {
     "full_name": "KieronQuinn/AmbientMusicMod",
-    "stargazers_count": 2251,
+    "stargazers_count": 2253,
     "open_issues_count": 6,
-    "forks_count": 44
-  },
-  {
-    "full_name": "Mahmud0808/ColorBlendr",
-    "stargazers_count": 1713,
-    "open_issues_count": 7,
-    "forks_count": 31
-  },
-  {
-    "full_name": "KieronQuinn/DarQ",
-    "stargazers_count": 1493,
-    "open_issues_count": 13,
-    "forks_count": 48
-  },
-  {
-    "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 43482,
-    "open_issues_count": 236,
-    "forks_count": 4153
-  },
-  {
-    "full_name": "JingMatrix/LSPatch",
-    "stargazers_count": 2409,
-    "open_issues_count": 17,
-    "forks_count": 118
-  },
-  {
-    "full_name": "Producdevity/EmuReady",
-    "stargazers_count": 425,
-    "open_issues_count": 22,
-    "forks_count": 7
-  },
-  {
-    "full_name": "protontypes/open-sustainable-technology",
-    "stargazers_count": 2356,
-    "open_issues_count": 70,
-    "forks_count": 293
-  },
-  {
-    "full_name": "whyorean/AuroraStore",
-    "stargazers_count": 1684,
-    "open_issues_count": 24,
-    "forks_count": 74
-  },
-  {
-    "full_name": "FossifyOrg/Calculator",
-    "stargazers_count": 282,
-    "open_issues_count": 11,
-    "forks_count": 33
-  },
-  {
-    "full_name": "tranleduy2000/ncalc",
-    "stargazers_count": 686,
-    "open_issues_count": 41,
-    "forks_count": 160
+    "forks_count": 45
   }
 ]
