@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "zotify-dev/zotify",
+    "stargazers_count": 2274,
+    "open_issues_count": 215,
+    "forks_count": 216
+  },
+  {
     "full_name": "NickvisionApps/Parabolic",
-    "stargazers_count": 4688,
-    "open_issues_count": 51,
-    "forks_count": 214
+    "stargazers_count": 4706,
+    "open_issues_count": 49,
+    "forks_count": 215
   },
   {
     "full_name": "sam1am/anyapk",
-    "stargazers_count": 914,
+    "stargazers_count": 922,
     "open_issues_count": 16,
     "forks_count": 31
   },
   {
     "full_name": "zoicware/RemoveWindowsAI",
-    "stargazers_count": 5706,
-    "open_issues_count": 1,
-    "forks_count": 179
+    "stargazers_count": 6021,
+    "open_issues_count": 3,
+    "forks_count": 186
   },
   {
     "full_name": "software-mansion/TypeGPU",
-    "stargazers_count": 1958,
-    "open_issues_count": 167,
+    "stargazers_count": 1961,
+    "open_issues_count": 168,
     "forks_count": 44
   },
   {
     "full_name": "d2phap/ImageGlass",
-    "stargazers_count": 11838,
+    "stargazers_count": 11858,
     "open_issues_count": 236,
     "forks_count": 654
   },
   {
     "full_name": "rvaiya/warpd",
-    "stargazers_count": 3424,
-    "open_issues_count": 97,
+    "stargazers_count": 3429,
+    "open_issues_count": 98,
     "forks_count": 172
   },
   {
     "full_name": "ui-layouts/uilayouts",
-    "stargazers_count": 2808,
+    "stargazers_count": 2826,
     "open_issues_count": 1,
     "forks_count": 149
   },
   {
     "full_name": "crimera/twitter-apk",
-    "stargazers_count": 3443,
+    "stargazers_count": 3463,
     "open_issues_count": 4,
-    "forks_count": 118
+    "forks_count": 120
   },
   {
     "full_name": "rcmtcristian/charybdis-wireless-mini-3x6-build-guide",
@@ -57,49 +63,49 @@
     "full_name": "280Zo/charybdis-wireless-mini-zmk-firmware",
     "stargazers_count": 48,
     "open_issues_count": 0,
-    "forks_count": 205
+    "forks_count": 207
   },
   {
     "full_name": "280Zo/charybdis-wireless-mini-3x6-build-guide",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "chayotic/Open-Source-Music-Streaming-Apps",
-    "stargazers_count": 171,
+    "stargazers_count": 175,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "brahmkshatriya/echo",
-    "stargazers_count": 2332,
+    "stargazers_count": 2342,
     "open_issues_count": 27,
     "forks_count": 104
   },
   {
     "full_name": "nukeop/nuclear",
-    "stargazers_count": 16517,
+    "stargazers_count": 16527,
     "open_issues_count": 169,
-    "forks_count": 1237
+    "forks_count": 1236
   },
   {
     "full_name": "cryinkfly/Autodesk-Fusion-360-for-Linux",
-    "stargazers_count": 2960,
+    "stargazers_count": 2968,
     "open_issues_count": 135,
     "forks_count": 153
   },
   {
     "full_name": "kounoike/obs-virtualbg",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 15,
     "forks_count": 36
   },
   {
     "full_name": "BlankSourceCode/obs-zoom-to-mouse",
-    "stargazers_count": 966,
+    "stargazers_count": 971,
     "open_issues_count": 57,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "tas33n/Miyomi",
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 40019,
-    "open_issues_count": 439,
-    "forks_count": 2478
+    "stargazers_count": 40077,
+    "open_issues_count": 447,
+    "forks_count": 2485
   },
   {
     "full_name": "revenge-mod/revenge-manager",
-    "stargazers_count": 453,
+    "stargazers_count": 457,
     "open_issues_count": 16,
     "forks_count": 23
   },
   {
     "full_name": "deepseek-ai/DeepSeek-OCR",
-    "stargazers_count": 21541,
+    "stargazers_count": 21576,
     "open_issues_count": 268,
-    "forks_count": 1926
+    "forks_count": 1929
   },
   {
     "full_name": "Curiosity-Ai-BV/localOCR",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "FrameworkComputer/Framework-Desktop",
-    "stargazers_count": 252,
-    "open_issues_count": 4,
-    "forks_count": 15
+    "stargazers_count": 255,
+    "open_issues_count": 5,
+    "forks_count": 16
   },
   {
     "full_name": "Qiskit/qiskit-aer",
-    "stargazers_count": 626,
+    "stargazers_count": 627,
     "open_issues_count": 213,
     "forks_count": 411
   },
   {
     "full_name": "reisxd/TizenTubeCobalt",
-    "stargazers_count": 1117,
-    "open_issues_count": 7,
+    "stargazers_count": 1142,
+    "open_issues_count": 8,
     "forks_count": 56
   },
   {
     "full_name": "libdyson-wg/ha-dyson",
-    "stargazers_count": 381,
+    "stargazers_count": 383,
     "open_issues_count": 61,
     "forks_count": 49
   },
   {
     "full_name": "TheTechRobo/youtubevideofinder",
-    "stargazers_count": 358,
-    "open_issues_count": 44,
+    "stargazers_count": 359,
+    "open_issues_count": 43,
     "forks_count": 32
   },
   {
     "full_name": "Producdevity/EmuReadyAppReleases",
-    "stargazers_count": 167,
+    "stargazers_count": 170,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "wxxsfxyzm/InstallerX-Revived",
-    "stargazers_count": 2770,
-    "open_issues_count": 16,
-    "forks_count": 76
-  },
-  {
-    "full_name": "aaaaalexis/obsidian-baseline",
-    "stargazers_count": 844,
-    "open_issues_count": 26,
-    "forks_count": 17
+    "stargazers_count": 2792,
+    "open_issues_count": 13,
+    "forks_count": 77
   }
 ]
