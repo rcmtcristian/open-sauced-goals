@@ -1,67 +1,73 @@
 [
   {
+    "full_name": "joypad-ai/joypad-os",
+    "stargazers_count": 1001,
+    "open_issues_count": 19,
+    "forks_count": 32
+  },
+  {
     "full_name": "LiveContainer/LiveContainer",
-    "stargazers_count": 5358,
-    "open_issues_count": 40,
-    "forks_count": 496
+    "stargazers_count": 5732,
+    "open_issues_count": 38,
+    "forks_count": 510
   },
   {
     "full_name": "ReSukiSU/ReSukiSU",
-    "stargazers_count": 118,
-    "open_issues_count": 3,
-    "forks_count": 29
+    "stargazers_count": 139,
+    "open_issues_count": 4,
+    "forks_count": 34
   },
   {
     "full_name": "LibChecker/LibChecker",
-    "stargazers_count": 6479,
-    "open_issues_count": 26,
-    "forks_count": 405
+    "stargazers_count": 6497,
+    "open_issues_count": 30,
+    "forks_count": 407
   },
   {
     "full_name": "InsertKoinIO/koin",
-    "stargazers_count": 9801,
+    "stargazers_count": 9805,
     "open_issues_count": 71,
-    "forks_count": 771
+    "forks_count": 772
   },
   {
     "full_name": "compose-miuix-ui/miuix",
-    "stargazers_count": 428,
+    "stargazers_count": 434,
     "open_issues_count": 2,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 70426,
-    "open_issues_count": 1193,
-    "forks_count": 14443
+    "stargazers_count": 70549,
+    "open_issues_count": 1187,
+    "forks_count": 14460
   },
   {
     "full_name": "LinkSheet/nightly",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 3157,
+    "stargazers_count": 3162,
     "open_issues_count": 163,
     "forks_count": 220
   },
   {
     "full_name": "Raiper34/spooty",
-    "stargazers_count": 780,
-    "open_issues_count": 4,
-    "forks_count": 38
+    "stargazers_count": 785,
+    "open_issues_count": 8,
+    "forks_count": 37
   },
   {
     "full_name": "iisu-network/iiSU",
-    "stargazers_count": 1067,
-    "open_issues_count": 128,
-    "forks_count": 18
+    "stargazers_count": 1093,
+    "open_issues_count": 133,
+    "forks_count": 17
   },
   {
     "full_name": "samuelmtimbo/unit",
-    "stargazers_count": 4727,
+    "stargazers_count": 4736,
     "open_issues_count": 0,
     "forks_count": 156
   },
@@ -73,91 +79,91 @@
   },
   {
     "full_name": "rainxchzed/Github-Store",
-    "stargazers_count": 4709,
-    "open_issues_count": 47,
-    "forks_count": 144
+    "stargazers_count": 5211,
+    "open_issues_count": 53,
+    "forks_count": 175
   },
   {
     "full_name": "uowuo/abaddon",
-    "stargazers_count": 2057,
+    "stargazers_count": 2064,
     "open_issues_count": 98,
     "forks_count": 75
   },
   {
     "full_name": "laylavish/uBlockOrigin-HUGE-AI-Blocklist",
-    "stargazers_count": 5028,
+    "stargazers_count": 5038,
     "open_issues_count": 158,
-    "forks_count": 198
+    "forks_count": 197
   },
   {
     "full_name": "leinelissen/jellyfin-audio-player",
-    "stargazers_count": 1298,
-    "open_issues_count": 103,
-    "forks_count": 55
+    "stargazers_count": 1315,
+    "open_issues_count": 94,
+    "forks_count": 56
   },
   {
     "full_name": "recloudstream/cloudstream",
-    "stargazers_count": 8668,
-    "open_issues_count": 446,
-    "forks_count": 755
+    "stargazers_count": 8694,
+    "open_issues_count": 447,
+    "forks_count": 762
   },
   {
     "full_name": "harmonoid/harmonoid",
-    "stargazers_count": 4339,
+    "stargazers_count": 4343,
     "open_issues_count": 75,
-    "forks_count": 238
+    "forks_count": 239
   },
   {
     "full_name": "zotify-dev/zotify",
-    "stargazers_count": 2319,
+    "stargazers_count": 2322,
     "open_issues_count": 218,
-    "forks_count": 223
+    "forks_count": 221
   },
   {
     "full_name": "NickvisionApps/Parabolic",
-    "stargazers_count": 4879,
-    "open_issues_count": 53,
-    "forks_count": 227
+    "stargazers_count": 4912,
+    "open_issues_count": 54,
+    "forks_count": 228
   },
   {
     "full_name": "sam1am/anyapk",
-    "stargazers_count": 999,
+    "stargazers_count": 1006,
     "open_issues_count": 19,
     "forks_count": 39
   },
   {
     "full_name": "zoicware/RemoveWindowsAI",
-    "stargazers_count": 9214,
-    "open_issues_count": 6,
-    "forks_count": 293
+    "stargazers_count": 9390,
+    "open_issues_count": 4,
+    "forks_count": 304
   },
   {
     "full_name": "software-mansion/TypeGPU",
-    "stargazers_count": 2047,
-    "open_issues_count": 184,
-    "forks_count": 48
+    "stargazers_count": 2062,
+    "open_issues_count": 190,
+    "forks_count": 47
   },
   {
     "full_name": "d2phap/ImageGlass",
-    "stargazers_count": 12065,
+    "stargazers_count": 12098,
     "open_issues_count": 240,
-    "forks_count": 663
+    "forks_count": 665
   },
   {
     "full_name": "rvaiya/warpd",
-    "stargazers_count": 3479,
+    "stargazers_count": 3478,
     "open_issues_count": 99,
     "forks_count": 176
   },
   {
     "full_name": "ui-layouts/uilayouts",
-    "stargazers_count": 2984,
+    "stargazers_count": 2990,
     "open_issues_count": 4,
     "forks_count": 155
   },
   {
     "full_name": "crimera/twitter-apk",
-    "stargazers_count": 3630,
+    "stargazers_count": 3643,
     "open_issues_count": 4,
     "forks_count": 133
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "280Zo/charybdis-wireless-mini-zmk-firmware",
-    "stargazers_count": 51,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 227
-  },
-  {
-    "full_name": "280Zo/charybdis-wireless-mini-3x6-build-guide",
-    "stargazers_count": 84,
-    "open_issues_count": 0,
-    "forks_count": 10
   }
 ]
