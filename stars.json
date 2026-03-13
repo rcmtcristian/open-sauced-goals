@@ -1,15 +1,57 @@
 [
   {
-    "full_name": "WinDroidEmulation/X1-BOX",
-    "stargazers_count": 121,
+    "full_name": "nicobailon/visual-explainer",
+    "stargazers_count": 6438,
+    "open_issues_count": 9,
+    "forks_count": 435
+  },
+  {
+    "full_name": "olidacombe/Elite-C-holder",
+    "stargazers_count": 20,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 1
+  },
+  {
+    "full_name": "erenatas/charybdis-wireless-3x6",
+    "stargazers_count": 220,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "avadhesh18/at4k",
+    "stargazers_count": 394,
+    "open_issues_count": 12,
+    "forks_count": 4
+  },
+  {
+    "full_name": "viperrcrypto/Siftly",
+    "stargazers_count": 1454,
+    "open_issues_count": 13,
+    "forks_count": 129
+  },
+  {
+    "full_name": "nikopueringer/CorridorKey",
+    "stargazers_count": 6307,
+    "open_issues_count": 54,
+    "forks_count": 373
+  },
+  {
+    "full_name": "ParthJadhav/app-store-screenshots",
+    "stargazers_count": 2220,
+    "open_issues_count": 5,
+    "forks_count": 148
+  },
+  {
+    "full_name": "WinDroidEmulation/X1-BOX",
+    "stargazers_count": 144,
+    "open_issues_count": 0,
+    "forks_count": 6
   },
   {
     "full_name": "ItzCrazyKns/Vane",
-    "stargazers_count": 32495,
-    "open_issues_count": 265,
-    "forks_count": 3494
+    "stargazers_count": 32853,
+    "open_issues_count": 274,
+    "forks_count": 3531
   },
   {
     "full_name": "Girolex/Blog_Website",
@@ -19,19 +61,19 @@
   },
   {
     "full_name": "asciinema/asciinema",
-    "stargazers_count": 16949,
-    "open_issues_count": 2,
-    "forks_count": 1008
+    "stargazers_count": 16973,
+    "open_issues_count": 3,
+    "forks_count": 1010
   },
   {
     "full_name": "d4rken-org/sdmaid-se",
-    "stargazers_count": 6287,
+    "stargazers_count": 6306,
     "open_issues_count": 28,
     "forks_count": 793
   },
   {
     "full_name": "DuckTapeKiller/obsidian-aubade",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -43,57 +85,57 @@
   },
   {
     "full_name": "sammwyy/MikuMikuBeam",
-    "stargazers_count": 5650,
+    "stargazers_count": 5657,
     "open_issues_count": 63,
     "forks_count": 490
   },
   {
     "full_name": "apinanaivot/IKEA-3D-Model-Download-Button",
-    "stargazers_count": 981,
+    "stargazers_count": 984,
     "open_issues_count": 8,
     "forks_count": 30
   },
   {
     "full_name": "joypad-ai/joypad-os",
-    "stargazers_count": 1244,
-    "open_issues_count": 52,
+    "stargazers_count": 1251,
+    "open_issues_count": 53,
     "forks_count": 46
   },
   {
     "full_name": "LiveContainer/LiveContainer",
-    "stargazers_count": 7093,
-    "open_issues_count": 39,
-    "forks_count": 596
+    "stargazers_count": 7127,
+    "open_issues_count": 40,
+    "forks_count": 599
   },
   {
     "full_name": "ReSukiSU/ReSukiSU",
-    "stargazers_count": 375,
-    "open_issues_count": 6,
-    "forks_count": 112
+    "stargazers_count": 386,
+    "open_issues_count": 5,
+    "forks_count": 117
   },
   {
     "full_name": "LibChecker/LibChecker",
-    "stargazers_count": 6653,
-    "open_issues_count": 27,
+    "stargazers_count": 6663,
+    "open_issues_count": 30,
     "forks_count": 413
   },
   {
     "full_name": "InsertKoinIO/koin",
-    "stargazers_count": 9849,
+    "stargazers_count": 9852,
     "open_issues_count": 90,
-    "forks_count": 779
+    "forks_count": 778
   },
   {
     "full_name": "compose-miuix-ui/miuix",
-    "stargazers_count": 498,
+    "stargazers_count": 513,
     "open_issues_count": 2,
-    "forks_count": 46
+    "forks_count": 49
   },
   {
     "full_name": "lobehub/lobehub",
-    "stargazers_count": 73358,
-    "open_issues_count": 632,
-    "forks_count": 14760
+    "stargazers_count": 73543,
+    "open_issues_count": 637,
+    "forks_count": 14781
   },
   {
     "full_name": "LinkSheet/nightly",
@@ -103,25 +145,25 @@
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 3233,
+    "stargazers_count": 3239,
     "open_issues_count": 163,
     "forks_count": 224
   },
   {
     "full_name": "Raiper34/spooty",
-    "stargazers_count": 992,
+    "stargazers_count": 993,
     "open_issues_count": 13,
     "forks_count": 44
   },
   {
     "full_name": "iisu-network/iiSU",
-    "stargazers_count": 1432,
-    "open_issues_count": 182,
+    "stargazers_count": 1458,
+    "open_issues_count": 183,
     "forks_count": 25
   },
   {
     "full_name": "samuelmtimbo/unit",
-    "stargazers_count": 4816,
+    "stargazers_count": 4817,
     "open_issues_count": 0,
     "forks_count": 169
   },
@@ -133,50 +175,8 @@
   },
   {
     "full_name": "OpenHub-Store/GitHub-Store",
-    "stargazers_count": 7864,
+    "stargazers_count": 8011,
     "open_issues_count": 27,
-    "forks_count": 302
-  },
-  {
-    "full_name": "uowuo/abaddon",
-    "stargazers_count": 2095,
-    "open_issues_count": 97,
-    "forks_count": 77
-  },
-  {
-    "full_name": "laylavish/uBlockOrigin-HUGE-AI-Blocklist",
-    "stargazers_count": 5442,
-    "open_issues_count": 171,
-    "forks_count": 204
-  },
-  {
-    "full_name": "leinelissen/jellyfin-audio-player",
-    "stargazers_count": 1347,
-    "open_issues_count": 100,
-    "forks_count": 60
-  },
-  {
-    "full_name": "recloudstream/cloudstream",
-    "stargazers_count": 9055,
-    "open_issues_count": 463,
-    "forks_count": 800
-  },
-  {
-    "full_name": "harmonoid/harmonoid",
-    "stargazers_count": 4443,
-    "open_issues_count": 77,
-    "forks_count": 248
-  },
-  {
-    "full_name": "zotify-dev/zotify",
-    "stargazers_count": 2358,
-    "open_issues_count": 219,
-    "forks_count": 222
-  },
-  {
-    "full_name": "NickvisionApps/Parabolic",
-    "stargazers_count": 5263,
-    "open_issues_count": 41,
-    "forks_count": 242
+    "forks_count": 305
   }
 ]
