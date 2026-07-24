@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "b-nnett/goose",
+    "stargazers_count": 2691,
+    "open_issues_count": 35,
+    "forks_count": 685
+  },
+  {
     "full_name": "ryanbr/noop",
-    "stargazers_count": 272,
-    "open_issues_count": 129,
-    "forks_count": 87
+    "stargazers_count": 303,
+    "open_issues_count": 160,
+    "forks_count": 96
   },
   {
     "full_name": "NaviVani-dev/Swiff",
-    "stargazers_count": 119,
+    "stargazers_count": 136,
     "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "sharpemu/sharpemu",
-    "stargazers_count": 3714,
-    "open_issues_count": 85,
-    "forks_count": 299
+    "stargazers_count": 4104,
+    "open_issues_count": 76,
+    "forks_count": 344
   },
   {
     "full_name": "caamer20/Telegram-Drive",
-    "stargazers_count": 4335,
+    "stargazers_count": 4473,
     "open_issues_count": 0,
-    "forks_count": 649
+    "forks_count": 667
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 23913,
+    "stargazers_count": 23974,
     "open_issues_count": 0,
-    "forks_count": 2357
+    "forks_count": 2363
   },
   {
     "full_name": "maria-rcks/dinorip",
-    "stargazers_count": 269,
+    "stargazers_count": 271,
     "open_issues_count": 3,
     "forks_count": 9
   },
@@ -43,45 +49,45 @@
   },
   {
     "full_name": "andreknieriem/headunit-revived",
-    "stargazers_count": 1907,
+    "stargazers_count": 1928,
     "open_issues_count": 42,
-    "forks_count": 148
+    "forks_count": 149
   },
   {
     "full_name": "Yujonpradhananga/Persona-Quickshell",
-    "stargazers_count": 597,
+    "stargazers_count": 598,
     "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "reisxd/TizenTube",
-    "stargazers_count": 1866,
-    "open_issues_count": 93,
+    "stargazers_count": 1877,
+    "open_issues_count": 100,
     "forks_count": 152
   },
   {
     "full_name": "IacobIonut01/ReFra",
-    "stargazers_count": 2545,
-    "open_issues_count": 137,
+    "stargazers_count": 2551,
+    "open_issues_count": 136,
     "forks_count": 154
   },
   {
     "full_name": "spotbye/SpotiFLAC",
-    "stargazers_count": 9896,
-    "open_issues_count": 101,
+    "stargazers_count": 10019,
+    "open_issues_count": 105,
     "forks_count": 533
   },
   {
     "full_name": "trinadhthatakula/Thor",
-    "stargazers_count": 460,
+    "stargazers_count": 467,
     "open_issues_count": 10,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "SteamRE/DepotDownloader",
-    "stargazers_count": 3226,
+    "stargazers_count": 3229,
     "open_issues_count": 59,
-    "forks_count": 405
+    "forks_count": 404
   },
   {
     "full_name": "OpenSourceFellows/map_dashboard_hackathon",
@@ -91,32 +97,32 @@
   },
   {
     "full_name": "bea4dev/ShojiWM",
-    "stargazers_count": 481,
+    "stargazers_count": 495,
     "open_issues_count": 5,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "Kopuz-org/kopuz",
-    "stargazers_count": 1665,
-    "open_issues_count": 82,
-    "forks_count": 86
+    "stargazers_count": 1680,
+    "open_issues_count": 78,
+    "forks_count": 87
   },
   {
     "full_name": "engmung/Patternflow",
-    "stargazers_count": 209,
-    "open_issues_count": 4,
-    "forks_count": 13
+    "stargazers_count": 219,
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "usenocturne/nocturne",
-    "stargazers_count": 374,
+    "stargazers_count": 375,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "crimera/piko",
-    "stargazers_count": 4371,
-    "open_issues_count": 439,
+    "stargazers_count": 4409,
+    "open_issues_count": 444,
     "forks_count": 143
   },
   {
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "5rahim/seanime",
-    "stargazers_count": 3911,
-    "open_issues_count": 62,
-    "forks_count": 287
+    "stargazers_count": 3929,
+    "open_issues_count": 56,
+    "forks_count": 288
   },
   {
     "full_name": "Blur009/Blur-AutoClicker",
-    "stargazers_count": 1843,
+    "stargazers_count": 1857,
     "open_issues_count": 52,
     "forks_count": 126
   },
   {
     "full_name": "spotiflacapp/SpotiFLAC-Mobile",
-    "stargazers_count": 5228,
-    "open_issues_count": 83,
-    "forks_count": 234
+    "stargazers_count": 5370,
+    "open_issues_count": 86,
+    "forks_count": 238
   },
   {
     "full_name": "chidiwilliams/buzz",
-    "stargazers_count": 20260,
-    "open_issues_count": 30,
-    "forks_count": 1487
+    "stargazers_count": 20333,
+    "open_issues_count": 33,
+    "forks_count": 1497
   },
   {
     "full_name": "WICG/html-in-canvas",
-    "stargazers_count": 3748,
-    "open_issues_count": 36,
+    "stargazers_count": 3771,
+    "open_issues_count": 37,
     "forks_count": 161
   },
   {
     "full_name": "OpenCloudGaming/OpenNOW",
-    "stargazers_count": 2133,
-    "open_issues_count": 6,
-    "forks_count": 123
+    "stargazers_count": 2140,
+    "open_issues_count": 10,
+    "forks_count": 125
   },
   {
     "full_name": "farzaa/clicky",
-    "stargazers_count": 7181,
+    "stargazers_count": 7201,
     "open_issues_count": 71,
-    "forks_count": 1402
-  },
-  {
-    "full_name": "enzomanuelmangano/demos",
-    "stargazers_count": 2957,
-    "open_issues_count": 3,
-    "forks_count": 284
+    "forks_count": 1408
   }
 ]
