@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Mak5er/AirCard",
+    "stargazers_count": 5610,
+    "open_issues_count": 51,
+    "forks_count": 297
+  },
+  {
     "full_name": "LTGRaven/rc29-toolbox",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "shmykelsa/AAAD",
-    "stargazers_count": 3005,
+    "stargazers_count": 3018,
     "open_issues_count": 7,
-    "forks_count": 333
+    "forks_count": 334
   },
   {
     "full_name": "dw2lam/openlauncher",
-    "stargazers_count": 162,
+    "stargazers_count": 169,
     "open_issues_count": 19,
     "forks_count": 33
   },
@@ -25,13 +31,13 @@
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 206240,
-    "open_issues_count": 1119,
-    "forks_count": 60924
+    "stargazers_count": 206479,
+    "open_issues_count": 1124,
+    "forks_count": 60976
   },
   {
     "full_name": "ljcoder2015/obsidian-sheet-plus",
-    "stargazers_count": 447,
+    "stargazers_count": 448,
     "open_issues_count": 33,
     "forks_count": 30
   },
@@ -43,26 +49,26 @@
   },
   {
     "full_name": "cygnusx-1-org/Discoverium",
-    "stargazers_count": 575,
+    "stargazers_count": 581,
     "open_issues_count": 11,
     "forks_count": 10
   },
   {
     "full_name": "cygnusx-1-org/continuum",
-    "stargazers_count": 1640,
-    "open_issues_count": 17,
-    "forks_count": 52
+    "stargazers_count": 1645,
+    "open_issues_count": 14,
+    "forks_count": 53
   },
   {
     "full_name": "brealorg/breal-morphe-patches",
     "stargazers_count": 80,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "humzakh/HK-Morphe-Patches",
     "stargazers_count": 30,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 1
   },
   {
@@ -73,91 +79,91 @@
   },
   {
     "full_name": "FoundationAgents/OpenManus",
-    "stargazers_count": 58433,
-    "open_issues_count": 459,
-    "forks_count": 10134
+    "stargazers_count": 58455,
+    "open_issues_count": 458,
+    "forks_count": 10142
   },
   {
     "full_name": "presenton/presenton",
-    "stargazers_count": 10840,
-    "open_issues_count": 24,
-    "forks_count": 1644
+    "stargazers_count": 10905,
+    "open_issues_count": 25,
+    "forks_count": 1661
   },
   {
     "full_name": "soirihiroka/shrimply",
-    "stargazers_count": 1164,
-    "open_issues_count": 15,
-    "forks_count": 65
+    "stargazers_count": 1172,
+    "open_issues_count": 14,
+    "forks_count": 66
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 22755,
-    "open_issues_count": 380,
-    "forks_count": 736
+    "stargazers_count": 22970,
+    "open_issues_count": 379,
+    "forks_count": 743
   },
   {
     "full_name": "hitarth-gg/zenshin",
     "stargazers_count": 773,
     "open_issues_count": 14,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "henrypp/simplewall",
-    "stargazers_count": 9072,
-    "open_issues_count": 143,
-    "forks_count": 661
+    "stargazers_count": 9090,
+    "open_issues_count": 142,
+    "forks_count": 663
   },
   {
     "full_name": "MrGlockenspiel/activate-linux",
-    "stargazers_count": 5969,
+    "stargazers_count": 5966,
     "open_issues_count": 38,
     "forks_count": 124
   },
   {
     "full_name": "pham-tuan-binh/watcher-mochi",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "makerspet/oomwoo",
-    "stargazers_count": 11252,
-    "open_issues_count": 3,
-    "forks_count": 707
+    "stargazers_count": 11313,
+    "open_issues_count": 4,
+    "forks_count": 714
   },
   {
     "full_name": "b-nnett/goose",
-    "stargazers_count": 2721,
+    "stargazers_count": 2720,
     "open_issues_count": 35,
-    "forks_count": 739
+    "forks_count": 741
   },
   {
     "full_name": "ryanbr/noop",
-    "stargazers_count": 1083,
-    "open_issues_count": 391,
-    "forks_count": 311
+    "stargazers_count": 1235,
+    "open_issues_count": 404,
+    "forks_count": 338
   },
   {
     "full_name": "NaviVani-dev/Swiff",
-    "stargazers_count": 279,
+    "stargazers_count": 286,
     "open_issues_count": 26,
     "forks_count": 2
   },
   {
     "full_name": "sharpemu/sharpemu",
-    "stargazers_count": 5605,
-    "open_issues_count": 186,
-    "forks_count": 512
+    "stargazers_count": 5681,
+    "open_issues_count": 238,
+    "forks_count": 519
   },
   {
     "full_name": "caamer20/Telegram-Drive",
-    "stargazers_count": 5263,
+    "stargazers_count": 5314,
     "open_issues_count": 0,
-    "forks_count": 819
+    "forks_count": 826
   },
   {
     "full_name": "danielgatis/rembg",
-    "stargazers_count": 24914,
+    "stargazers_count": 24945,
     "open_issues_count": 1,
     "forks_count": 2426
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 153,
     "open_issues_count": 3,
     "forks_count": 12
-  },
-  {
-    "full_name": "andreknieriem/open-headunit",
-    "stargazers_count": 2539,
-    "open_issues_count": 50,
-    "forks_count": 217
   }
 ]
